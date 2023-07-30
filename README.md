@@ -124,3 +124,20 @@
 
 :house: [lmms.io](https://lmms.io)  
 [:octocat:](https://github.com/LMMS/lmms) [:bookmark:](https://github.com/LMMS/lmms/releases)
+
+----
+
+### Audio
+
+#### FluidSynth
+<a href="https://repology.org/project/fluidsynth/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/fluidsynth.svg?columns=3&header=fluidsynth" alt="Packaging status" align="right">
+</a>
+
+:house: [fluidsynth.org](https://fluidsynth.org)  
+[:octocat:](https://github.com/FluidSynth/fluidsynth) [:bookmark:](https://github.com/FluidSynth/fluidsynth/releases/)
+
+<br clear="right"/>
+
+
+
