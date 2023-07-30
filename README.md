@@ -7,8 +7,9 @@
     <img src="https://repology.org/badge/vertical-allrepos/kdenlive.svg?columns=3&header=Kdenlive" alt="Packaging status" align="right">
 </a>
 
-:house: https://kdenlive.org  
-:octocat: https://invent.kde.org/multimedia/kdenlive
+:house: [kdenlive.org](https://kdenlive.org)  
+:octocat: [multimedia/kdenlive](https://invent.kde.org/multimedia/kdenlive)  
+:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
 
 <br clear="right"/>
 
@@ -18,8 +19,9 @@
     <img src="https://repology.org/badge/vertical-allrepos/shotcut.svg?columns=3&header=Shotcut" alt="Packaging status" align="right">
 </a>
 
-:house: https://shotcut.org  
-:octocat: https://github.com/mltframework/shotcut
+:house: [shotcut.org](https://shotcut.org)  
+:octocat: [mltframework/shotcut](https://github.com/mltframework/shotcut)  
+:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
 
 <br clear="right"/>
 
@@ -29,9 +31,10 @@
     <img src="https://repology.org/badge/vertical-allrepos/mlt.svg?columns=3&header=mlt" alt="Packaging status" align="right">
 </a>
 
-:house: https://mltframework.org  
-:octocat: https://github.com/mltframework/mlt
-  
+:house: [mltframework.org](https://mltframework.org)  
+:octocat: [mltframework/mlt](https://github.com/mltframework/mlt)  
+:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
+
 <br clear="right"/>
 
 </details>
@@ -43,8 +46,9 @@
     <img src="https://repology.org/badge/vertical-allrepos/ardour.svg?columns=3&header=Ardour" alt="Packaging status" align="right">
 </a>
 
-:house: https://ardour.org  
-:octocat: https://github.com/Ardour/ardour
+:house: [ardour.org](https://ardour.org)  
+:octocat: [Ardour/ardour](https://github.com/Ardour/ardour)  
+:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
 
 <br clear="right"/>
 
@@ -55,6 +59,6 @@
     <img src="https://repology.org/badge/vertical-allrepos/lmms.svg?columns=3&header=LMMS" alt="Packaging status" align="right">
 </a>
 
-:house: https://lmms.io  
-:octocat: https://github.com/LMMS/lmms
-
+:house: [lmms.io](https://lmms.io)  
+:octocat: [LMMS/lmms](https://github.com/LMMS/lmms)  
+:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
