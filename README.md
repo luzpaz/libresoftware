@@ -9,7 +9,7 @@
 
 :house: [kdenlive.org](https://kdenlive.org)  
 :octocat: [multimedia/kdenlive](https://invent.kde.org/multimedia/kdenlive)  
-:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
+:bookmark: [Changelog](https://kdenlive.org/en/blog/)
 
 <br clear="right"/>
 
@@ -21,7 +21,7 @@
 
 :house: [shotcut.org](https://shotcut.org)  
 :octocat: [mltframework/shotcut](https://github.com/mltframework/shotcut)  
-:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
+:bookmark: [Changelog](https://www.shotcut.org/download/releasenotes/)
 
 <br clear="right"/>
 
@@ -37,6 +37,18 @@
 
 <br clear="right"/>
 
+----
+
+<a href="https://repology.org/project/ffmpeg/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg?columns=3&header=ffmpeg" alt="Packaging status" align="right">
+</a>
+
+:house: [ffmpeg.org](https://ffmpeg.org)  
+:octocat: [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)  
+:bookmark: [Changelog](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+
+<br clear="right"/>
+
 </details>
 
 ### DAWs
@@ -48,7 +60,7 @@
 
 :house: [ardour.org](https://ardour.org)  
 :octocat: [Ardour/ardour](https://github.com/Ardour/ardour)  
-:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
+:bookmark: [Changelog](http://ardour.org/whatsnew.html)
 
 <br clear="right"/>
 
@@ -61,4 +73,4 @@
 
 :house: [lmms.io](https://lmms.io)  
 :octocat: [LMMS/lmms](https://github.com/LMMS/lmms)  
-:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
+:bookmark: [Changelog](https://github.com/LMMS/lmms/releases)
