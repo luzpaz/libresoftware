@@ -14,7 +14,7 @@
 
 #### Flowblade
 <a href="https://repology.org/project/flowblade/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/flowblade.svg?columns=3&header=FLowblade" alt="Packaging status" align="right">
+    <img src="https://repology.org/badge/vertical-allrepos/flowblade.svg?columns=3&header=Flowblade" alt="Packaging status" align="right">
 </a>
 
 :house: [github.io/flowblade](https://jliljebl.github.io/flowblade/)  
