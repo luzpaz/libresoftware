@@ -125,6 +125,8 @@
 :house: [lmms.io](https://lmms.io)  
 [:octocat:](https://github.com/LMMS/lmms) [:bookmark:](https://github.com/LMMS/lmms/releases)
 
+<br clear="right"/>
+
 ----
 
 ### Audio
@@ -138,6 +140,4 @@
 [:octocat:](https://github.com/FluidSynth/fluidsynth) [:bookmark:](https://github.com/FluidSynth/fluidsynth/releases/)
 
 <br clear="right"/>
-
-
 
