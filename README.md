@@ -49,6 +49,55 @@
 
 <br clear="right"/>
 
+----
+
+<a href="https://repology.org/project/libsndfile/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/libsndfile.svg?columns=3&header=libsndfile" alt="Packaging status" align="right">
+</a>
+
+:house: [github.io/libsndfile](https://libsndfile.github.io/libsndfile/)   
+:octocat: [libsndfile/libsndfile](https://github.com/libsndfile/libsndfile)  
+:bookmark: [Changelog](https://github.com/libsndfile/libsndfile/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
+
+----
+
+<a href="https://repology.org/project/libsound/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/libsound.svg?columns=3&header=libsound" alt="Packaging status" align="right">
+</a>
+
+:house: [libsound.io](http://libsound.io/)  
+:octocat: [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio)  
+:bookmark: [Changelog]()
+
+<br clear="right"/>
+
+----
+
+<a href="https://repology.org/project/ffmpeg/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg?columns=3&header=ffmpeg" alt="Packaging status" align="right">
+</a>
+
+:house: [ffmpeg.org](https://ffmpeg.org)  
+:octocat: [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)  
+:bookmark: [Changelog](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+
+<br clear="right"/>
+
+----
+
+<a href="https://repology.org/project/ffmpeg/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg?columns=3&header=ffmpeg" alt="Packaging status" align="right">
+</a>
+
+:house: [ffmpeg.org](https://ffmpeg.org)  
+:octocat: [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)  
+:bookmark: [Changelog](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+
+<br clear="right"/>
+
+
 </details>
 
 ### DAWs
