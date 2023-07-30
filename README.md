@@ -12,6 +12,16 @@
 
 <br clear="right"/>
 
+#### Flowblade
+<a href="https://repology.org/project/flowblade/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/flowblade.svg?columns=3&header=FLowblade" alt="Packaging status" align="right">
+</a>
+
+:house: [github.io/flowblade](https://jliljebl.github.io/flowblade/)  
+[:octocat:](https://github.com/jliljebl/flowblade) [:bookmark:](https://github.com/jliljebl/flowblade/blob/master/flowblade-trunk/docs/RELEASE_NOTES.md)
+
+<br clear="right"/>
+
 
 #### Shotcut
 <a href="https://repology.org/project/shotcut/versions">
