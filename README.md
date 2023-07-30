@@ -68,8 +68,8 @@
 
 ----
 
-<a href="https://repology.org/project/libsound/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/libsound.svg?columns=3&header=libsound" alt="Packaging status" align="right">
+<a href="https://repology.org/project/libsoundio/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/libsoundio.svg?columns=3&header=libsoundio" alt="Packaging status" align="right">
 </a>
 
 :house: [libsound.io](http://libsound.io/)  
@@ -140,4 +140,20 @@
 [:octocat:](https://github.com/FluidSynth/fluidsynth) [:bookmark:](https://github.com/FluidSynth/fluidsynth/releases/)
 
 <br clear="right"/>
+
+----
+
+### Video misc.
+
+#### frei0r
+<a href="https://repology.org/project/frei0r/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/frei0r.svg?columns=3&header=frei0r" alt="Packaging status" align="right">
+</a>
+
+:house: [frei0r.dyne.org](https://frei0r.dyne.org)  
+[:octocat:](https://github.com/dyne/frei0r) [:bookmark:](https://github.com/dyne/frei0r/releases)
+
+<br clear="right"/>
+
+
 
