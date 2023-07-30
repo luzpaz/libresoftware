@@ -8,8 +8,7 @@
 </a>
 
 :house: [kdenlive.org](https://kdenlive.org)  
-:octocat: [multimedia/kdenlive](https://invent.kde.org/multimedia/kdenlive)  
-:bookmark: [Changelog](https://kdenlive.org/en/blog/)
+[:octocat:](https://invent.kde.org/multimedia/kdenlive) [:bookmark:](https://kdenlive.org/en/blog/)
 
 <br clear="right"/>
 
@@ -20,8 +19,7 @@
 </a>
 
 :house: [shotcut.org](https://shotcut.org)  
-:octocat: [mltframework/shotcut](https://github.com/mltframework/shotcut)  
-:bookmark: [Changelog](https://www.shotcut.org/download/releasenotes/)
+[:octocat:](https://github.com/mltframework/shotcut) [:bookmark:](https://www.shotcut.org/download/releasenotes/)
 
 <br clear="right"/>
 
@@ -32,8 +30,7 @@
 </a>
 
 :house: [mltframework.org](https://mltframework.org)  
-:octocat: [mltframework/mlt](https://github.com/mltframework/mlt)  
-:bookmark: [Changelog](https://github.com/mltframework/mlt/blob/master/NEWS)
+[:octocat:](https://github.com/mltframework/mlt) [:bookmark:](https://github.com/mltframework/mlt/blob/master/NEWS)
 
 <br clear="right"/>
 
@@ -44,8 +41,7 @@
 </a>
 
 :house: [ffmpeg.org](https://ffmpeg.org)  
-:octocat: [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)  
-:bookmark: [Changelog](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+[:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
 
 <br clear="right"/>
 
@@ -56,8 +52,7 @@
 </a>
 
 :house: [github.io/libsndfile](https://libsndfile.github.io/libsndfile/)   
-:octocat: [libsndfile/libsndfile](https://github.com/libsndfile/libsndfile)  
-:bookmark: [Changelog](https://github.com/libsndfile/libsndfile/blob/master/CHANGELOG.md)
+[:octocat:](https://github.com/libsndfile/libsndfile) [:bookmark:](https://github.com/libsndfile/libsndfile/blob/master/CHANGELOG.md)
 
 <br clear="right"/>
 
@@ -68,8 +63,8 @@
 </a>
 
 :house: [libsound.io](http://libsound.io/)  
-:octocat: [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio)  
-:bookmark: [Changelog]()
+[:octocat:](https://github.com/andrewrk/libsoundio)  
+[:bookmark:]()
 
 <br clear="right"/>
 
@@ -80,8 +75,7 @@
 </a>
 
 :house: [ffmpeg.org](https://ffmpeg.org)  
-:octocat: [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)  
-:bookmark: [Changelog](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+[:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
 
 <br clear="right"/>
 
@@ -92,8 +86,7 @@
 </a>
 
 :house: [ffmpeg.org](https://ffmpeg.org)  
-:octocat: [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)  
-:bookmark: [Changelog](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+[:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
 
 <br clear="right"/>
 
@@ -108,8 +101,7 @@
 </a>
 
 :house: [ardour.org](https://ardour.org)  
-:octocat: [Ardour/ardour](https://github.com/Ardour/ardour)  
-:bookmark: [Changelog](http://ardour.org/whatsnew.html)
+[:octocat:](https://github.com/Ardour/ardour) [:bookmark:](http://ardour.org/whatsnew.html)
 
 <br clear="right"/>
 
@@ -121,5 +113,4 @@
 </a>
 
 :house: [lmms.io](https://lmms.io)  
-:octocat: [LMMS/lmms](https://github.com/LMMS/lmms)  
-:bookmark: [Changelog](https://github.com/LMMS/lmms/releases)
+[:octocat:](https://github.com/LMMS/lmms) [:bookmark:](https://github.com/LMMS/lmms/releases)
