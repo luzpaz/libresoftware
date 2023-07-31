@@ -121,7 +121,7 @@
 #### BespokeSynth
 
 <a href="https://repology.org/project/bespokesynth/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/bespokesynth.svg?columns=3&header=fluidsynth" alt="Packaging status" align="right">" alt="Packaging status">
+    <img src="https://repology.org/badge/vertical-allrepos/bespokesynth.svg?columns=3&header=bespokesynth" alt="Packaging status" align="right">
 </a>
 
 [:house:]([https://fluidsynth.org](https://www.bespokesynth.com/)) [:octocat:]([https://github.com/FluidSynth/fluidsynth](https://github.com/BespokeSynth/BespokeSynth)) [:bookmark:](https://github.com/BespokeSynth/BespokeSynth/blob/main/CHANGELOG.md)
