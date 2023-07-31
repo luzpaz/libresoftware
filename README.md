@@ -137,6 +137,15 @@
 
 <br clear="right"/>
 
+#### Surge
+<a href="https://repology.org/project/surge/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=surge" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/surge-synthesizer/surge) [:bookmark:](https://surge-synthesizer.github.io/changelog/)
+
+<br clear="right"/>
+
 ----
 
 ### Video misc.
