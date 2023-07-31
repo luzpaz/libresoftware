@@ -7,8 +7,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/kdenlive.svg?columns=3&header=Kdenlive" alt="Packaging status" align="right">
 </a>
 
-:house: [kdenlive.org](https://kdenlive.org)  
-[:octocat:](https://invent.kde.org/multimedia/kdenlive) [:bookmark:](https://kdenlive.org/en/blog/)
+[:house:](https://kdenlive.org) [:octocat:](https://invent.kde.org/multimedia/kdenlive) [:bookmark:](https://kdenlive.org/en/blog/)
 
 <br clear="right"/>
 
@@ -17,19 +16,16 @@
     <img src="https://repology.org/badge/vertical-allrepos/flowblade.svg?columns=3&header=Flowblade" alt="Packaging status" align="right">
 </a>
 
-:house: [github.io/flowblade](https://jliljebl.github.io/flowblade/)  
-[:octocat:](https://github.com/jliljebl/flowblade) [:bookmark:](https://github.com/jliljebl/flowblade/blob/master/flowblade-trunk/docs/RELEASE_NOTES.md)
+[:house:](https://jliljebl.github.io/flowblade/) [:octocat:](https://github.com/jliljebl/flowblade) [:bookmark:](https://github.com/jliljebl/flowblade/blob/master/flowblade-trunk/docs/RELEASE_NOTES.md)
 
 <br clear="right"/>
-
 
 #### Shotcut
 <a href="https://repology.org/project/shotcut/versions">
     <img src="https://repology.org/badge/vertical-allrepos/shotcut.svg?columns=3&header=Shotcut" alt="Packaging status" align="right">
 </a>
 
-:house: [shotcut.org](https://shotcut.org)  
-[:octocat:](https://github.com/mltframework/shotcut) [:bookmark:](https://www.shotcut.org/download/releasenotes/)
+[:house:](https://shotcut.org) [:octocat:](https://github.com/mltframework/shotcut) [:bookmark:](https://www.shotcut.org/download/releasenotes/)
 
 <br clear="right"/>
 
@@ -39,8 +35,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/mlt.svg?columns=3&header=mlt" alt="Packaging status" align="right">
 </a>
 
-:house: [mltframework.org](https://mltframework.org)  
-[:octocat:](https://github.com/mltframework/mlt) [:bookmark:](https://github.com/mltframework/mlt/blob/master/NEWS)
+[:house:](https://mltframework.org) [:octocat:](https://github.com/mltframework/mlt) [:bookmark:](https://github.com/mltframework/mlt/blob/master/NEWS)
 
 <br clear="right"/>
 
@@ -50,8 +45,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg?columns=3&header=ffmpeg" alt="Packaging status" align="right">
 </a>
 
-:house: [ffmpeg.org](https://ffmpeg.org)  
-[:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+[:house:](https://ffmpeg.org) [:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
 
 <br clear="right"/>
 
@@ -61,8 +55,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/libsndfile.svg?columns=3&header=libsndfile" alt="Packaging status" align="right">
 </a>
 
-:house: [github.io/libsndfile](https://libsndfile.github.io/libsndfile/)   
-[:octocat:](https://github.com/libsndfile/libsndfile) [:bookmark:](https://github.com/libsndfile/libsndfile/blob/master/CHANGELOG.md)
+[:house:](https://libsndfile.github.io/libsndfile/) [:octocat:](https://github.com/libsndfile/libsndfile) [:bookmark:](https://github.com/libsndfile/libsndfile/blob/master/CHANGELOG.md)
 
 <br clear="right"/>
 
@@ -72,8 +65,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/libsoundio.svg?columns=3&header=libsoundio" alt="Packaging status" align="right">
 </a>
 
-:house: [libsound.io](http://libsound.io/)  
-[:octocat:](https://github.com/andrewrk/libsoundio)  
+[:house:](http://libsound.io/) [:octocat:](https://github.com/andrewrk/libsoundio)  
 [:bookmark:]()
 
 <br clear="right"/>
@@ -84,8 +76,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg?columns=3&header=ffmpeg" alt="Packaging status" align="right">
 </a>
 
-:house: [ffmpeg.org](https://ffmpeg.org)  
-[:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+[:house:](https://ffmpeg.org) [:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
 
 <br clear="right"/>
 
@@ -95,11 +86,9 @@
     <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg?columns=3&header=ffmpeg" alt="Packaging status" align="right">
 </a>
 
-:house: [ffmpeg.org](https://ffmpeg.org)  
-[:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+[:house:](https://ffmpeg.org) [:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
 
 <br clear="right"/>
-
 
 </details>
 
@@ -110,8 +99,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/ardour.svg?columns=3&header=Ardour" alt="Packaging status" align="right">
 </a>
 
-:house: [ardour.org](https://ardour.org)  
-[:octocat:](https://github.com/Ardour/ardour) [:bookmark:](http://ardour.org/whatsnew.html)
+[:house:](https://ardour.org) [:octocat:](https://github.com/Ardour/ardour) [:bookmark:](http://ardour.org/whatsnew.html)
 
 <br clear="right"/>
 
@@ -122,8 +110,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/lmms.svg?columns=3&header=LMMS" alt="Packaging status" align="right">
 </a>
 
-:house: [lmms.io](https://lmms.io)  
-[:octocat:](https://github.com/LMMS/lmms) [:bookmark:](https://github.com/LMMS/lmms/releases)
+[:house:](https://lmms.io) [:octocat:](https://github.com/LMMS/lmms) [:bookmark:](https://github.com/LMMS/lmms/releases)
 
 <br clear="right"/>
 
@@ -136,8 +123,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/fluidsynth.svg?columns=3&header=fluidsynth" alt="Packaging status" align="right">
 </a>
 
-:house: [fluidsynth.org](https://fluidsynth.org)  
-[:octocat:](https://github.com/FluidSynth/fluidsynth) [:bookmark:](https://github.com/FluidSynth/fluidsynth/releases/)
+[:house:](https://fluidsynth.org) [:octocat:](https://github.com/FluidSynth/fluidsynth) [:bookmark:](https://github.com/FluidSynth/fluidsynth/releases/)
 
 <br clear="right"/>
 
@@ -150,10 +136,8 @@
     <img src="https://repology.org/badge/vertical-allrepos/frei0r.svg?columns=3&header=frei0r" alt="Packaging status" align="right">
 </a>
 
-:house: [frei0r.dyne.org](https://frei0r.dyne.org)  
-[:octocat:](https://github.com/dyne/frei0r) [:bookmark:](https://github.com/dyne/frei0r/releases)
+[:house:](https://frei0r.dyne.org) [:octocat:](https://github.com/dyne/frei0r) [:bookmark:](https://github.com/dyne/frei0r/releases)
 
 <br clear="right"/>
-
 
 
