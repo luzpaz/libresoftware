@@ -127,6 +127,10 @@
 
 ----
 
+Qtractor
+
+----
+
 #### Rosegarden
 <a href="https://repology.org/project/rosegarden/versions">
     <img src="https://repology.org/badge/vertical-allrepos/rosegarden.svg?columns=3&header=rosegarden" alt="Packaging status" align="right">
