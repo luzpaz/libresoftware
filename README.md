@@ -127,6 +127,17 @@
 
 ----
 
+#### Rosegarden
+<a href="https://repology.org/project/rosegarden/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/rosegarden.svg?columns=3&header=rosegarden" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://rosegardenmusic.com/) [:octocat:](https://github.com/tedfelix/rosegarden-official) [:bookmark:](https://sourceforge.net/p/rosegarden/git/ci/master/tree/CHANGELOG)
+
+<br clear="right"/>
+
+----
+
 ### Audio
 
 #### BespokeSynth
