@@ -190,6 +190,13 @@
 
 <br clear="right"/>
 
+### Music Notation
+
+lilypond  
+https://lilypond.org  
+https://gitlab.com/lilypond/lilypond  
+
+musescore
 
 ### Video misc.
 
