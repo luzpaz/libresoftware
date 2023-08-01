@@ -176,6 +176,8 @@ Qtractor
 
 ### Audio misc.
 
+hydrogen-drum-machine
+
 #### master_me
 <a href="https://repology.org/project/master-me/versions">
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=master-me" alt="Packaging status" align="right">
