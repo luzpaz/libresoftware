@@ -142,9 +142,19 @@
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=surge" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/surge-synthesizer/surge) [:bookmark:](https://surge-synthesizer.github.io/changelog/)
+[:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/muse-sequencer/muse) [:bookmark:](https://surge-synthesizer.github.io/changelog/)
 
 <br clear="right"/>
+
+#### Muse Sequencer
+<a href="https://repology.org/project/muse-sequencer/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/muse-sequencer.svg?columns=3&header=muse-sequencer" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://muse-sequencer.github.io/) [:octocat:](https://github.com/surge-synthesizer/surge) [:bookmark:](https://github.com/muse-sequencer/muse/wiki/News)
+
+<br clear="right"/>
+
 
 ----
 
@@ -159,9 +169,15 @@
 
 <br clear="right"/>
 
-element-audio-plugin-host  
-https://gitlab.com/kushview/element  
-https://kushview.net/element/  
+#### element
+<a href="https://repology.org/project/element-audio-plugin-host/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/element-audio-plugin-host.svg?columns=3&header=element" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://kushview.net/element/) [:octocat:](https://gitlab.com/kushview/element) [:bookmark:](https://gitlab.com/kushview/element/-/releases)
+
+<br clear="right"/>
+
 
 ### Video misc.
 
