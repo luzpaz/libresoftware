@@ -148,6 +148,21 @@
 
 ----
 
+### Audio misc.
+
+#### master_me
+<a href="https://repology.org/project/master-me/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=master-me" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/trummerschlunk/master_me) [:octocat:](https://github.com/trummerschlunk/master_me) [:bookmark:](https://github.com/trummerschlunk/master_me/releases)
+
+<br clear="right"/>
+
+element-audio-plugin-host  
+https://gitlab.com/kushview/element  
+https://kushview.net/element/  
+
 ### Video misc.
 
 #### frei0r
