@@ -20,6 +20,17 @@
 
 <br clear="right"/>
 
+#### Pitivi
+<a href="https://repology.org/project/pitivi/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/pitivi.svg?columns=3&header=Pitivi" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://pitivi.org) [:octocat:](https://gitlab.gnome.org/GNOME/pitivi) [:bookmark:](https://gitlab.gnome.org/GNOME/pitivi/-/blob/master/NEWS)
+
+<br clear="right"/>
+
+
+
 #### Shotcut
 <a href="https://repology.org/project/shotcut/versions">
     <img src="https://repology.org/badge/vertical-allrepos/shotcut.svg?columns=3&header=Shotcut" alt="Packaging status" align="right">
