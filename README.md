@@ -141,7 +141,17 @@
 Qtractor
 
 ----
+#### Ossia-Score
+<a href="https://repology.org/project/ossia-score/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ossia-score.svg?columns=3&header=ossia-score" alt="Packaging status" align="right">
+</a>
 
+[:house:](https://ossia.io/) [:octocat:](https://github.com/ossia/score) [:bookmark:](https://github.com/ossia/score/releases)
+
+<br clear="right"/>
+
+
+----
 #### Rosegarden
 <a href="https://repology.org/project/rosegarden/versions">
     <img src="https://repology.org/badge/vertical-allrepos/rosegarden.svg?columns=3&header=rosegarden" alt="Packaging status" align="right">
