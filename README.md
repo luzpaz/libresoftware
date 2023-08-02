@@ -163,6 +163,16 @@ Qtractor
 
 ----
 
+#### Zrythm
+<a href="https://repology.org/project/zrythm/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/zrythm.svg?columns=3&header=Zrythm" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.zrythm.org/) [:octocat:](https://git.sr.ht/~alextee/zrythm) [:bookmark:](https://git.sr.ht/~alextee/zrythm/tree/master/item/CHANGELOG.md)
+
+<br clear="right"/>
+
+----
 ### Audio
 
 #### BespokeSynth
