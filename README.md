@@ -207,7 +207,24 @@ Qtractor
 
 ### Audio misc.
 
-hydrogen-drum-machine
+#### giada
+<a href="https://repology.org/project/giada/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/giada.svg?columns=3&header=giada" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.giadamusic.com/) [:octocat:](https://github.com/monocasual/giada) [:bookmark:](https://github.com/monocasual/giada/blob/master/ChangeLog)
+
+<br clear="right"/>
+
+
+#### Hydrogen
+<a href="https://repology.org/project/hydrogen-drum-machine/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/hydrogen-drum-machine.svg?columns=3&header=hydrogen" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://www.hydrogen-music.org/) [:octocat:](https://github.com/hydrogen-music/hydrogen) [:bookmark:](https://github.com/hydrogen-music/hydrogen/blob/master/ChangeLog)
+
+<br clear="right"/>
 
 #### master_me
 <a href="https://repology.org/project/master-me/versions">
@@ -229,11 +246,23 @@ hydrogen-drum-machine
 
 ### Music Notation
 
-lilypond  
-https://lilypond.org  
-https://gitlab.com/lilypond/lilypond  
+#### lilypond
+<a href="https://repology.org/project/lilypond/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/lilypond.svg?columns=3&header=lilypond" alt="Packaging status" align="right">
+</a>
 
-musescore
+[:house:](https://lilypond.org) [:octocat:](https://gitlab.com/lilypond/lilypond) [:bookmark:](http://lilypond.org/news.html)
+
+<br clear="right"/>
+
+#### musescore
+<a href="https://repology.org/project/musescore/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/musescore.svg?columns=3&header=musescore" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://musescore.org) [:octocat:](https://github.com/musescore/MuseScore) [:bookmark:](https://musescore.org/en/handbook/developers-handbook/release-notes)
+
+<br clear="right"/>  
 
 ### Video misc.
 
