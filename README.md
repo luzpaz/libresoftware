@@ -207,6 +207,16 @@ Qtractor
 
 ### Audio misc.
 
+#### Carla
+<a href="https://repology.org/project/carla/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/carla.svg?columns=3&header=carla" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://kx.studio/Applications:Carla) [:octocat:](https://github.com/falkTX/Carla) [:bookmark:](https://github.com/falkTX/Carla/releases)
+
+<br clear="right"/>
+
+
 #### giada
 <a href="https://repology.org/project/giada/versions">
     <img src="https://repology.org/badge/vertical-allrepos/giada.svg?columns=3&header=giada" alt="Packaging status" align="right">
