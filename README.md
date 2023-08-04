@@ -236,6 +236,15 @@ Qtractor
 
 <br clear="right"/>
 
+#### jacktrip
+<a href="https://repology.org/project/jacktrip/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/jacktrip.svg?columns=3&header=jacktrip" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://jacktrip.github.io/jacktrip) [:octocat:](https://github.com/jacktrip/jacktrip) [:bookmark:](https://github.com/jacktrip/jacktrip/blob/main/docs/changelog.yml)
+
+<br clear="right"/>
+
 #### master_me
 <a href="https://repology.org/project/master-me/versions">
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=master-me" alt="Packaging status" align="right">
