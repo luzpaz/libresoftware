@@ -203,6 +203,15 @@ Qtractor
 
 <br clear="right"/>
 
+#### vcvrack
+<a href="https://repology.org/project/vcvrack/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/vcvrack.svg?columns=3&header=vcvrack" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://vcvrack.com/Rack) [:octocat:](https://github.com/VCVRack/Rack) [:bookmark:](https://github.com/VCVRack/Rack/blob/v2/CHANGELOG.md)
+
+<br clear="right"/>
+
 ----
 
 ### Audio misc.
