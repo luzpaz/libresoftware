@@ -137,8 +137,14 @@
 <br clear="right"/>
 
 ----
+#### Qtractor
+<a href="https://repology.org/project/qtractor/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/qtractor.svg?columns=3&header=Qtractor" alt="Packaging status" align="right">
+</a>
 
-Qtractor
+[:house:](https://qtractor.org/) [:octocat:](https://sourceforge.net/p/qtractor/code) [:bookmark:](https://sourceforge.net/p/qtractor/code/ci/master/tree/ChangeLog)
+
+<br clear="right"/>
 
 ----
 #### Ossia-Score
@@ -225,6 +231,14 @@ Qtractor
 
 <br clear="right"/>
 
+#### geonkick
+<a href="https://repology.org/project/geonkick/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/geonkick.svg?columns=3&header=geonkick" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/free-sm/geonkick) [:octocat:](https://github.com/free-sm/geonkick) [:bookmark:](https://github.com/free-sm/geonkick/blob/main/NEWS.md)
+
+<br clear="right"/>
 
 #### giada
 <a href="https://repology.org/project/giada/versions">
