@@ -236,7 +236,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/geonkick.svg?columns=3&header=geonkick" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://github.com/free-sm/geonkick) [:octocat:](https://github.com/free-sm/geonkick) [:bookmark:](https://github.com/free-sm/geonkick/blob/main/NEWS.md)
+[:house:](https://geonkick.org/) [:octocat:](https://github.com/Geonkick-Synthesizer/geonkick) [:bookmark:](https://github.com/Geonkick-Synthesizer/geonkick/blob/main/NEWS.md)
 
 <br clear="right"/>
 
