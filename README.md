@@ -132,7 +132,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/muse-sequencer.svg?columns=3&header=muse-sequencer" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://muse-sequencer.github.io/) [:octocat:](https://github.com/surge-synthesizer/surge) [:bookmark:](https://github.com/muse-sequencer/muse/wiki/News)
+[:house:](https://muse-sequencer.github.io/) [:octocat:](https://github.com/muse-sequencer/muse) [:bookmark:](https://github.com/muse-sequencer/muse/wiki/News)
 
 <br clear="right"/>
 
@@ -205,7 +205,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=surge" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/muse-sequencer/muse) [:bookmark:](https://surge-synthesizer.github.io/changelog/)
+[:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/surge-synthesizer/surge) [:bookmark:](https://surge-synthesizer.github.io/changelog/)
 
 <br clear="right"/>
 
