@@ -200,6 +200,15 @@
 
 <br clear="right"/>
 
+#### mixxx
+<a href="https://repology.org/project/mixxx/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/mixxx.svg?columns=3&header=mixxx" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/mixxxdj/mixxx) [:bookmark:](https://github.com/mixxxdj/mixxx/blob/main/CHANGELOG.md)
+
+<br clear="right"/>
+
 #### Surge
 <a href="https://repology.org/project/surge/versions">
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=surge" alt="Packaging status" align="right">
