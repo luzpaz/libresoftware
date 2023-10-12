@@ -231,6 +231,15 @@
 
 ### Audio misc.
 
+#### Audacity
+<a href="https://repology.org/project/audacity/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/audacity.svg?columns=3&header=audacity" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.audacityteam.org/) [:octocat:](https://github.com/audacity/audacity) [:bookmark:](https://github.com/audacity/audacity/blob/master/CHANGELOG.txt)
+
+<br clear="right"/>
+
 #### Carla
 <a href="https://repology.org/project/carla/versions">
     <img src="https://repology.org/badge/vertical-allrepos/carla.svg?columns=3&header=carla" alt="Packaging status" align="right">
