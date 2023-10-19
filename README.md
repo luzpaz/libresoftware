@@ -295,6 +295,16 @@
 
 <br clear="right"/>
 
+#### rubberband
+<a href="https://repology.org/project/rubberband/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/rubberband.svg?columns=3&header=rubberband" alt="Packaging status" align="right">
+</a>
+
+[:house:]https://www.breakfastquay.com/rubberband/) [:octocat:](https://github.com/breakfastquay/rubberband) [:bookmark:](https://github.com/breakfastquay/rubberband/blob/default/CHANGELOG)
+
+<br clear="right"/>
+
+
 #### element
 <a href="https://repology.org/project/element-audio-plugin-host/versions">
     <img src="https://repology.org/badge/vertical-allrepos/element-audio-plugin-host.svg?columns=3&header=element" alt="Packaging status" align="right">
