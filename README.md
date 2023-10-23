@@ -295,7 +295,7 @@
 
 <br clear="right"/>
 
-#### raysesion
+#### raysession
 <a href="https://repology.org/project/raysesion/versions">
     <img src="https://repology.org/badge/vertical-allrepos/raysession.svg?columns=3&header=raysession" alt="Packaging status" align="right">
 </a>
