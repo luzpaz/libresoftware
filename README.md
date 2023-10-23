@@ -295,6 +295,15 @@
 
 <br clear="right"/>
 
+#### raysesion
+<a href="https://repology.org/project/raysesion/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/raysesion.svg?columns=3&header=raysesion" alt="Packaging status" align="right">
+</a>
+
+[:house:]https://raysession.tuxfamily.org/en/) [:octocat:](https://github.com/Houston4444/RaySession) [:bookmark:](https://github.com/Houston4444/RaySession/blob/master/CHANGELOG)
+
+<br clear="right"/>
+
 #### rubberband
 <a href="https://repology.org/project/rubberband/versions">
     <img src="https://repology.org/badge/vertical-allrepos/rubberband.svg?columns=3&header=rubberband" alt="Packaging status" align="right">
