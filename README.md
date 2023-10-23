@@ -297,10 +297,10 @@
 
 #### raysesion
 <a href="https://repology.org/project/raysesion/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/raysesion.svg?columns=3&header=raysesion" alt="Packaging status" align="right">
+    <img src="https://repology.org/badge/vertical-allrepos/raysession.svg?columns=3&header=raysession" alt="Packaging status" align="right">
 </a>
 
-[:house:]https://raysession.tuxfamily.org/en/) [:octocat:](https://github.com/Houston4444/RaySession) [:bookmark:](https://github.com/Houston4444/RaySession/blob/master/CHANGELOG)
+[:house:](https://raysession.tuxfamily.org/en/) [:octocat:](https://github.com/Houston4444/RaySession) [:bookmark:](https://github.com/Houston4444/RaySession/blob/master/CHANGELOG)
 
 <br clear="right"/>
 
@@ -309,7 +309,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/rubberband.svg?columns=3&header=rubberband" alt="Packaging status" align="right">
 </a>
 
-[:house:]https://www.breakfastquay.com/rubberband/) [:octocat:](https://github.com/breakfastquay/rubberband) [:bookmark:](https://github.com/breakfastquay/rubberband/blob/default/CHANGELOG)
+[:house:](https://www.breakfastquay.com/rubberband/) [:octocat:](https://github.com/breakfastquay/rubberband) [:bookmark:](https://github.com/breakfastquay/rubberband/blob/default/CHANGELOG)
 
 <br clear="right"/>
 
