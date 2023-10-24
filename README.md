@@ -240,6 +240,15 @@
 
 <br clear="right"/>
 
+#### Cardinal
+<a href="https://repology.org/project/cardinal/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/cardinal.svg?columns=3&header=cardinal" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://cardinal.kx.studio/) [:octocat:](https://github.com/DISTRHO/Cardinal/) [:bookmark:](https://github.com/DISTRHO/Cardinal/releases)
+
+<br clear="right"/>
+
 #### Carla
 <a href="https://repology.org/project/carla/versions">
     <img src="https://repology.org/badge/vertical-allrepos/carla.svg?columns=3&header=carla" alt="Packaging status" align="right">
