@@ -8,6 +8,15 @@
 
 <br clear="right"/>
 
+#### digikam
+<a href="https://repology.org/project/digikam/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/digikam.svg?columns=3&header=digikam" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://digikam.org/) [:octocat:](https://invent.kde.org/graphics/digikam) [:bookmark:](https://invent.kde.org/graphics/digikam/-/commits/master)
+
+<br clear="right"/>
+
 #### gimp
 <a href="https://repology.org/project/gimp/versions">
     <img src="https://repology.org/badge/vertical-allrepos/gimp.svg?columns=3&header=gimp" alt="Packaging status" align="right">
