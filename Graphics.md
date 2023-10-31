@@ -7,6 +7,7 @@
 [:house:](https://darktable.org) [:octocat:](https://github.com/darktable-org/darktable) [:bookmark:](https://github.com/darktable-org/darktable/blob/master/RELEASE_NOTES.md)
 
 <br clear="right"/>
+
 #### gimp
 <a href="https://repology.org/project/gimp/versions">
     <img src="https://repology.org/badge/vertical-allrepos/gimp.svg?columns=3&header=gimp" alt="Packaging status" align="right">
