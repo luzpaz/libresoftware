@@ -66,8 +66,8 @@
 <br clear="right"/>
 
 #### FreeCAD
-<a href="https://repology.org/project/rawtherapee/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/rawtherapee.svg?columns=3&header=rawtherapee" alt="Packaging status" align="right">
+<a href="https://repology.org/project/freecad/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/freecad.svg?columns=3&header=FreeCAD" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://freecad.org) [:octocat:](https://github.com/FreeCAD/FreeCAD) [:bookmark:](https://github.com/FreeCAD/FreeCAD/commits/main)
