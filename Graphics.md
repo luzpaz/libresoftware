@@ -17,6 +17,15 @@
 
 <br clear="right"/>
 
+#### gmic
+<a href="https://repology.org/project/gmic/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gmic.svg?columns=3&header=gmic" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://gmic.eu) [:octocat:](https://github.com/GreycLab/gmic) [:bookmark:](https://discuss.pixls.us/tag/changelog)
+
+<br clear="right"/>
+
 #### inkscape
 <a href="https://repology.org/project/inkscape/versions">
     <img src="https://repology.org/badge/vertical-allrepos/inkscape.svg?columns=3&header=inkscape" alt="Packaging status" align="right">
