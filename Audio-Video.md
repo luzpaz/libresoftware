@@ -20,6 +20,15 @@
 
 <br clear="right"/>
 
+#### Natron
+<a href="https://repology.org/project/natron/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/natron.svg?columns=3&header=Natron" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://natrongithub.github.io/) [:octocat:](https://github.com/NatronGitHub/Natron) [:bookmark:](https://github.com/NatronGitHub/Natron/blob/RB-2.5/CHANGELOG.md)
+
+<br clear="right"/>
+
 #### Pitivi
 <a href="https://repology.org/project/pitivi/versions">
     <img src="https://repology.org/badge/vertical-allrepos/pitivi.svg?columns=3&header=Pitivi" alt="Packaging status" align="right">
@@ -28,8 +37,6 @@
 [:house:](https://pitivi.org) [:octocat:](https://gitlab.gnome.org/GNOME/pitivi) [:bookmark:](https://gitlab.gnome.org/GNOME/pitivi/-/blob/master/NEWS)
 
 <br clear="right"/>
-
-
 
 #### Shotcut
 <a href="https://repology.org/project/shotcut/versions">
