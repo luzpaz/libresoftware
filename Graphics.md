@@ -52,3 +52,24 @@
 [:house:](https://rawtherapee.com) [:octocat:](https://github.com/Beep6581/RawTherapee) [:bookmark:](https://github.com/Beep6581/RawTherapee/blob/dev/RELEASE_NOTES.txt)
 
 <br clear="right"/>
+
+
+----
+
+#### Blender
+<a href="https://repology.org/project/blender/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/blender.svg?columns=3&header=Blender" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://blender.org) [:octocat:](https://projects.blender.org/blender/blender) [:bookmark:](https://www.blender.org/download/releases/)
+
+<br clear="right"/>
+
+#### FreeCAD
+<a href="https://repology.org/project/rawtherapee/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/rawtherapee.svg?columns=3&header=rawtherapee" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://freecad.org) [:octocat:](https://github.com/FreeCAD/FreeCAD) [:bookmark:](https://github.com/FreeCAD/FreeCAD/commits/main)
+
+<br clear="right"/>
