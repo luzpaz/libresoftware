@@ -100,3 +100,12 @@
 [:house:](https://freecad.org) [:octocat:](https://github.com/FreeCAD/FreeCAD) [:bookmark:](https://github.com/FreeCAD/FreeCAD/commits/main)
 
 <br clear="right"/>
+
+#### LibreCAD
+<a href="https://repology.org/project/librecad/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/librecad.svg?columns=3&header=LibreCAD" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://librecad.org/) [:octocat:](https://github.com/LibreCAD/LibreCAD/) [:bookmark:](https://github.com/LibreCAD/LibreCAD/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
