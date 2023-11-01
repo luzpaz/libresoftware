@@ -109,3 +109,12 @@
 [:house:](https://librecad.org/) [:octocat:](https://github.com/LibreCAD/LibreCAD/) [:bookmark:](https://github.com/LibreCAD/LibreCAD/blob/master/CHANGELOG.md)
 
 <br clear="right"/>
+
+#### SweetHome3d
+<a href="https://repology.org/project/sweethome3d/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/sweethome3d.svg?columns=3&header=SweetHome3d" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://sweethome3d.com/) [:octocat:](https://sourceforge.net/p/sweethome3d/code/HEAD/tree/trunk/) [:bookmark:](https://www.sweethome3d.com/history.jsp)
+
+<br clear="right"/>
