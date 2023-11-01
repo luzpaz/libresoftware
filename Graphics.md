@@ -33,6 +33,8 @@
 
 [:house:](https://glaxnimate.mattbas.org/) [:octocat:](https://gitlab.com/mattbas/glaxnimate) [:bookmark:](https://gitlab.com/mattbas/glaxnimate/-/releases)
 
+<br clear="right"/>
+
 #### gmic
 <a href="https://repology.org/project/gmic/versions">
     <img src="https://repology.org/badge/vertical-allrepos/gmic.svg?columns=3&header=gmic" alt="Packaging status" align="right">
