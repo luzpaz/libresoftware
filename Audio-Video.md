@@ -174,6 +174,15 @@
 
 <br clear="right"/>
 
+#### Stargate
+<a href="https://repology.org/project/stargate/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/stargate.svg?columns=3&header=Stargtate" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/stargatedaw/stargate) [:octocat:](https://github.com/stargatedaw/stargate) [:bookmark:](https://github.com/stargatedaw/stargate/releases)
+
+<br clear="right"/>
+
 ----
 
 #### Zrythm
