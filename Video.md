@@ -1,5 +1,14 @@
 ### Video Editors
 
+#### Blender VSE (Video Sequence Editor)
+<a href="https://repology.org/project/blender/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/blender.svg?columns=3&header=Blender&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://belnder.org) [:octocat:](https://projects.blender.org/blender/blender) [:bookmark:](https://projects.blender.org/blender/blender/projects/17)
+
+<br clear="right"/>
+
 #### Kdenlive
 <a href="https://repology.org/project/kdenlive/versions">
     <img src="https://repology.org/badge/vertical-allrepos/kdenlive.svg?columns=3&header=Kdenlive&exclude_unsupported=1" alt="Packaging status" align="right">
