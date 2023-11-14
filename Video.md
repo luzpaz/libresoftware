@@ -27,6 +27,15 @@
 
 <br clear="right"/>
 
+#### Openshot
+<a href="https://repology.org/project/openshot/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/openshot.svg?columns=3&header=Openshot&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://openshot.org) [:octocat:](https://github.com/OpenShot/openshot-qt) [:bookmark:](https://github.com/OpenShot/openshot-qt/releases)
+
+<br clear="right"/>
+
 #### Pitivi
 <a href="https://repology.org/project/pitivi/versions">
     <img src="https://repology.org/badge/vertical-allrepos/pitivi.svg?columns=3&header=Pitivi&exclude_unsupported=1" alt="Packaging status" align="right">
