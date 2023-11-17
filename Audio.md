@@ -256,3 +256,15 @@
 
 <br clear="right"/>  
 
+
+
+### HAM Radio
+
+#### freedv-gui
+<a href="https://repology.org/project/freedv-gui/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/freedv-gui.svg?columns=3&header=freedv-gui&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://freedv.org/) [:octocat:](https://github.com/drowe67/freedv-gui) [:bookmark:](https://github.com/drowe67/freedv-gui/releases)
+
+<br clear="right"/>  
