@@ -238,7 +238,7 @@
 
 #### Sonobus
 <a href="https://repology.org/project/sonobus/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/sonobus.svg?columns=3&header=Audacity&exclude_unsupported=1" alt="Packaging status" align="right">
+    <img src="https://repology.org/badge/vertical-allrepos/sonobus.svg?columns=3&header=Sonobus&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://www.sonobus.net/) [:octocat:](https://github.com/sonosaurus/sonobus) [:bookmark:](https://github.com/sonosaurus/sonobus/releases)
