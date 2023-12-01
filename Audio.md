@@ -245,6 +245,15 @@
 
 <br clear="right"/>
 
+#### Yoshimi
+<a href="https://repology.org/project/yoshimi/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/yoshimi.svg?columns=3&header=Yoshimi&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://yoshimi.github.io/) [:octocat:](https://github.com/Yoshimi/yoshimi) [:bookmark:](https://github.com/Yoshimi/yoshimi/blob/master/Changelog)
+
+<br clear="right"/>
+
 ### Music Notation
 
 #### lilypond
