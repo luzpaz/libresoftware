@@ -32,6 +32,7 @@
 <br clear="right"/>
 
 ----
+
 #### Qtractor
 <a href="https://repology.org/project/qtractor/versions">
     <img src="https://repology.org/badge/vertical-allrepos/qtractor.svg?columns=3&header=Qtractor&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -42,6 +43,7 @@
 <br clear="right"/>
 
 ----
+
 #### Ossia-Score
 <a href="https://repology.org/project/ossia-score/versions">
     <img src="https://repology.org/badge/vertical-allrepos/ossia-score.svg?columns=3&header=ossia-score&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -51,8 +53,8 @@
 
 <br clear="right"/>
 
-
 ----
+
 #### Rosegarden
 <a href="https://repology.org/project/rosegarden/versions">
     <img src="https://repology.org/badge/vertical-allrepos/rosegarden.svg?columns=3&header=rosegarden&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -133,6 +135,38 @@
 
 ----
 
+### Audio Streaming
+
+#### jacktrip
+<a href="https://repology.org/project/jacktrip/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/jacktrip.svg?columns=3&header=jacktrip&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://jacktrip.github.io/jacktrip) [:octocat:](https://github.com/jacktrip/jacktrip) [:bookmark:](https://github.com/jacktrip/jacktrip/blob/main/docs/changelog.yml)
+
+<br clear="right"/>
+
+#### Roc-toolkit
+<a href="https://repology.org/project/roc-toolkit/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/roc-toolkit.svg?columns=3&header=Roc-toolkit&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://roc-streaming.org/) [:octocat:](https://github.com/roc-streaming/roc-toolkit) [:bookmark:](https://roc-streaming.org/toolkit/docs/development/changelog.html)
+
+<br clear="right"/>
+
+
+#### Sonobus
+<a href="https://repology.org/project/sonobus/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/sonobus.svg?columns=3&header=Sonobus&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.sonobus.net/) [:octocat:](https://github.com/sonosaurus/sonobus) [:bookmark:](https://github.com/sonosaurus/sonobus/releases)
+
+<br clear="right"/>
+
+----
+
 ### Audio misc.
 
 #### Audacity
@@ -180,22 +214,12 @@
 
 <br clear="right"/>
 
-
 #### Hydrogen
 <a href="https://repology.org/project/hydrogen-drum-machine/versions">
     <img src="https://repology.org/badge/vertical-allrepos/hydrogen-drum-machine.svg?columns=3&header=Hydrogen&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](http://www.hydrogen-music.org/) [:octocat:](https://github.com/hydrogen-music/hydrogen) [:bookmark:](https://github.com/hydrogen-music/hydrogen/blob/master/ChangeLog)
-
-<br clear="right"/>
-
-#### jacktrip
-<a href="https://repology.org/project/jacktrip/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/jacktrip.svg?columns=3&header=jacktrip&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](https://jacktrip.github.io/jacktrip) [:octocat:](https://github.com/jacktrip/jacktrip) [:bookmark:](https://github.com/jacktrip/jacktrip/blob/main/docs/changelog.yml)
 
 <br clear="right"/>
 
@@ -208,7 +232,7 @@
 
 <br clear="right"/>
 
-#### raysession
+#### RaySession
 <a href="https://repology.org/project/raysesion/versions">
     <img src="https://repology.org/badge/vertical-allrepos/raysession.svg?columns=3&header=raysession&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
@@ -233,15 +257,6 @@
 </a>
 
 [:house:](https://kushview.net/element/) [:octocat:](https://gitlab.com/kushview/element) [:bookmark:](https://gitlab.com/kushview/element/-/releases)
-
-<br clear="right"/>
-
-#### Sonobus
-<a href="https://repology.org/project/sonobus/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/sonobus.svg?columns=3&header=Sonobus&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](https://www.sonobus.net/) [:octocat:](https://github.com/sonosaurus/sonobus) [:bookmark:](https://github.com/sonosaurus/sonobus/releases)
 
 <br clear="right"/>
 
