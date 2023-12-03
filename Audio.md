@@ -236,6 +236,24 @@
 
 <br clear="right"/>
 
+#### Drumstick
+<a href="https://repology.org/project/drumstick/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/drumstick.svg?columns=3&header=Drumstick&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://sourceforge.net/projects/drumstick/) [:octocat:](https://sourceforge.net/p/drumstick/git/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/drumstick/news/)
+
+<br clear="right"/>
+
+#### element
+<a href="https://repology.org/project/element-audio-plugin-host/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/element-audio-plugin-host.svg?columns=3&header=element&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://kushview.net/element/) [:octocat:](https://gitlab.com/kushview/element) [:bookmark:](https://gitlab.com/kushview/element/-/releases)
+
+<br clear="right"/>
+
 #### geonkick
 <a href="https://repology.org/project/geonkick/versions">
     <img src="https://repology.org/badge/vertical-allrepos/geonkick.svg?columns=3&header=Geonkick&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -287,16 +305,6 @@
 </a>
 
 [:house:](https://www.breakfastquay.com/rubberband/) [:octocat:](https://github.com/breakfastquay/rubberband) [:bookmark:](https://github.com/breakfastquay/rubberband/blob/default/CHANGELOG)
-
-<br clear="right"/>
-
-
-#### element
-<a href="https://repology.org/project/element-audio-plugin-host/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/element-audio-plugin-host.svg?columns=3&header=element&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](https://kushview.net/element/) [:octocat:](https://gitlab.com/kushview/element) [:bookmark:](https://gitlab.com/kushview/element/-/releases)
 
 <br clear="right"/>
 
