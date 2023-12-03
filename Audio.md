@@ -236,6 +236,15 @@
 
 <br clear="right"/>
 
+#### Drumgizmo
+<a href="https://repology.org/project/drumgizmo/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/drumgizmo.svg?columns=3&header=Drumgizmo&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://drumgizmo.org/) [:octocat:](http://git.drumgizmo.org/drumgizmo.git/tree/) [:bookmark:](http://git.drumgizmo.org/drumgizmo.git/plain/ChangeLog)
+
+<br clear="right"/>
+
 #### Drumstick
 <a href="https://repology.org/project/drumstick/versions">
     <img src="https://repology.org/badge/vertical-allrepos/drumstick.svg?columns=3&header=Drumstick&exclude_unsupported=1" alt="Packaging status" align="right">
