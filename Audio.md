@@ -1,3 +1,34 @@
+#### JackAudio
+<a href="https://repology.org/project/jack-audio-connection-kit/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/jack-audio-connection-kit.svg?columns=3&header=Jack&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://jackaudio.org/) [:octocat:](https://github.com/jackaudio/jack2) [:bookmark:](https://github.com/jackaudio/jack2/blob/develop/ChangeLog.rst)
+
+<br clear="right"/>
+
+----
+
+#### PipeWire
+<a href="https://repology.org/project/pipewire/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/pipewire.svg?columns=3&header=PipeWire&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://pipewire.org) [:octocat:](https://gitlab.freedesktop.org/pipewire/pipewire) [:bookmark:](https://gitlab.freedesktop.org/pipewire/pipewire/-/blob/master/NEWS)
+
+<br clear="right"/>
+
+----
+
+#### PulseAudio
+<a href="https://repology.org/project/pulseaudio/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/pulseaudio.svg?columns=3&header=PulseAudio&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.freedesktop.org/wiki/Software/PulseAudio/) [:octocat:](https://gitlab.freedesktop.org/pulseaudio/pulseaudio) [:bookmark:](https://gitlab.freedesktop.org/pulseaudio/pulseaudio/-/blob/master/NEWS)
+
+<br clear="right"/>
+
 ### DAWs
 
 #### Ardour
