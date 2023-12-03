@@ -177,6 +177,15 @@
 
 <br clear="right"/>
 
+#### Jamulus
+<a href="https://repology.org/project/jamulus/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/jamulus.svg?columns=3&header=Jamulus&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://jamulus.io/) [:octocat:](https://github.com/jamulussoftware/jamulus) [:bookmark:](https://github.com/jamulussoftware/jamulus/blob/main/ChangeLog)
+
+<br clear="right"/>
+
 #### Roc-toolkit
 <a href="https://repology.org/project/roc-toolkit/versions">
     <img src="https://repology.org/badge/vertical-allrepos/roc-toolkit.svg?columns=3&header=Roc-toolkit&exclude_unsupported=1" alt="Packaging status" align="right">
