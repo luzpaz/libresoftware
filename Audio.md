@@ -300,6 +300,15 @@
 
 <br clear="right"/>
 
+#### Seq66
+<a href="https://repology.org/project/seq66/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/seq66.svg?columns=3&header=Seq66&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/ahlstromcj/seq66) [:octocat:](https://github.com/ahlstromcj/seq66) [:bookmark:](https://github.com/ahlstromcj/seq66/blob/master/RELNOTES)
+
+<br clear="right"/>
+
 #### Yoshimi
 <a href="https://repology.org/project/yoshimi/versions">
     <img src="https://repology.org/badge/vertical-allrepos/yoshimi.svg?columns=3&header=Yoshimi&exclude_unsupported=1" alt="Packaging status" align="right">
