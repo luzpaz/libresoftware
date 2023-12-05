@@ -358,7 +358,6 @@
 
 <br clear="right"/>
 
-
 #### lilypond
 <a href="https://repology.org/project/lilypond/versions">
     <img src="https://repology.org/badge/vertical-allrepos/lilypond.svg?columns=3&header=lilypond&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -377,6 +376,14 @@
 
 <br clear="right"/>  
 
+#### Power Tab Editor
+<a href="https://repology.org/project/powertabeditor/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/powertabeditor.svg?columns=3&header=PowerTabEditor&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://powertab.github.io/) [:octocat:](https://github.com/powertab/powertabeditor) [:bookmark:](https://github.com/powertab/powertabeditor/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
 
 
 ### HAM Radio
