@@ -29,6 +29,18 @@
 
 <br clear="right"/>
 
+
+----
+
+#### rtaudio
+<a href="https://repology.org/project/rtaudio/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/rtaudio.svg?columns=3&header=rtaudio&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://www.music.mcgill.ca/~gary/rtaudio/) [:octocat:](https://github.com/thestk/rtaudio) [:bookmark:](https://github.com/thestk/rtaudio/blob/master/doc/release.txt)
+
+<br clear="right"/>
+
 ### DAWs
 
 #### Ardour
