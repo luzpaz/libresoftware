@@ -349,6 +349,16 @@
 
 ### Music Notation
 
+#### Frescobaldi
+<a href="https://repology.org/project/frescobaldi/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/frescobaldi.svg?columns=3&header=Frescobaldi&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.frescobaldi.org/) [:octocat:](https://github.com/frescobaldi/frescobaldi) [:bookmark:](https://github.com/frescobaldi/frescobaldi/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
+
+
 #### lilypond
 <a href="https://repology.org/project/lilypond/versions">
     <img src="https://repology.org/badge/vertical-allrepos/lilypond.svg?columns=3&header=lilypond&exclude_unsupported=1" alt="Packaging status" align="right">
