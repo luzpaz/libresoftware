@@ -302,6 +302,16 @@
 
 <br clear="right"/>
 
+#### Konfyt
+<a href="https://repology.org/project/konfyt/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/konfyt.svg?columns=3&header=Konfyt&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://noedig.co.za/konfyt/) [:octocat:](https://github.com/noedigcode/konfyt) [:bookmark:](https://github.com/noedigcode/konfyt/blob/master/CHANGELOG.txt)
+
+<br clear="right"/>
+
+
 #### master_me
 <a href="https://repology.org/project/master-me/versions">
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=master-me&exclude_unsupported=1" alt="Packaging status" align="right">
