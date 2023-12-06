@@ -1,3 +1,24 @@
+<!--
+OpenMPT  
+https://openmpt.org/
+https://github.com/OpenMPT/openmpt
+
+sfizz
+https://sfz.tools/news
+https://github.com/sfztools/sfizz
+
+sfizz-ui
+https://github.com/sfztools/sfizz-ui
+sfz.tools/sfizz/
+
+rtpmidid
+https://github.com/davidmoreno/rtpmidid
+
+https://github.com/zynaddsubfx/zynaddsubfx
+
+https://github.com/DBraun/DawDreamer
+-->
+
 #### JackAudio
 <a href="https://repology.org/project/jack-audio-connection-kit/versions">
     <img src="https://repology.org/badge/vertical-allrepos/jack-audio-connection-kit.svg?columns=3&header=Jack&exclude_unsupported=1" alt="Packaging status" align="right">
