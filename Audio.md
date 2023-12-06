@@ -338,6 +338,15 @@
 
 <br clear="right"/>
 
+#### SooperLooper
+<a href="https://repology.org/project/sooperlooper/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/sooperlooper.svg?columns=3&header=SooperLooper&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://sonosaurus.com/sooperlooper) [:octocat:](https://github.com/essej/sooperlooper) [:bookmark:](https://sonosaurus.com/sooperlooper/index.html)
+
+<br clear="right"/>
+
 #### Yoshimi
 <a href="https://repology.org/project/yoshimi/versions">
     <img src="https://repology.org/badge/vertical-allrepos/yoshimi.svg?columns=3&header=Yoshimi&exclude_unsupported=1" alt="Packaging status" align="right">
