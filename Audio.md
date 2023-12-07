@@ -283,7 +283,7 @@ https://github.com/DBraun/DawDreamer
     <img src="https://repology.org/badge/vertical-allrepos/drumstick.svg?columns=3&header=Drumstick&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://sourceforge.net/projects/drumstick/) [:octocat:](https://sourceforge.net/p/drumstick/git/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/drumstick/git/ci/master/tree/ChangeLog)
+[:house:](https://drumstick.sourceforge.io/) [:octocat:](https://sourceforge.net/p/drumstick/git/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/drumstick/git/ci/master/tree/ChangeLog)
 
 <br clear="right"/>
 
