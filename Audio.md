@@ -1,21 +1,4 @@
 <!--
-OpenMPT  
-https://openmpt.org/
-https://github.com/OpenMPT/openmpt
-
-sfizz
-https://sfz.tools/news
-https://github.com/sfztools/sfizz
-
-sfizz-ui
-https://github.com/sfztools/sfizz-ui
-sfz.tools/sfizz/
-
-rtpmidid
-https://github.com/davidmoreno/rtpmidid
-
-https://github.com/zynaddsubfx/zynaddsubfx
-
 https://github.com/DBraun/DawDreamer
 -->
 
@@ -53,12 +36,30 @@ https://github.com/DBraun/DawDreamer
 
 ----
 
+#### PortMidi
+<a href="https://repology.org/project/portmiddi/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/portmiddi.svg?columns=3&header=PortMidi&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/PortMidi/portmidi) [:octocat:](https://github.com/PortMidi/portmidi) [:bookmark:](https://github.com/PortMidi/portmidi/blob/master/CHANGELOG.txt)
+
+<br clear="right"/>
+
 #### rtaudio
 <a href="https://repology.org/project/rtaudio/versions">
     <img src="https://repology.org/badge/vertical-allrepos/rtaudio.svg?columns=3&header=rtaudio&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](http://www.music.mcgill.ca/~gary/rtaudio/) [:octocat:](https://github.com/thestk/rtaudio) [:bookmark:](https://github.com/thestk/rtaudio/blob/master/doc/release.txt)
+
+<br clear="right"/>
+
+#### rtpmidid
+<a href="https://repology.org/project/rtpmidid/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/rtpmidid.svg?columns=3&header=rtpmidid&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/davidmoreno/rtpmidid) [:octocat:](https://github.com/davidmoreno/rtpmidid) [:bookmark:](https://github.com/davidmoreno/rtpmidid/blob/master/debian/changelog)
 
 <br clear="right"/>
 
@@ -103,6 +104,17 @@ https://github.com/DBraun/DawDreamer
 </a>
 
 [:house:](https://qtractor.org/) [:octocat:](https://sourceforge.net/p/qtractor/code) [:bookmark:](https://sourceforge.net/p/qtractor/code/ci/master/tree/ChangeLog)
+
+<br clear="right"/>
+
+----
+
+#### OpenMPT
+<a href="https://repology.org/project/openmpt/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/openmpt.svg?columns=3&header=OpenMPT&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://openmpt.org/) [:octocat:](https://github.com/OpenMPT/openmpt) [:bookmark:](https://openmpt.org/release_notes/History.txt)
 
 <br clear="right"/>
 
@@ -368,6 +380,26 @@ https://github.com/DBraun/DawDreamer
 [:house:](https://github.com/ahlstromcj/seq66) [:octocat:](https://github.com/ahlstromcj/seq66) [:bookmark:](https://github.com/ahlstromcj/seq66/blob/master/RELNOTES)
 
 <br clear="right"/>
+
+
+#### sfizz
+<a href="https://repology.org/project/sfizz/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/sfizz.svg?columns=3&header=sfizz&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://sfz.tools/news) [:octocat:](https://github.com/sfztools/sfizz) [:bookmark:](https://github.com/sfztools/sfizz/blob/develop/CHANGELOG.md)
+
+<br clear="right"/>
+
+#### zynaddsubfx
+<a href="https://repology.org/project/zynaddsubfx/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/zynaddsubfx.svg?columns=3&header=zynaddsubfx&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://zynaddsubfx.sourceforge.io/) [:octocat:](https://github.com/zynaddsubfx/zynaddsubfx) [:bookmark:](https://github.com/zynaddsubfx/zynaddsubfx/tags)
+
+<br clear="right"/>
+
 
 #### SooperLooper
 <a href="https://repology.org/project/sooperlooper/versions">
