@@ -37,8 +37,8 @@ https://github.com/DBraun/DawDreamer
 ----
 
 #### PortMidi
-<a href="https://repology.org/project/portmiddi/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/portmiddi.svg?columns=3&header=PortMidi&exclude_unsupported=1" alt="Packaging status" align="right">
+<a href="https://repology.org/project/portmidi/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/portmidi.svg?columns=3&header=PortMidi&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://github.com/PortMidi/portmidi) [:octocat:](https://github.com/PortMidi/portmidi) [:bookmark:](https://github.com/PortMidi/portmidi/blob/master/CHANGELOG.txt)
