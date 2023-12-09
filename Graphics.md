@@ -118,3 +118,14 @@
 [:house:](https://sweethome3d.com/) [:octocat:](https://sourceforge.net/p/sweethome3d/code/HEAD/tree/trunk/) [:bookmark:](https://www.sweethome3d.com/history.jsp)
 
 <br clear="right"/>
+
+----
+
+#### QGIS
+<a href="https://repology.org/project/qgis/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/qgis.svg?columns=3&header=QGIS&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://qgis.org/) [:octocat:](https://github.com/qgis/QGIS) [:bookmark:](https://github.com/qgis/QGIS/releases)
+
+<br clear="right"/>
