@@ -13,6 +13,17 @@ https://github.com/DBraun/DawDreamer
 
 ----
 
+#### JUCE
+<a href="https://repology.org/project/juce/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/juce.svg?columns=3&header=JUCE&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://juce.com/) [:octocat:](https://github.com/juce-framework/JUCE) [:bookmark:](https://github.com/juce-framework/JUCE/blob/master/CHANGE_LIST.md)
+
+<br clear="right"/>
+
+----
+
 #### PipeWire
 <a href="https://repology.org/project/pipewire/versions">
     <img src="https://repology.org/badge/vertical-allrepos/pipewire.svg?columns=3&header=PipeWire&exclude_unsupported=1" alt="Packaging status" align="right">
