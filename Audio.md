@@ -251,6 +251,15 @@ https://github.com/DBraun/DawDreamer
 
 <br clear="right"/>
 
+#### OBS-Studio
+<a href="https://repology.org/project/obs-studio/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/obs-studio.svg?columns=3&header=OBS-Studio&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://obsproject.com/) [:octocat:](https://github.com/obsproject/obs-studio/) [:bookmark:](https://github.com/obsproject/obs-studio/releases/)
+
+<br clear="right"/>
+
 #### Roc-toolkit
 <a href="https://repology.org/project/roc-toolkit/versions">
     <img src="https://repology.org/badge/vertical-allrepos/roc-toolkit.svg?columns=3&header=Roc-toolkit&exclude_unsupported=1" alt="Packaging status" align="right">
