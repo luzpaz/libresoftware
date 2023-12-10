@@ -375,7 +375,7 @@ https://github.com/DBraun/DawDreamer
 <br clear="right"/>
 
 #### RaySession
-<a href="https://repology.org/project/raysesion/versions">
+<a href="https://repology.org/project/raysession/versions">
     <img src="https://repology.org/badge/vertical-allrepos/raysession.svg?columns=3&header=raysession&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
