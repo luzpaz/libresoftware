@@ -198,13 +198,22 @@ https://github.com/DBraun/DawDreamer
     <img src="https://repology.org/badge/vertical-allrepos/mixxx.svg?columns=3&header=mixxx&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/mixxxdj/mixxx) [:bookmark:](https://github.com/mixxxdj/mixxx/blob/main/CHANGELOG.md)
+[:house:](https://mixxx.org/) [:octocat:](https://github.com/mixxxdj/mixxx) [:bookmark:](https://github.com/mixxxdj/mixxx/blob/main/CHANGELOG.md)
 
 <br clear="right"/>
 
 #### Surge
 <a href="https://repology.org/project/surge/versions">
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=surge&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/surge-synthesizer/surge) [:bookmark:](https://surge-synthesizer.github.io/changelog/)
+
+<br clear="right"/>
+
+#### Surge-XT
+<a href="https://repology.org/project/surge-xt/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/surge-xt.svg?columns=3&header=Surge-XT&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/surge-synthesizer/surge) [:bookmark:](https://surge-synthesizer.github.io/changelog/)
