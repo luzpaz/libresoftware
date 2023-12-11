@@ -63,6 +63,17 @@
 
 <br clear="right"/>
 
+### Video Transcoders
+
+#### Handbrake
+<a href="https://repology.org/project/handbrake/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/handbrake.svg?columns=3&header=Handbrake&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://handbrake.fr/) [:octocat:](https://github.com/HandBrake/HandBrake) [:bookmark:](https://github.com/HandBrake/HandBrake/blob/master/NEWS.markdown)
+
+<br clear="right"/>
+
 <details>
   <summary><b>Dependencies</b></summary>
 <a href="https://repology.org/project/mlt/versions">
