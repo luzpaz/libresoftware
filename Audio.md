@@ -231,7 +231,7 @@ https://github.com/DBraun/DawDreamer
 
 ----
 
-### Audio Streaming
+### Audio/Video Streaming
 
 #### jacktrip
 <a href="https://repology.org/project/jacktrip/versions">
@@ -260,6 +260,24 @@ https://github.com/DBraun/DawDreamer
 
 <br clear="right"/>
 
+#### Owncast
+<a href="https://repology.org/project/owncast/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/owncast.svg?columns=3&header=Owncast&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://owncast.online/) [:octocat:](https://github.com/owncast/owncast) [:bookmark:](https://github.com/owncast/owncast/releases)
+
+<br clear="right"/>
+
+#### PeerTube
+<a href="https://repology.org/project/peertube/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/peertube.svg?columns=3&header=PeerTube&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://joinpeertube.org/) [:octocat:](https://github.com/Chocobozzz/PeerTube) [:bookmark:](https://github.com/Chocobozzz/PeerTube/blob/develop/CHANGELOG.md)
+
+<br clear="right"/>
+
 #### Roc-toolkit
 <a href="https://repology.org/project/roc-toolkit/versions">
     <img src="https://repology.org/badge/vertical-allrepos/roc-toolkit.svg?columns=3&header=Roc-toolkit&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -268,7 +286,6 @@ https://github.com/DBraun/DawDreamer
 [:house:](https://roc-streaming.org/) [:octocat:](https://github.com/roc-streaming/roc-toolkit) [:bookmark:](https://roc-streaming.org/toolkit/docs/development/changelog.html)
 
 <br clear="right"/>
-
 
 #### Sonobus
 <a href="https://repology.org/project/sonobus/versions">
