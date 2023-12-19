@@ -233,6 +233,16 @@ https://github.com/DBraun/DawDreamer
 
 ### Audio/Video Streaming
 
+#### gstreamer
+<a href="https://repology.org/project/gstreamer/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gstreamer.svg?columns=3&header=gstreamer&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://gstreamer.freedesktop.org/) [:octocat:](https://gitlab.freedesktop.org/gstreamer/gstreamer) [:bookmark:]()
+
+<br clear="right"/>
+
+
 #### jacktrip
 <a href="https://repology.org/project/jacktrip/versions">
     <img src="https://repology.org/badge/vertical-allrepos/jacktrip.svg?columns=3&header=jacktrip&exclude_unsupported=1" alt="Packaging status" align="right">
