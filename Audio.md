@@ -1,5 +1,10 @@
 <!--
 https://github.com/DBraun/DawDreamer
+
+https://repology.org/project/qpwgraph/badges
+
+https://repology.org/project/qjackctl/badges
+https://qjackctl.sourceforge.io/
 -->
 
 #### JackAudio
