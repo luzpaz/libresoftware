@@ -2,6 +2,7 @@
 https://github.com/DBraun/DawDreamer
 
 https://repology.org/project/qpwgraph/badges
+https://gitlab.freedesktop.org/rncbc/qpwgraph
 
 https://repology.org/project/qjackctl/badges
 https://qjackctl.sourceforge.io/
