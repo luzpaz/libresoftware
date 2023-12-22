@@ -1,9 +1,6 @@
 <!--
 https://github.com/DBraun/DawDreamer
 
-https://repology.org/project/qpwgraph/badges
-https://gitlab.freedesktop.org/rncbc/qpwgraph
-
 https://repology.org/project/qjackctl/badges
 https://qjackctl.sourceforge.io/
 
@@ -96,6 +93,17 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://ardour.org) [:octocat:](https://github.com/Ardour/ardour) [:bookmark:](http://ardour.org/whatsnew.html)
+
+<br clear="right"/>
+
+----
+
+#### helio-workstation
+<a href="https://repology.org/project/helio-workstation/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/helio-workstation.svg?columns=3&header=helio-workstation&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://helio.fm/) [:octocat:](https://github.com/helio-fm/helio-sequencer) [:bookmark:](https://github.com/helio-fm/helio-sequencer/blob/develop/CHANGELOG.md)
 
 <br clear="right"/>
 
@@ -423,6 +431,16 @@ https://github.com/supercollider/supercollider
 [:house:](https://github.com/trummerschlunk/master_me) [:octocat:](https://github.com/trummerschlunk/master_me) [:bookmark:](https://github.com/trummerschlunk/master_me/releases)
 
 <br clear="right"/>
+
+#### qpwgraph
+<a href="https://repology.org/project/qpwgraph/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/qpwgraph.svg?columns=3&header=qpwgraph&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://gitlab.freedesktop.org/rncbc/qpwgraph) [:octocat:](https://gitlab.freedesktop.org/rncbc/qpwgraph) [:bookmark:](https://gitlab.freedesktop.org/rncbc/qpwgraph/-/blob/main/ChangeLog)
+
+<br clear="right"/>
+
 
 #### RaySession
 <a href="https://repology.org/project/raysession/versions">
