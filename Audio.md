@@ -6,6 +6,14 @@ https://gitlab.freedesktop.org/rncbc/qpwgraph
 
 https://repology.org/project/qjackctl/badges
 https://qjackctl.sourceforge.io/
+
+stochas
+
+SuperCollider
+http://supercollider.github.io/
+https://github.com/supercollider/supercollider
+
+
 -->
 
 #### JackAudio
