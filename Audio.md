@@ -363,6 +363,16 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### Drumlabooh
+<a href="https://repology.org/project/drumlabooh/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/drumlabooh.svg?columns=3&header=Drumlabooh&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://psemiletov.github.io/drumlabooh/) [:octocat:](https://github.com/psemiletov/drumlabooh) [:bookmark:](https://github.com/psemiletov/drumlabooh/blob/main/NEWS)
+
+<br clear="right"/>
+
+
 #### Drumstick
 <a href="https://repology.org/project/drumstick/versions">
     <img src="https://repology.org/badge/vertical-allrepos/drumstick.svg?columns=3&header=Drumstick&exclude_unsupported=1" alt="Packaging status" align="right">
