@@ -1,11 +1,6 @@
 <!--
 https://github.com/DBraun/DawDreamer
 
-https://repology.org/project/qjackctl/badges
-https://qjackctl.sourceforge.io/
-
-stochas
-
 SuperCollider
 http://supercollider.github.io/
 https://github.com/supercollider/supercollider
@@ -432,6 +427,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### qjackctl
+<a href="https://repology.org/project/qjackctl/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/qjackctl.svg?columns=3&header=qjackctl&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://qjackctl.sourceforge.io/) [:octocat:](https://github.com/rncbc/qjackctl) [:bookmark:](https://github.com/rncbc/qjackctl/blob/master/ChangeLog)
+
+<br clear="right"/>
+
 #### qpwgraph
 <a href="https://repology.org/project/qpwgraph/versions">
     <img src="https://repology.org/badge/vertical-allrepos/qpwgraph.svg?columns=3&header=qpwgraph&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -440,7 +444,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://gitlab.freedesktop.org/rncbc/qpwgraph) [:octocat:](https://gitlab.freedesktop.org/rncbc/qpwgraph) [:bookmark:](https://gitlab.freedesktop.org/rncbc/qpwgraph/-/blob/main/ChangeLog)
 
 <br clear="right"/>
-
 
 #### RaySession
 <a href="https://repology.org/project/raysession/versions">
@@ -476,6 +479,15 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://sfz.tools/news) [:octocat:](https://github.com/sfztools/sfizz) [:bookmark:](https://github.com/sfztools/sfizz/blob/develop/CHANGELOG.md)
+
+<br clear="right"/>
+
+#### stochas
+<a href="https://repology.org/project/stochas/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/stochas.svg?columns=3&header=stochas&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://stochas.org/) [:octocat:](https://github.com/surge-synthesizer/stochas) [:bookmark:](https://github.com/surge-synthesizer/stochas/releases)
 
 <br clear="right"/>
 
@@ -555,4 +567,14 @@ https://github.com/supercollider/supercollider
 
 [:house:](https://freedv.org/) [:octocat:](https://github.com/drowe67/freedv-gui) [:bookmark:](https://github.com/drowe67/freedv-gui/releases)
 
-<br clear="right"/>  
+<br clear="right"/>
+
+
+#### gnuradio
+<a href="https://repology.org/project/gnuradio/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gnuradio.svg?columns=3&header=gnuradio&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.gnuradio.org/) [:octocat:](https://github.com/gnuradio/gnuradio) [:bookmark:](https://github.com/gnuradio/gnuradio/releases)
+
+<br clear="right"/>
