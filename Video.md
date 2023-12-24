@@ -137,3 +137,14 @@
 
 </details>
 
+----
+
+#### VLC
+
+<a href="https://repology.org/project/vlc/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/vlc.svg?columns=3&header=VLC&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.videolan.org/vlc/) [:octocat:](https://code.videolan.org/videolan/vlc) [:bookmark:](https://code.videolan.org/videolan/vlc/-/tags)
+
+<br clear="right"/>
