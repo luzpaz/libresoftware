@@ -4,8 +4,6 @@ https://github.com/DBraun/DawDreamer
 SuperCollider
 http://supercollider.github.io/
 https://github.com/supercollider/supercollider
-
-
 -->
 
 #### JackAudio
@@ -586,5 +584,14 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.gnuradio.org/) [:octocat:](https://github.com/gnuradio/gnuradio) [:bookmark:](https://github.com/gnuradio/gnuradio/releases)
+
+<br clear="right"/>
+
+#### gpredict
+<a href="https://repology.org/project/gpredict/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gpredict.svg?columns=3&header=gpredict&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://gpredict.oz9aec.net/) [:octocat:](https://github.com/csete/gpredict) [:bookmark:](https://github.com/csete/gpredict/blob/master/NEWS)
 
 <br clear="right"/>
