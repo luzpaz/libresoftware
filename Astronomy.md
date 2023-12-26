@@ -7,6 +7,15 @@
 
 <br clear="right"/>
 
+#### ccdciel
+<a href="https://repology.org/project/ccdciel/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ccdciel.svg?columns=3&header=ccdciel&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.ap-i.net/ccdciel) [:octocat:](https://github.com/pchev/ccdciel) [:bookmark:](https://github.com/pchev/ccdciel/tags)
+
+<br clear="right"/>
+
 #### cosmonium
 <a href="https://repology.org/project/cosmonium/versions">
     <img src="https://repology.org/badge/vertical-allrepos/cosmonium.svg?columns=3&header=cosmonium&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -22,6 +31,15 @@
 </a>
 
 [:house:](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky) [:octocat:](https://codeberg.org/gaiasky/gaiasky) [:bookmark:](https://gitlab.com/gaiasky/gaiasky/-/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
+
+#### INDI
+<a href="https://repology.org/project/indilib/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/indilib.svg?columns=3&header=INDI&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.indilib.org/) [:octocat:](https://github.com/indilib/indi) [:bookmark:](https://github.com/indilib/indi/blob/master/ChangeLog)
 
 <br clear="right"/>
 
@@ -76,15 +94,6 @@
 </a>
 
 [:house:](https://xephem.github.io/XEphem/Site/xephem.html) [:octocat:](https://github.com/XEphem/XEphem) [:bookmark:](https://xephem.github.io/XEphem/Site/changes.html)
-
-<br clear="right"/>
-
-#### ccdciel
-<a href="https://repology.org/project/ccdciel/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/ccdciel.svg?columns=3&header=ccdciel&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](https://www.ap-i.net/ccdciel) [:octocat:](https://github.com/pchev/ccdciel) [:bookmark:](https://github.com/pchev/ccdciel/tags)
 
 <br clear="right"/>
 
