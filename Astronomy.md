@@ -79,6 +79,17 @@
 
 <br clear="right"/>
 
+#### ccdciel
+<a href="https://repology.org/project/ccdciel/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ccdciel.svg?columns=3&header=ccdciel&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.ap-i.net/ccdciel) [:octocat:](https://github.com/pchev/ccdciel) [:bookmark:](https://github.com/pchev/ccdciel/tags)
+
+<br clear="right"/>
+
+
+<!-- 
 #### darktable
 <a href="https://repology.org/project/darktable/versions">
     <img src="https://repology.org/badge/vertical-allrepos/darktable.svg?columns=3&header=darktable&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -87,6 +98,4 @@
 [:house:]() [:octocat:]() [:bookmark:]()
 
 <br clear="right"/>
-
-
-<!-- https://aur.archlinux.org/packages?K=astronomy&SeB=k&SB=l&O=0&SO=d -->
+-->
