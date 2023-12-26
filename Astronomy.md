@@ -16,6 +16,15 @@
 
 <br clear="right"/>
 
+#### kosmorro
+<a href="https://repology.org/project/kosmorro/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/kosmorro.svg?columns=3&header=darktable&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://kosmorro.space/) [:octocat:](https://github.com/Kosmorro/kosmorro) [:bookmark:](https://github.com/Kosmorro/kosmorro/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
+
 #### kStars
 <a href="https://repology.org/project/kstars/versions">
     <img src="https://repology.org/badge/vertical-allrepos/kstars.svg?columns=3&header=kStars&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -25,21 +34,30 @@
 
 <br clear="right"/>
 
-#### stellarium
+#### Siril
+<a href="https://repology.org/project/siril/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/siril.svg?columns=3&header=Siril&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://siril.org/) [:octocat:](https://gitlab.com/free-astro/siril) [:bookmark:](https://gitlab.com/free-astro/siril/-/blob/master/NEWS)
+
+<br clear="right"/>
+
+#### Stellarium
 <a href="https://repology.org/project/stellarium/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/stellarium.svg?columns=3&header=stellarium&exclude_unsupported=1" alt="Packaging status" align="right">
+    <img src="https://repology.org/badge/vertical-allrepos/stellarium.svg?columns=3&header=Stellarium&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://www.stellarium.org/) [:octocat:](https://github.com/Stellarium/stellarium/) [:bookmark:](https://github.com/Stellarium/stellarium/blob/master/ChangeLog)
 
 <br clear="right"/>
 
-#### darktable
-<a href="https://repology.org/project/darktable/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/darktable.svg?columns=3&header=darktable&exclude_unsupported=1" alt="Packaging status" align="right">
+#### xplanet
+<a href="https://repology.org/project/xplanet/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/xplanet.svg?columns=3&header=xplanet&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:]() [:octocat:]() [:bookmark:]()
+[:house:](https://xplanet.sourceforge.net/) [:octocat:](https://sourceforge.net/p/xplanet/code/HEAD/tree/trunk/) [:bookmark:](https://sourceforge.net/p/xplanet/activity/feed)
 
 <br clear="right"/>
 
@@ -52,20 +70,4 @@
 
 <br clear="right"/>
 
-#### darktable
-<a href="https://repology.org/project/darktable/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/darktable.svg?columns=3&header=darktable&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:]() [:octocat:]() [:bookmark:]()
-
-<br clear="right"/>
-
-#### darktable
-<a href="https://repology.org/project/darktable/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/darktable.svg?columns=3&header=darktable&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:]() [:octocat:]() [:bookmark:]()
-
-<br clear="right"/>
+<!-- https://aur.archlinux.org/packages?K=astronomy&SeB=k&SB=l&O=0&SO=d -->
