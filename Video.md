@@ -139,6 +139,16 @@
 
 ----
 
+#### SMPlayer
+
+<a href="https://repology.org/project/smplayer/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/smplayer.svg?columns=3&header=SMPlayer&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://smplayer.info/) [:octocat:](https://github.com/smplayer-dev/smplayer) [:bookmark:](https://github.com/smplayer-dev/smplayer/blob/master/Release_notes.md)
+
+<br clear="right"/>
+
 #### VLC
 
 <a href="https://repology.org/project/vlc/versions">
