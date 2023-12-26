@@ -1,3 +1,12 @@
+#### astap
+<a href="https://repology.org/project/astap/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/astap.svg?columns=3&header=astap&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.hnsky.org/astap) [:octocat:]() [:bookmark:]()
+
+<br clear="right"/>
+
 #### calcmysky
 <a href="https://repology.org/project/calcmysky/versions">
     <img src="https://repology.org/badge/vertical-allrepos/calcmysky.svg?columns=3&header=calcmysky&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -99,7 +108,7 @@
 
 
 <!-- 
-#### darktable
+#### 
 <a href="https://repology.org/project/darktable/versions">
     <img src="https://repology.org/badge/vertical-allrepos/darktable.svg?columns=3&header=darktable&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
