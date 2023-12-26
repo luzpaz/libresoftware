@@ -16,6 +16,15 @@
 
 <br clear="right"/>
 
+#### gaiasky
+<a href="https://repology.org/project/gaiasky/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gaiasky.svg?columns=3&header=gaiasky&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky) [:octocat:](https://codeberg.org/gaiasky/gaiasky) [:bookmark:](https://gitlab.com/gaiasky/gaiasky/-/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
+
 #### kosmorro
 <a href="https://repology.org/project/kosmorro/versions">
     <img src="https://repology.org/badge/vertical-allrepos/kosmorro.svg?columns=3&header=darktable&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -69,5 +78,6 @@
 [:house:]() [:octocat:]() [:bookmark:]()
 
 <br clear="right"/>
+
 
 <!-- https://aur.archlinux.org/packages?K=astronomy&SeB=k&SB=l&O=0&SO=d -->
