@@ -44,6 +44,15 @@
 
 <br clear="right"/>
 
+#### imagemagick
+<a href="https://repology.org/project/imagemagick/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/imagemagick.svg?columns=3&header=imagemagick&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://imagemagick.org/) [:octocat:](https://github.com/ImageMagick/ImageMagick) [:bookmark:](https://github.com/ImageMagick/Website/blob/main/ChangeLog.md)
+
+<br clear="right"/>
+
 #### inkscape
 <a href="https://repology.org/project/inkscape/versions">
     <img src="https://repology.org/badge/vertical-allrepos/inkscape.svg?columns=3&header=inkscape&exclude_unsupported=1" alt="Packaging status" align="right">
