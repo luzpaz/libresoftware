@@ -70,6 +70,15 @@
 
 <br clear="right"/>
 
+#### XEphem
+<a href="https://repology.org/project/xephem/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/xephem.svg?columns=3&header=XEphem&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://xephem.github.io/XEphem/Site/xephem.html) [:octocat:](https://github.com/XEphem/XEphem) [:bookmark:](https://xephem.github.io/XEphem/Site/changes.html)
+
+<br clear="right"/>
+
 #### darktable
 <a href="https://repology.org/project/darktable/versions">
     <img src="https://repology.org/badge/vertical-allrepos/darktable.svg?columns=3&header=darktable&exclude_unsupported=1" alt="Packaging status" align="right">
