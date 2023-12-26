@@ -88,6 +88,15 @@
 
 <br clear="right"/>
 
+#### StellarSolver
+<a href="https://repology.org/project/stellarsolver/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/stellarsolver.svg?columns=3&header=StellarSolver&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/rlancaste/stellarsolver) [:octocat:](https://github.com/rlancaste/stellarsolver) [:bookmark:](https://github.com/rlancaste/stellarsolver/releases)
+
+<br clear="right"/>
+
 #### xplanet
 <a href="https://repology.org/project/xplanet/versions">
     <img src="https://repology.org/badge/vertical-allrepos/xplanet.svg?columns=3&header=xplanet&exclude_unsupported=1" alt="Packaging status" align="right">
