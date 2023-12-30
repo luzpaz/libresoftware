@@ -6,6 +6,19 @@ http://supercollider.github.io/
 https://github.com/supercollider/supercollider
 -->
 
+----
+
+#### alsa-lib
+<a href="https://repology.org/project/alsa-lib/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/alsa-lib.svg?columns=3&header=alsa-lib&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.alsa-project.org) [:octocat:](https://github.com/alsa-project/alsa-lib) [:bookmark:](https://www.alsa-project.org/wiki/Main_Page_News)
+
+<br clear="right"/>
+
+----
+
 #### JackAudio
 <a href="https://repology.org/project/jack-audio-connection-kit/versions">
     <img src="https://repology.org/badge/vertical-allrepos/jack-audio-connection-kit.svg?columns=3&header=Jack&exclude_unsupported=1" alt="Packaging status" align="right">
