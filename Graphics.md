@@ -119,6 +119,15 @@
 
 <br clear="right"/>
 
+#### MeshLab
+<a href="https://repology.org/project/meshlab/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/meshlab.svg?columns=3&header=MeshLab&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.meshlab.net/) [:octocat:](https://github.com/cnr-isti-vclab/meshlab) [:bookmark:](https://github.com/cnr-isti-vclab/meshlab/releases)
+
+<br clear="right"/>
+
 #### SweetHome3d
 <a href="https://repology.org/project/sweethome3d/versions">
     <img src="https://repology.org/badge/vertical-allrepos/sweethome3d.svg?columns=3&header=SweetHome3d&exclude_unsupported=1" alt="Packaging status" align="right">
