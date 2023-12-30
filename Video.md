@@ -1,5 +1,14 @@
 ### Video Editors
 
+#### avidemux
+<a href="https://repology.org/project/avidemux/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/avidemux.svg?columns=3&header=avidemux&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://avidemux.sourceforge.net/) [:octocat:](https://github.com/mean00/avidemux2) [:bookmark:](https://github.com/mean00/avidemux2/releases)
+
+<br clear="right"/>
+
 #### Blender VSE (Video Sequence Editor)
 <a href="https://repology.org/project/blender/versions">
     <img src="https://repology.org/badge/vertical-allrepos/blender.svg?columns=3&header=Blender&exclude_unsupported=1" alt="Packaging status" align="right">
