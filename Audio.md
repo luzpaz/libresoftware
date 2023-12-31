@@ -493,7 +493,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-
 #### sfizz
 <a href="https://repology.org/project/sfizz/versions">
     <img src="https://repology.org/badge/vertical-allrepos/sfizz.svg?columns=3&header=sfizz&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -509,6 +508,15 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://stochas.org/) [:octocat:](https://github.com/surge-synthesizer/stochas) [:bookmark:](https://github.com/surge-synthesizer/stochas/releases)
+
+<br clear="right"/>
+
+#### TuxGuitar
+<a href="https://repology.org/project/tuxguitar/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/tuxguitar.svg?columns=3&header=TuxGuitar&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/helge17/tuxguitar) [:octocat:](https://github.com/helge17/tuxguitar) [:bookmark:](https://github.com/helge17/tuxguitar/blob/master/CHANGES)
 
 <br clear="right"/>
 
