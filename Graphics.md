@@ -110,6 +110,25 @@
 
 <br clear="right"/>
 
+#### GnuPlot
+<a href="https://repology.org/project/gnuplot/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gnuplot.svg?columns=3&header=LabPlot&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://www.gnuplot.info/) [:octocat:](https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/NEWS)
+
+<br clear="right"/>
+
+
+#### LabPlot
+<a href="https://repology.org/project/labplot/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/labplot.svg?columns=3&header=LabPlot&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://labplot.kde.org/) [:octocat:](https://invent.kde.org/education/labplot) [:bookmark:](https://invent.kde.org/education/labplot/-/blob/master/ChangeLog)
+
+<br clear="right"/>
+
 #### LibreCAD
 <a href="https://repology.org/project/librecad/versions">
     <img src="https://repology.org/badge/vertical-allrepos/librecad.svg?columns=3&header=LibreCAD&exclude_unsupported=1" alt="Packaging status" align="right">
