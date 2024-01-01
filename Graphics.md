@@ -112,7 +112,7 @@
 
 #### GnuPlot
 <a href="https://repology.org/project/gnuplot/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/gnuplot.svg?columns=3&header=LabPlot&exclude_unsupported=1" alt="Packaging status" align="right">
+    <img src="https://repology.org/badge/vertical-allrepos/gnuplot.svg?columns=3&header=Gnuplot&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](http://www.gnuplot.info/) [:octocat:](https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/NEWS)
