@@ -101,6 +101,15 @@
 
 <br clear="right"/>
 
+#### BRL-CAD
+<a href="https://repology.org/project/brlcad/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/brlcad.svg?columns=3&header=BRL-CAD&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://brlcad.org) [:octocat:](https://github.com/BRL-CAD/brlcad) [:bookmark:](https://github.com/BRL-CAD/brlcad/blob/main/NEWS)
+
+<br clear="right"/>
+
 #### FreeCAD
 <a href="https://repology.org/project/freecad/versions">
     <img src="https://repology.org/badge/vertical-allrepos/freecad.svg?columns=3&header=FreeCAD&exclude_unsupported=1" alt="Packaging status" align="right">
