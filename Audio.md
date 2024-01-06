@@ -448,6 +448,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### Neothesia
+<a href="https://repology.org/project/neothesia/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/neothesia.svg?columns=3&header=Neothesia&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://polymeilex.github.io/Neothesia/) [:octocat:](https://github.com/PolyMeilex/Neothesia) [:bookmark:](https://github.com/PolyMeilex/Neothesia/releases)
+
+<br clear="right"/>
+
 #### qjackctl
 <a href="https://repology.org/project/qjackctl/versions">
     <img src="https://repology.org/badge/vertical-allrepos/qjackctl.svg?columns=3&header=qjackctl&exclude_unsupported=1" alt="Packaging status" align="right">
