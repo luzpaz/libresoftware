@@ -104,6 +104,17 @@ https://github.com/supercollider/supercollider
 
 ----
 
+#### Fasttracker2
+<a href="https://repology.org/project/fasttracker2/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/fasttracker2.svg?columns=3&header=Fasttracker2&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://16-bits.org/ft2.php) [:octocat:](https://github.com/8bitbubsy/ft2-clone) [:bookmark:](https://github.com/8bitbubsy/ft2-clone/releases)
+
+<br clear="right"/>
+
+----
+
 #### helio-workstation
 <a href="https://repology.org/project/helio-workstation/versions">
     <img src="https://repology.org/badge/vertical-allrepos/helio-workstation.svg?columns=3&header=helio-workstation&exclude_unsupported=1" alt="Packaging status" align="right">
