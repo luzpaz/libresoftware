@@ -431,6 +431,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### gsequencer
+<a href="https://repology.org/project/gsequencer/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gsequencer.svg?columns=3&header=gsequencer&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.nongnu.org/gsequencer/) [:octocat:](http://git.savannah.nongnu.org/cgit/gsequencer.git/tree/) [:bookmark:](http://git.savannah.nongnu.org/cgit/gsequencer.git/tree/ChangeLog)
+
+<br clear="right"/>
+
 #### Hydrogen
 <a href="https://repology.org/project/hydrogen-drum-machine/versions">
     <img src="https://repology.org/badge/vertical-allrepos/hydrogen-drum-machine.svg?columns=3&header=Hydrogen&exclude_unsupported=1" alt="Packaging status" align="right">
