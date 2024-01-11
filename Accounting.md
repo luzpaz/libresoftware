@@ -1,3 +1,4 @@
+<!--
 #### astap
 <a href="https://repology.org/project/astap/versions">
     <img src="https://repology.org/badge/vertical-allrepos/astap.svg?columns=3&header=astap&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -6,6 +7,7 @@
 [:house:]() [:octocat:]() [:bookmark:]()
 
 <br clear="right"/>
+-->
 
 #### firefly-iii
 <a href="https://repology.org/project/firefly-iii/versions">
@@ -31,6 +33,15 @@
 </a>
 
 [:house:](https://hledger.org/) [:octocat:](https://github.com/simonmichael/hledger) [:bookmark:](https://github.com/simonmichael/hledger/blob/master/CHANGES.md)
+
+<br clear="right"/>
+
+#### HomeBank
+<a href="https://repology.org/project/homebank/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/homebank.svg?columns=3&header=HomeBank&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.gethomebank.org/) [:octocat:](https://bazaar.launchpad.net/~mdoyen/homebank/trunk/files) [:bookmark:](https://bazaar.launchpad.net/~mdoyen/homebank/trunk/view/head:/ChangeLog)
 
 <br clear="right"/>
 
