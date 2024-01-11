@@ -16,15 +16,6 @@
 
 <br clear="right"/>
 
-#### astap
-<a href="https://repology.org/project/astap/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/astap.svg?columns=3&header=astap&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:]() [:octocat:]() [:bookmark:]()
-
-<br clear="right"/>
-
 #### firefly-iii
 <a href="https://repology.org/project/firefly-iii/versions">
     <img src="https://repology.org/badge/vertical-allrepos/firefly-iii.svg?columns=3&header=firefly-iii&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -52,3 +43,11 @@
 
 <br clear="right"/>
 
+#### ledger
+<a href="https://repology.org/project/ledger/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ledger.svg?columns=3&header=ledger&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/ledger/ledger) [:octocat:](https://github.com/ledger/ledger) [:bookmark:](https://github.com/ledger/ledger/blob/master/NEWS.md)
+
+<br clear="right"/>
