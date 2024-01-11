@@ -7,8 +7,6 @@
 
 <br clear="right"/>
 
-<br clear="right"/>
-
 #### firefly-iii
 <a href="https://repology.org/project/firefly-iii/versions">
     <img src="https://repology.org/badge/vertical-allrepos/firefly-iii.svg?columns=3&header=firefly-iii&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -42,6 +40,8 @@
 </a>
 
 [:house:](https://kmymoney.org/) [:octocat:](https://invent.kde.org/office/kmymoney) [:bookmark:](https://kmymoney.org/news/)
+
+<br clear="right"/>
 
 #### ledger
 <a href="https://repology.org/project/ledger/versions">
