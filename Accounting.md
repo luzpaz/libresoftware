@@ -7,13 +7,6 @@
 
 <br clear="right"/>
 
-#### astap
-<a href="https://repology.org/project/astap/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/astap.svg?columns=3&header=astap&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:]() [:octocat:]() [:bookmark:]()
-
 <br clear="right"/>
 
 #### firefly-iii
@@ -42,6 +35,13 @@
 [:house:](https://hledger.org/) [:octocat:](https://github.com/simonmichael/hledger) [:bookmark:](https://github.com/simonmichael/hledger/blob/master/CHANGES.md)
 
 <br clear="right"/>
+
+#### kmymoney
+<a href="https://repology.org/project/kmymoney/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/kmymoney.svg?columns=3&header=kmymoney&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://kmymoney.org/) [:octocat:](https://invent.kde.org/office/kmymoney) [:bookmark:](https://kmymoney.org/news/)
 
 #### ledger
 <a href="https://repology.org/project/ledger/versions">
