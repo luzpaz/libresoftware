@@ -1,0 +1,54 @@
+#### astap
+<a href="https://repology.org/project/astap/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/astap.svg?columns=3&header=astap&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:]() [:octocat:]() [:bookmark:]()
+
+<br clear="right"/>
+
+#### astap
+<a href="https://repology.org/project/astap/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/astap.svg?columns=3&header=astap&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:]() [:octocat:]() [:bookmark:]()
+
+<br clear="right"/>
+
+#### astap
+<a href="https://repology.org/project/astap/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/astap.svg?columns=3&header=astap&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:]() [:octocat:]() [:bookmark:]()
+
+<br clear="right"/>
+
+#### firefly-iii
+<a href="https://repology.org/project/firefly-iii/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/firefly-iii.svg?columns=3&header=firefly-iii&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.firefly-iii.org/) [:octocat:](https://github.com/firefly-iii/firefly-iii) [:bookmark:](https://github.com/firefly-iii/firefly-iii/blob/main/changelog.md)
+
+<br clear="right"/>
+
+#### gnucash
+<a href="https://repology.org/project/gnucash/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gnucash.svg?columns=3&header=gnucash&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.gnucash.org/) [:octocat:](https://github.com/Gnucash/gnucash) [:bookmark:](https://github.com/Gnucash/gnucash/blob/stable/NEWS)
+
+<br clear="right"/>
+
+#### hledger
+<a href="https://repology.org/project/hledger/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/hledger.svg?columns=3&header=hledger&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://hledger.org/) [:octocat:](https://github.com/simonmichael/hledger) [:bookmark:](https://github.com/simonmichael/hledger/blob/master/CHANGES.md)
+
+<br clear="right"/>
+
