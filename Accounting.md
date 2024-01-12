@@ -62,3 +62,12 @@
 [:house:](https://github.com/ledger/ledger) [:octocat:](https://github.com/ledger/ledger) [:bookmark:](https://github.com/ledger/ledger/blob/master/NEWS.md)
 
 <br clear="right"/>
+
+#### Skrooge
+<a href="https://repology.org/project/skrooge/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/skrooge.svg?columns=3&header=Skrooge&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://skrooge.org/) [:octocat:](https://invent.kde.org/office/skrooge) [:bookmark:](https://invent.kde.org/office/skrooge/-/blob/master/CHANGELOG)
+
+<br clear="right"/>
