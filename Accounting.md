@@ -8,7 +8,6 @@
 
 <br clear="right"/>
 -->
-
 #### firefly-iii
 <a href="https://repology.org/project/firefly-iii/versions">
     <img src="https://repology.org/badge/vertical-allrepos/firefly-iii.svg?columns=3&header=firefly-iii&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -60,6 +59,15 @@
 </a>
 
 [:house:](https://github.com/ledger/ledger) [:octocat:](https://github.com/ledger/ledger) [:bookmark:](https://github.com/ledger/ledger/blob/master/NEWS.md)
+
+<br clear="right"/>
+
+#### LedgerSMB
+<a href="https://repology.org/project/ledgersmb/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ledgersmb.svg?columns=3&header=LedgerSMB&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://ledgersmb.org/) [:octocat:](https://github.com/ledgersmb/LedgerSMB) [:bookmark:](https://github.com/ledgersmb/LedgerSMB/blob/master/Changelog)
 
 <br clear="right"/>
 
