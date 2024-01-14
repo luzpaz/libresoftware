@@ -646,9 +646,9 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-#### URH
+#### Universal Radio Hacker
 <a href="https://repology.org/project/urh/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/urh.svg?columns=3&header=URG&exclude_unsupported=1" alt="Packaging status" align="right">
+    <img src="https://repology.org/badge/vertical-allrepos/urh.svg?columns=3&header=urh&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://github.com/jopohl/urh) [:octocat:](https://github.com/jopohl/urh) [:bookmark:](https://github.com/jopohl/urh/releases)
