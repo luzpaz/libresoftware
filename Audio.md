@@ -241,6 +241,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### qsynth
+<a href="https://repology.org/project/qsynth/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/qsynth.svg?columns=3&header=qsynth&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://qsynth.sourceforge.io/) [:octocat:](https://sourceforge.net/p/qsynth/code/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/qsynth/code/ci/master/tree/ChangeLog)
+
+<br clear="right"/>
+
 #### Surge
 <a href="https://repology.org/project/surge/versions">
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=surge&exclude_unsupported=1" alt="Packaging status" align="right">
