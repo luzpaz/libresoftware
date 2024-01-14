@@ -645,3 +645,12 @@ https://github.com/supercollider/supercollider
 [:house:](http://gpredict.oz9aec.net/) [:octocat:](https://github.com/csete/gpredict) [:bookmark:](https://github.com/csete/gpredict/blob/master/NEWS)
 
 <br clear="right"/>
+
+#### URH
+<a href="https://repology.org/project/urh/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/urh.svg?columns=3&header=URG&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/jopohl/urh) [:octocat:](https://github.com/jopohl/urh) [:bookmark:](https://github.com/jopohl/urh/releases)
+
+<br clear="right"/>
