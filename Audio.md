@@ -281,6 +281,15 @@ https://github.com/supercollider/supercollider
 
 ### Audio/Video Streaming
 
+#### butt
+<a href="https://repology.org/project/butt/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/butt.svg?columns=3&header=butt&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://danielnoethen.de/butt/) [:octocat:]() [:bookmark:](https://danielnoethen.de/butt/Changelog.html)
+
+<br clear="right"/>
+
 #### gstreamer
 <a href="https://repology.org/project/gstreamer/versions">
     <img src="https://repology.org/badge/vertical-allrepos/gstreamer.svg?columns=3&header=gstreamer&exclude_unsupported=1" alt="Packaging status" align="right">
