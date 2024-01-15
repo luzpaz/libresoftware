@@ -655,6 +655,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### SigDigger
+<a href="https://repology.org/project/sigdigger/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/sigdigger.svg?columns=3&header=SigDigger&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://batchdrake.github.io/SigDigger/) [:octocat:](https://github.com/BatchDrake/SigDigger) [:bookmark:](https://github.com/BatchDrake/SigDigger/releases)
+
+<br clear="right"/>
+
 #### Universal Radio Hacker
 <a href="https://repology.org/project/urh/versions">
     <img src="https://repology.org/badge/vertical-allrepos/urh.svg?columns=3&header=urh&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -663,3 +672,4 @@ https://github.com/supercollider/supercollider
 [:house:](https://github.com/jopohl/urh) [:octocat:](https://github.com/jopohl/urh) [:bookmark:](https://github.com/jopohl/urh/releases)
 
 <br clear="right"/>
+
