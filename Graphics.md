@@ -13,7 +13,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/digikam.svg?columns=3&header=digikam&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://digikam.org/) [:octocat:](https://invent.kde.org/graphics/digikam) [:bookmark:](https://invent.kde.org/graphics/digikam/-/commits/master)
+[:house:](https://digikam.org/) [:octocat:](https://invent.kde.org/graphics/digikam) [:bookmark:](https://invent.kde.org/graphics/digikam/-/tree/master/project)
 
 <br clear="right"/>
 
