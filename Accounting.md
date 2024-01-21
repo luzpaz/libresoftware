@@ -8,6 +8,15 @@
 
 <br clear="right"/>
 -->
+#### Denaro
+<a href="https://repology.org/project/denaro/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/denaro.svg?columns=3&header=Denaro&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://flathub.org/apps/details/org.nickvision.money) [:octocat:](https://github.com/NickvisionApps/Denaro) [:bookmark:](https://github.com/NickvisionApps/Denaro/blob/main/NickvisionMoney.Shared/Linux/org.nickvision.money.metainfo.xml.in)
+
+<br clear="right"/>
+
 #### firefly-iii
 <a href="https://repology.org/project/firefly-iii/versions">
     <img src="https://repology.org/badge/vertical-allrepos/firefly-iii.svg?columns=3&header=firefly-iii&exclude_unsupported=1" alt="Packaging status" align="right">
