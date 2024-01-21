@@ -156,6 +156,15 @@
 
 <br clear="right"/>
 
+#### Meshroom
+<a href="https://repology.org/project/meshroom/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/meshroom.svg?columns=3&header=Meshroom&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://alicevision.org/) [:octocat:](https://github.com/alicevision/Meshroom) [:bookmark:](https://github.com/alicevision/Meshroom/blob/develop/CHANGES.md)
+
+<br clear="right"/>
+
 #### SweetHome3d
 <a href="https://repology.org/project/sweethome3d/versions">
     <img src="https://repology.org/badge/vertical-allrepos/sweethome3d.svg?columns=3&header=SweetHome3d&exclude_unsupported=1" alt="Packaging status" align="right">
