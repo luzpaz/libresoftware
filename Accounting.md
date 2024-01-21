@@ -35,15 +35,6 @@
 
 <br clear="right"/>
 
-#### hledger
-<a href="https://repology.org/project/hledger/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/hledger.svg?columns=3&header=hledger&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](https://hledger.org/) [:octocat:](https://github.com/simonmichael/hledger) [:bookmark:](https://github.com/simonmichael/hledger/blob/master/CHANGES.md)
-
-<br clear="right"/>
-
 #### HomeBank
 <a href="https://repology.org/project/homebank/versions">
     <img src="https://repology.org/badge/vertical-allrepos/homebank.svg?columns=3&header=HomeBank&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -62,15 +53,6 @@
 
 <br clear="right"/>
 
-#### ledger
-<a href="https://repology.org/project/ledger/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/ledger.svg?columns=3&header=ledger&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](https://github.com/ledger/ledger) [:octocat:](https://github.com/ledger/ledger) [:bookmark:](https://github.com/ledger/ledger/blob/master/NEWS.md)
-
-<br clear="right"/>
-
 #### LedgerSMB
 <a href="https://repology.org/project/ledgersmb/versions">
     <img src="https://repology.org/badge/vertical-allrepos/ledgersmb.svg?columns=3&header=LedgerSMB&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -86,5 +68,27 @@
 </a>
 
 [:house:](https://skrooge.org/) [:octocat:](https://invent.kde.org/office/skrooge) [:bookmark:](https://invent.kde.org/office/skrooge/-/blob/master/CHANGELOG)
+
+<br clear="right"/>
+
+-----
+
+CLI Based Accounting
+
+#### hledger
+<a href="https://repology.org/project/hledger/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/hledger.svg?columns=3&header=hledger&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://hledger.org/) [:octocat:](https://github.com/simonmichael/hledger) [:bookmark:](https://github.com/simonmichael/hledger/blob/master/CHANGES.md)
+
+<br clear="right"/>
+
+#### ledger
+<a href="https://repology.org/project/ledger/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ledger.svg?columns=3&header=ledger&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/ledger/ledger) [:octocat:](https://github.com/ledger/ledger) [:bookmark:](https://github.com/ledger/ledger/blob/master/NEWS.md)
 
 <br clear="right"/>
