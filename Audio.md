@@ -436,7 +436,7 @@ https://github.com/supercollider/supercollider
     <img src="https://repology.org/badge/vertical-allrepos/geonkick.svg?columns=3&header=Geonkick&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://geonkick.org/) [:octocat:](https://github.com/Geonkick-Synthesizer/geonkick) [:bookmark:](https://github.com/Geonkick-Synthesizer/geonkick/blob/main/NEWS.md)
+[:house:](https://geonkick.org/) [:octocat:](https://github.com/Geonkick-Synthesizer/geonkick) [:bookmark:](https://github.com/Geonkick-Synthesizer/geonkick/blob/main/CHANGELOG.md)
 
 <br clear="right"/>
 
