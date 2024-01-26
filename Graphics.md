@@ -89,8 +89,17 @@
 
 <br clear="right"/>
 
-
 ----
+
+### 3dSlicer
+<a href="https://repology.org/project/3dslicer/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/3dslicer.svg?columns=3&header=3Dslicer&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.slicer.org/) [:octocat:](https://github.com/Slicer/Slicer/) [:bookmark:](https://discourse.slicer.org/c/announcements/7)
+
+<br clear="right"/>
+
 
 #### Blender
 <a href="https://repology.org/project/blender/versions">
@@ -118,6 +127,16 @@
 [:house:](https://freecad.org) [:octocat:](https://github.com/FreeCAD/FreeCAD) [:bookmark:](https://github.com/FreeCAD/FreeCAD/commits/main)
 
 <br clear="right"/>
+
+#### GnuOctave
+<a href="https://repology.org/project/octave/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/octave.svg?columns=3&header=GnuOctave&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://octave.org/) [:octocat:](https://hg.octave.org/octave/file/tip/) [:bookmark:](https://octave.org/news.html)
+
+<br clear="right"/>
+
 
 #### GnuPlot
 <a href="https://repology.org/project/gnuplot/versions">
