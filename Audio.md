@@ -495,6 +495,16 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### Picard
+<a href="https://repology.org/project/picard-tagger/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/picard-tagger.svg?columns=3&header=Picard&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://picard.musicbrainz.org/) [:octocat:](https://github.com/metabrainz/picard) [:bookmark:](https://github.com/metabrainz/picard/blob/master/NEWS.md)
+
+<br clear="right"/>
+
+
 #### qjackctl
 <a href="https://repology.org/project/qjackctl/versions">
     <img src="https://repology.org/badge/vertical-allrepos/qjackctl.svg?columns=3&header=qjackctl&exclude_unsupported=1" alt="Packaging status" align="right">
