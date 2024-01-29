@@ -674,6 +674,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### gqrx
+<a href="https://repology.org/project/gqrx/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gqrx.svg?columns=3&header=gqrx&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.gqrx.dk/) [:octocat:](https://github.com/gqrx-sdr/gqrx) [:bookmark:](https://github.com/gqrx-sdr/gqrx/releases)
+
+<br clear="right"/>
+
 #### SigDigger
 <a href="https://repology.org/project/sigdigger/versions">
     <img src="https://repology.org/badge/vertical-allrepos/sigdigger.svg?columns=3&header=SigDigger&exclude_unsupported=1" alt="Packaging status" align="right">
