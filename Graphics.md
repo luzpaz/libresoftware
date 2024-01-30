@@ -195,6 +195,44 @@
 
 ----
 
+#### ITK
+<a href="https://repology.org/project/insighttoolkit/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/insighttoolkit.svg?columns=3&header=ITK&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://itk.org/) [:octocat:](https://github.com/InsightSoftwareConsortium/ITK) [:bookmark:](https://github.com/InsightSoftwareConsortium/ITK/releases)
+
+<br clear="right"/>
+
+#### MITK
+<a href="https://repology.org/project/mitk/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/mitk.svg?columns=3&header=MITK&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.mitk.org/)) [:octocat:](https://github.com/MITK/MITK) [:bookmark:](https://github.com/MITK/MITK/releases)
+
+<br clear="right"/>
+
+#### ParaView
+<a href="https://repology.org/project/vtk/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/paraview.svg?columns=3&header=ParaView&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.paraview.org/) [:octocat:](https://gitlab.kitware.com/paraview/paraview) [:bookmark:](https://www.kitware.com/tag/release-notes/)
+
+<br clear="right"/>
+
+#### VTK
+<a href="https://repology.org/project/vtk/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/vtk.svg?columns=3&header=VTK&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://vtk.org/) [:octocat:](https://gitlab.kitware.com/vtk/vtk) [:bookmark:](https://gitlab.kitware.com/vtk/vtk/-/tags)
+
+<br clear="right"/>
+
+----
+
 #### QGIS
 <a href="https://repology.org/project/qgis/versions">
     <img src="https://repology.org/badge/vertical-allrepos/qgis.svg?columns=3&header=QGIS&exclude_unsupported=1" alt="Packaging status" align="right">
