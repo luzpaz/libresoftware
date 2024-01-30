@@ -190,6 +190,17 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### Schism Tracker
+<a href="https://repology.org/project/schismtracker/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/schismtracker.svg?columns=3&header=SchismTracker&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://schismtracker.org/) [:octocat:](https://github.com/schismtracker/schismtracker) [:bookmark:](https://github.com/schismtracker/schismtracker/releases)
+
+<br clear="right"/>
+
+----
+
 #### Stargate
 <a href="https://repology.org/project/stargate/versions">
     <img src="https://repology.org/badge/vertical-allrepos/stargate.svg?columns=3&header=Stargate&exclude_unsupported=1" alt="Packaging status" align="right">
