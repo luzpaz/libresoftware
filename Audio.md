@@ -616,6 +616,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### WirePlumer
+<a href="https://repology.org/project/wireplumber/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/wireplumber.svg?columns=3&header=WirePlumer&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://pipewire.pages.freedesktop.org/wireplumber/) [:octocat:](https://gitlab.freedesktop.org/pipewire/wireplumber) [:bookmark:](https://gitlab.freedesktop.org/pipewire/wireplumber/-/blob/master/NEWS.rst)
+
+<br clear="right"/>
+
 ### Music Notation
 
 #### Frescobaldi
