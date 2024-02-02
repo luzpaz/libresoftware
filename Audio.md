@@ -487,7 +487,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-
 #### master_me
 <a href="https://repology.org/project/master-me/versions">
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=master-me&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -503,6 +502,15 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://polymeilex.github.io/Neothesia/) [:octocat:](https://github.com/PolyMeilex/Neothesia) [:bookmark:](https://github.com/PolyMeilex/Neothesia/releases)
+
+<br clear="right"/>
+
+#### opus
+<a href="https://repology.org/project/opus/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/opus.svg?columns=3&header=opus&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.opus-codec.org/) [:octocat:](https://github.com/xiph/opus) [:bookmark:](https://opus-codec.org/)
 
 <br clear="right"/>
 
