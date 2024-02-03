@@ -702,6 +702,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### hamlib
+<a href="https://repology.org/project/hamlib/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/hamlib.svg?columns=3&header=hamlib&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://hamlib.github.io/) [:octocat:](https://github.com/Hamlib/Hamlib) [:bookmark:](https://github.com/Hamlib/Hamlib/blob/master/NEWS)
+
+<br clear="right"/>
+
 #### gqrx
 <a href="https://repology.org/project/gqrx/versions">
     <img src="https://repology.org/badge/vertical-allrepos/gqrx.svg?columns=3&header=gqrx&exclude_unsupported=1" alt="Packaging status" align="right">
