@@ -387,6 +387,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### Calf
+<a href="https://repology.org/project/calf/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/calf.svg?columns=3&header=Calf&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://calf-studio-gear.org/) [:octocat:](https://github.com/calf-studio-gear/calf) [:bookmark:](https://github.com/calf-studio-gear/calf/blob/master/ChangeLog)
+
+<br clear="right"/>
+
 #### Cardinal
 <a href="https://repology.org/project/cardinal/versions">
     <img src="https://repology.org/badge/vertical-allrepos/cardinal.svg?columns=3&header=Cardinal&exclude_unsupported=1" alt="Packaging status" align="right">
