@@ -50,6 +50,8 @@
 
 [:house:](https://www.gnu.org/software/gnuastro/) [:octocat:](https://git.savannah.gnu.org/cgit/gnuastro.git/tree/) [:bookmark:](https://git.savannah.gnu.org/cgit/gnuastro.git/tree/NEWS)
 
+<br clear="right"/>
+
 #### INDI
 <a href="https://repology.org/project/indilib/versions">
     <img src="https://repology.org/badge/vertical-allrepos/indilib.svg?columns=3&header=INDI&exclude_unsupported=1" alt="Packaging status" align="right">
