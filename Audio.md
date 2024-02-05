@@ -731,7 +731,7 @@ https://github.com/supercollider/supercollider
 
 #### SDR++
 <a href="https://repology.org/project/sdr++/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/sdr++.svg?columns=3&header=SDR++&exclude_unsupported=1" alt="Packaging status" align="right">
+    <img src="https://repology.org/badge/vertical-allrepos/SDRplusplus.svg?columns=3&header=SDR++&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://www.sdrpp.org/) [:octocat:](https://github.com/AlexandreRouma/SDRPlusPlus/) [:bookmark:](https://github.com/AlexandreRouma/SDRPlusPlus/releases)
