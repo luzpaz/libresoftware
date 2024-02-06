@@ -1,3 +1,11 @@
+#### BeeRef
+<a href="https://repology.org/project/beeref/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/beeref.svg?columns=3&header=BeeRef&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://beeref.org/) [:octocat:](https://github.com/rbreu/beeref) [:bookmark:](https://github.com/rbreu/beeref/blob/main/CHANGELOG.rst)
+
+<br clear="right"/>
 
 #### darktable
 <a href="https://repology.org/project/darktable/versions">
