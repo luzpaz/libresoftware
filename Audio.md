@@ -505,6 +505,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### midimonster
+<a href="https://repology.org/project/midimonster/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/midimonster.svg?columns=3&header=midimonster&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://midimonster.net/) [:octocat:](https://github.com/cbdevnet/midimonster) [:bookmark:](https://github.com/cbdevnet/midimonster/releases)
+
+<br clear="right"/>
+
 #### Neothesia
 <a href="https://repology.org/project/neothesia/versions">
     <img src="https://repology.org/badge/vertical-allrepos/neothesia.svg?columns=3&header=Neothesia&exclude_unsupported=1" alt="Packaging status" align="right">
