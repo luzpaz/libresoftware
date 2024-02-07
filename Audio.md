@@ -622,6 +622,13 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### wildmidi
+<a href="https://repology.org/project/wildmidi/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/wildmidi.svg?columns=3&header=wildmidi&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/Mindwerks/wildmidi) [:octocat:](https://github.com/Mindwerks/wildmidi) [:bookmark:](https://github.com/Mindwerks/wildmidi/blob/master/README.md)
+
 #### zynaddsubfx
 <a href="https://repology.org/project/zynaddsubfx/versions">
     <img src="https://repology.org/badge/vertical-allrepos/zynaddsubfx.svg?columns=3&header=zynaddsubfx&exclude_unsupported=1" alt="Packaging status" align="right">
