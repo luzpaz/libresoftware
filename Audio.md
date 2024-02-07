@@ -541,6 +541,14 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### projectm
+<a href="https://repology.org/project/projectm/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/projectm.svg?columns=3&header=projectm&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/projectM-visualizer/projectm) [:octocat:](https://github.com/projectM-visualizer/projectm) [:bookmark:](https://github.com/projectM-visualizer/projectm/releases)
+
+<br clear="right"/>
 
 #### qjackctl
 <a href="https://repology.org/project/qjackctl/versions">
