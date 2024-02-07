@@ -136,11 +136,11 @@
 
 ----
 
-<a href="https://repology.org/project/ffmpeg/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg?columns=3&header=ffmpeg&exclude_unsupported=1" alt="Packaging status" align="right">
+<a href="https://repology.org/project/gstreamer/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gstreamer.svg?columns=3&header=gstreamer&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://ffmpeg.org) [:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+[:house:](https://gstreamer.freedesktop.org/) [:octocat:](https://gitlab.freedesktop.org/gstreamer/gstreamer) [:bookmark:](https://gstreamer.freedesktop.org/news/)
 
 <br clear="right"/>
 
