@@ -126,11 +126,11 @@
 
 ----
 
-<a href="https://repology.org/project/ffmpeg/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg?columns=3&header=ffmpeg&exclude_unsupported=1" alt="Packaging status" align="right">
+<a href="https://repology.org/project/fftw/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/fftw.svg?columns=3&header=fftw&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://ffmpeg.org) [:octocat:](https://github.com/FFmpeg/FFmpeg) [:bookmark:](https://github.com/FFmpeg/FFmpeg/blob/master/Changelog)
+[:house:](https://fftw.org/) [:octocat:](https://github.com/FFTW/fftw3) [:bookmark:](https://github.com/FFTW/fftw3/blob/master/NEWS)
 
 <br clear="right"/>
 
