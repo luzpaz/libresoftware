@@ -189,11 +189,10 @@
 
 <br clear="right"/>
 
-
 #### Subtitle Composer
 
 <a href="https://repology.org/project/subtitlecomposer/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/subtitlecomposerc.svg?columns=3&header=SubtitleComposer&exclude_unsupported=1" alt="Packaging status" align="right">
+    <img src="https://repology.org/badge/vertical-allrepos/subtitlecomposer.svg?columns=3&header=SubtitleComposer&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://subtitlecomposer.kde.org/) [:octocat:](https://invent.kde.org/multimedia/subtitlecomposer) [:bookmark:](https://invent.kde.org/multimedia/subtitlecomposer/-/blob/master/ChangeLog)
