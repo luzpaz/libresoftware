@@ -148,6 +148,16 @@
 
 ----
 
+#### QMMP
+
+<a href="https://repology.org/project/qmmp/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/qmmp.svg?columns=3&header=QMMP&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://qmmp.ylsoftware.com/) [:octocat:](https://sourceforge.net/p/qmmp-dev/code/HEAD/tree/trunk/qmmp/) [:bookmark:]()
+
+<br clear="right"/>
+
 #### SMPlayer
 
 <a href="https://repology.org/project/smplayer/versions">
