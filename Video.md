@@ -177,3 +177,25 @@
 [:house:](https://www.videolan.org/vlc/) [:octocat:](https://code.videolan.org/videolan/vlc) [:bookmark:](https://code.videolan.org/videolan/vlc/-/tags)
 
 <br clear="right"/>
+
+
+#### Gnome Subtitles
+
+<a href="https://repology.org/project/gnome-subtitles/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gnome-subtitles.svg?columns=3&header=GnomeSubtitles&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://gnomesubtitles.org/) [:octocat:](https://gitlab.gnome.org/GNOME/gnome-subtitles) [:bookmark:](https://gitlab.gnome.org/GNOME/gnome-subtitles/-/blob/master/NEWS)
+
+<br clear="right"/>
+
+
+#### Subtitle Composer
+
+<a href="https://repology.org/project/subtitlecomposer/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/subtitlecomposerc.svg?columns=3&header=SubtitleComposer&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://subtitlecomposer.kde.org/) [:octocat:](https://invent.kde.org/multimedia/subtitlecomposer) [:bookmark:](https://invent.kde.org/multimedia/subtitlecomposer/-/blob/master/ChangeLog)
+
+<br clear="right"/>
