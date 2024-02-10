@@ -91,6 +91,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### SoundTouch
+<a href="https://repology.org/project/soundtouch/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/soundtouch.svg?columns=3&header=SoundTouch&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.surina.net/soundtouch/) [:octocat:](https://codeberg.org/soundtouch/soundtouch) [:bookmark:](https://www.surina.net/soundtouch/README.html)
+
+<br clear="right"/>
+
 ### DAWs
 
 #### Ardour
