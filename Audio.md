@@ -451,6 +451,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### eko
+<a href="https://repology.org/project/eko/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/eko.svg?columns=3&header=Eko&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:]() [:octocat:](https://github.com/psemiletov/eko) [:bookmark:](https://github.com/psemiletov/eko/releases)
+
+<br clear="right"/>
+
 #### element
 <a href="https://repology.org/project/element-audio-plugin-host/versions">
     <img src="https://repology.org/badge/vertical-allrepos/element-audio-plugin-host.svg?columns=3&header=element&exclude_unsupported=1" alt="Packaging status" align="right">
