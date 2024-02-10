@@ -178,6 +178,7 @@
 
 <br clear="right"/>
 
+### Misc.
 
 #### Gnome Subtitles
 
@@ -196,5 +197,15 @@
 </a>
 
 [:house:](https://subtitlecomposer.kde.org/) [:octocat:](https://invent.kde.org/multimedia/subtitlecomposer) [:bookmark:](https://invent.kde.org/multimedia/subtitlecomposer/-/blob/master/ChangeLog)
+
+<br clear="right"/>
+
+#### MythTV
+
+<a href="https://repology.org/project/mythtv/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/mythtv.svg?columns=3&header=MythTV&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.mythtv.org/) [:octocat:](https://github.com/MythTV/mythtv) [:bookmark:](https://www.mythtv.org/news)
 
 <br clear="right"/>
