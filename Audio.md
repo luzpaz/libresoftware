@@ -753,6 +753,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### liquid-dsp
+<a href="https://repology.org/project/liquid-dsp/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/liquid-dsp.svg?columns=3&header=liquiddsp&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://liquidsdr.org/) [:octocat:](https://github.com/jgaeddert/liquid-dsp) [:bookmark:](https://github.com/jgaeddert/liquid-dsp/blob/master/HISTORY)
+
+<br clear="right"/>
+
 #### SDR++
 <a href="https://repology.org/project/sdr++/versions">
     <img src="https://repology.org/badge/vertical-allrepos/sdr++.svg?columns=3&header=SDRplusplus&exclude_unsupported=1" alt="Packaging status" align="right">
