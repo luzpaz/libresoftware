@@ -200,6 +200,16 @@
 
 <br clear="right"/>
 
+#### Gyroflow
+
+<a href="https://repology.org/project/gyroflow/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gyroflow.svg?columns=3&header=Gyroflow&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://gyroflow.xyz/) [:octocat:](https://github.com/gyroflow/gyroflow) [:bookmark:](https://github.com/gyroflow/gyroflow/releases)
+
+<br clear="right"/>
+
 #### MythTV
 
 <a href="https://repology.org/project/mythtv/versions">
