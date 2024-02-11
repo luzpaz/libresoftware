@@ -220,6 +220,16 @@
 
 <br clear="right"/>
 
+#### Kodi
+
+<a href="https://repology.org/project/kodi/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/kodi.svg?columns=3&header=Kodi&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://kodi.tv/) [:octocat:](https://github.com/xbmc/xbmc) [:bookmark:](https://kodi.tv/blog/tag/release/)
+
+<br clear="right"/>
+
 #### MythTV
 
 <a href="https://repology.org/project/mythtv/versions">
