@@ -105,6 +105,16 @@
 
 ----
 
+<a href="https://repology.org/project/libsamplerate/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/libsamplerate.svg?columns=3&header=libsamplerate&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://libsndfile.github.io/libsamplerate/) [:octocat:](https://github.com/erikd/libsamplerate) [:bookmark:](https://github.com/libsndfile/libsamplerate/blob/master/NEWS)
+
+<br clear="right"/>
+
+----
+
 <a href="https://repology.org/project/libsndfile/versions">
     <img src="https://repology.org/badge/vertical-allrepos/libsndfile.svg?columns=3&header=libsndfile&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
