@@ -6,8 +6,6 @@ http://supercollider.github.io/
 https://github.com/supercollider/supercollider
 -->
 
-----
-
 #### alsa-lib
 <a href="https://repology.org/project/alsa-lib/versions">
     <img src="https://repology.org/badge/vertical-allrepos/alsa-lib.svg?columns=3&header=alsa-lib&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -16,8 +14,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://www.alsa-project.org) [:octocat:](https://github.com/alsa-project/alsa-lib) [:bookmark:](https://www.alsa-project.org/wiki/Main_Page_News)
 
 <br clear="right"/>
-
-----
 
 #### JackAudio
 <a href="https://repology.org/project/jack-audio-connection-kit/versions">
@@ -28,8 +24,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-----
-
 #### JUCE
 <a href="https://repology.org/project/juce/versions">
     <img src="https://repology.org/badge/vertical-allrepos/juce.svg?columns=3&header=JUCE&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -38,8 +32,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://juce.com/) [:octocat:](https://github.com/juce-framework/JUCE) [:bookmark:](https://github.com/juce-framework/JUCE/blob/master/CHANGE_LIST.md)
 
 <br clear="right"/>
-
-----
 
 #### PipeWire
 <a href="https://repology.org/project/pipewire/versions">
@@ -50,8 +42,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-----
-
 #### PulseAudio
 <a href="https://repology.org/project/pulseaudio/versions">
     <img src="https://repology.org/badge/vertical-allrepos/pulseaudio.svg?columns=3&header=PulseAudio&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -60,9 +50,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://www.freedesktop.org/wiki/Software/PulseAudio/) [:octocat:](https://gitlab.freedesktop.org/pulseaudio/pulseaudio) [:bookmark:](https://gitlab.freedesktop.org/pulseaudio/pulseaudio/-/blob/master/NEWS)
 
 <br clear="right"/>
-
-
-----
 
 #### PortMidi
 <a href="https://repology.org/project/portmidi/versions">
@@ -100,6 +87,8 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+----
+
 ### DAWs
 
 #### Ardour
@@ -111,8 +100,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-----
-
 #### Fasttracker2
 <a href="https://repology.org/project/fasttracker2/versions">
     <img src="https://repology.org/badge/vertical-allrepos/fasttracker2.svg?columns=3&header=Fasttracker2&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -121,8 +108,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://16-bits.org/ft2.php) [:octocat:](https://github.com/8bitbubsy/ft2-clone) [:bookmark:](https://github.com/8bitbubsy/ft2-clone/releases)
 
 <br clear="right"/>
-
-----
 
 #### helio-workstation
 <a href="https://repology.org/project/helio-workstation/versions">
@@ -133,8 +118,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-----
-
 #### LMMS
 <a href="https://repology.org/project/lmms/versions">
     <img src="https://repology.org/badge/vertical-allrepos/lmms.svg?columns=3&header=LMMS&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -143,8 +126,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://lmms.io) [:octocat:](https://github.com/LMMS/lmms) [:bookmark:](https://github.com/LMMS/lmms/releases)
 
 <br clear="right"/>
-
-----
 
 #### Muse Sequencer
 <a href="https://repology.org/project/muse-sequencer/versions">
@@ -155,8 +136,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-----
-
 #### Qtractor
 <a href="https://repology.org/project/qtractor/versions">
     <img src="https://repology.org/badge/vertical-allrepos/qtractor.svg?columns=3&header=Qtractor&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -165,8 +144,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://qtractor.org/) [:octocat:](https://sourceforge.net/p/qtractor/code) [:bookmark:](https://sourceforge.net/p/qtractor/code/ci/master/tree/ChangeLog)
 
 <br clear="right"/>
-
-----
 
 #### OpenMPT
 <a href="https://repology.org/project/openmpt/versions">
@@ -177,8 +154,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-----
-
 #### Ossia-Score
 <a href="https://repology.org/project/ossia-score/versions">
     <img src="https://repology.org/badge/vertical-allrepos/ossia-score.svg?columns=3&header=ossia-score&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -187,8 +162,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://ossia.io/) [:octocat:](https://github.com/ossia/score) [:bookmark:](https://github.com/ossia/score/releases)
 
 <br clear="right"/>
-
-----
 
 #### Rosegarden
 <a href="https://repology.org/project/rosegarden/versions">
@@ -208,8 +181,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-----
-
 #### Stargate
 <a href="https://repology.org/project/stargate/versions">
     <img src="https://repology.org/badge/vertical-allrepos/stargate.svg?columns=3&header=Stargate&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -218,8 +189,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://github.com/stargatedaw/stargate) [:octocat:](https://github.com/stargatedaw/stargate) [:bookmark:](https://github.com/stargatedaw/stargate/releases)
 
 <br clear="right"/>
-
-----
 
 #### Zrythm
 <a href="https://repology.org/project/zrythm/versions">
@@ -441,7 +410,6 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-
 #### Drumstick
 <a href="https://repology.org/project/drumstick/versions">
     <img src="https://repology.org/badge/vertical-allrepos/drumstick.svg?columns=3&header=Drumstick&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -647,6 +615,8 @@ https://github.com/supercollider/supercollider
 
 [:house:](https://github.com/Mindwerks/wildmidi) [:octocat:](https://github.com/Mindwerks/wildmidi) [:bookmark:](https://github.com/Mindwerks/wildmidi/blob/master/README.md)
 
+<br clear="right"/>
+
 #### zynaddsubfx
 <a href="https://repology.org/project/zynaddsubfx/versions">
     <img src="https://repology.org/badge/vertical-allrepos/zynaddsubfx.svg?columns=3&header=zynaddsubfx&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -655,7 +625,6 @@ https://github.com/supercollider/supercollider
 [:house:](https://zynaddsubfx.sourceforge.io/) [:octocat:](https://github.com/zynaddsubfx/zynaddsubfx) [:bookmark:](https://github.com/zynaddsubfx/zynaddsubfx/tags)
 
 <br clear="right"/>
-
 
 #### SooperLooper
 <a href="https://repology.org/project/sooperlooper/versions">
