@@ -352,6 +352,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### UltraGrid
+<a href="https://repology.org/project/ultragrid/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ultragrid.svg?columns=3&header=UltraGrid&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.ultragrid.cz/) [:octocat:](https://github.com/CESNET/UltraGrid) [:bookmark:](https://github.com/CESNET/UltraGrid/blob/master/NEWS)
+
+<br clear="right"/>
+
 ----
 
 ### Audio misc.
