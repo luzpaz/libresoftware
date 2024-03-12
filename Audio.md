@@ -581,6 +581,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### snd
+<a href="https://repology.org/project/snd/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/snd.svg?columns=3&header=snd&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://ccrma.stanford.edu/software/snd/) [:octocat:](https://sourceforge.net/p/snd/svn1/HEAD/tree/trunk/) [:bookmark:](https://sourceforge.net/p/snd/svn1/HEAD/tree/trunk/NEWS)
+
+<br clear="right"/>
+
 #### Seq66
 <a href="https://repology.org/project/seq66/versions">
     <img src="https://repology.org/badge/vertical-allrepos/seq66.svg?columns=3&header=Seq66&exclude_unsupported=1" alt="Packaging status" align="right">
