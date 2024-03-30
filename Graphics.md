@@ -75,7 +75,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/krita.svg?columns=3&header=krita&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://krita.org) [:octocat:](https://invent.kde.org/graphics/krita) [:bookmark:](https://krita.org/en/about/krita-releases-overview/)
+[:house:](https://krita.org) [:octocat:](https://invent.kde.org/graphics/krita) [:bookmark:](https://krita.org/en/release-notes/)
 
 <br clear="right"/>
 
