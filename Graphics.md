@@ -222,7 +222,7 @@
 <br clear="right"/>
 
 #### ParaView
-<a href="https://repology.org/project/vtk/versions">
+<a href="https://repology.org/project/paraview/versions">
     <img src="https://repology.org/badge/vertical-allrepos/paraview.svg?columns=3&header=ParaView&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
