@@ -141,7 +141,7 @@ https://github.com/supercollider/supercollider
     <img src="https://repology.org/badge/vertical-allrepos/qtractor.svg?columns=3&header=Qtractor&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://qtractor.org/) [:octocat:](https://sourceforge.net/p/qtractor/code) [:bookmark:](https://sourceforge.net/p/qtractor/code/ci/master/tree/ChangeLog)
+[:house:](https://qtractor.org/) [:octocat:](https://sourceforge.net/p/qtractor/code) [:bookmark:](https://sourceforge.net/p/qtractor/code/ci/main/tree/ChangeLog)
 
 <br clear="right"/>
 
