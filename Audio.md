@@ -446,6 +446,15 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
+#### fooyin
+<a href="https://repology.org/project/fooyin/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/fooyin.svg?columns=3&header=fooyin&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.fooyin.org) [:octocat:](https://github.com/fooyin/fooyin) [:bookmark:](https://github.com/fooyin/fooyin/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
+
 #### geonkick
 <a href="https://repology.org/project/geonkick/versions">
     <img src="https://repology.org/badge/vertical-allrepos/geonkick.svg?columns=3&header=Geonkick&exclude_unsupported=1" alt="Packaging status" align="right">
