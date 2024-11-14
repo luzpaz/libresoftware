@@ -145,6 +145,16 @@
 
 <br clear="right"/>
 
+#### Dune3D
+<a href="https://repology.org/project/dune3d/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/dune3d.svg?columns=3&header=Dune3D&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://dune3d.org/) [:octocat:](https://github.com/dune3d/dune3d) [:bookmark:](https://github.com/dune3d/dune3d/blob/main/CHANGELOG.md)
+
+<br clear="right"/>
+
+
 #### GnuOctave
 <a href="https://repology.org/project/octave/versions">
     <img src="https://repology.org/badge/vertical-allrepos/octave.svg?columns=3&header=GnuOctave&exclude_unsupported=1" alt="Packaging status" align="right">
