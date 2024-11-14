@@ -618,8 +618,8 @@ https://github.com/supercollider/supercollider
 <br clear="right"/>
 
 #### sonicvisualiser
-<a href="https://repology.org/project/sonicvisualiser/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/sonicvisualiser.svg?columns=3&header=sonicvisualiser&exclude_unsupported=1" alt="Packaging status" align="right">
+<a href="https://repology.org/project/sonic-visualiser/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/sonic-visualiser.svg?columns=3&header=sonicvisualiser&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://www.sonicvisualiser.org/) [:octocat:](https://github.com/sonic-visualiser/sonic-visualiser) [:bookmark:](https://github.com/sonic-visualiser/sonic-visualiser/blob/default/CHANGELOG)
