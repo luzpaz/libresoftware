@@ -109,9 +109,9 @@ https://github.com/supercollider/supercollider
 
 <br clear="right"/>
 
-#### helio-workstation
-<a href="https://repology.org/project/helio-workstation/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/helio-workstation.svg?columns=3&header=helio-workstation&exclude_unsupported=1" alt="Packaging status" align="right">
+#### helio
+<a href="https://repology.org/project/helio/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/helio.svg?columns=3&header=helio-workstation&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://helio.fm/) [:octocat:](https://github.com/helio-fm/helio-sequencer) [:bookmark:](https://github.com/helio-fm/helio-sequencer/blob/develop/CHANGELOG.md)
