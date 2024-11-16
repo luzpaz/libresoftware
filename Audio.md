@@ -12,7 +12,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.alsa-project.org) [:octocat:](https://github.com/alsa-project/alsa-lib) [:bookmark:](https://www.alsa-project.org/wiki/Main_Page_News)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/alsa-lib.svg)](https://repology.org/project/alsa-lib/versions)
 <br clear="right"/>
 
 #### JackAudio
@@ -21,7 +21,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://jackaudio.org/) [:octocat:](https://github.com/jackaudio/jack2) [:bookmark:](https://github.com/jackaudio/jack2/blob/develop/ChangeLog.rst)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/jack-audio-connection-kit.svg)](https://repology.org/project/jack-audio-connection-kit/versions)
 <br clear="right"/>
 
 #### JUCE
@@ -30,7 +30,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://juce.com/) [:octocat:](https://github.com/juce-framework/JUCE) [:bookmark:](https://github.com/juce-framework/JUCE/blob/master/CHANGE_LIST.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/juce.svg)](https://repology.org/project/juce/versions)
 <br clear="right"/>
 
 #### PipeWire
@@ -39,7 +39,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://pipewire.org) [:octocat:](https://gitlab.freedesktop.org/pipewire/pipewire) [:bookmark:](https://gitlab.freedesktop.org/pipewire/pipewire/-/blob/master/NEWS)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/pipewire.svg)](https://repology.org/project/pipewire/versions)
 <br clear="right"/>
 
 #### PulseAudio
@@ -48,7 +48,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.freedesktop.org/wiki/Software/PulseAudio/) [:octocat:](https://gitlab.freedesktop.org/pulseaudio/pulseaudio) [:bookmark:](https://gitlab.freedesktop.org/pulseaudio/pulseaudio/-/blob/master/NEWS)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/pulseaudio.svg)](https://repology.org/project/pulseaudio/versions)
 <br clear="right"/>
 
 #### PortMidi
@@ -57,7 +57,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://github.com/PortMidi/portmidi) [:octocat:](https://github.com/PortMidi/portmidi) [:bookmark:](https://github.com/PortMidi/portmidi/blob/master/CHANGELOG.txt)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/portmidi.svg)](https://repology.org/project/portmidi/versions)
 <br clear="right"/>
 
 #### rtaudio
@@ -66,7 +66,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](http://www.music.mcgill.ca/~gary/rtaudio/) [:octocat:](https://github.com/thestk/rtaudio) [:bookmark:](https://github.com/thestk/rtaudio/blob/master/doc/release.txt)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/rtaudio.svg)](https://repology.org/project/rtaudio/versions)
 <br clear="right"/>
 
 #### rtpmidid
@@ -75,7 +75,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://github.com/davidmoreno/rtpmidid) [:octocat:](https://github.com/davidmoreno/rtpmidid) [:bookmark:](https://github.com/davidmoreno/rtpmidid/blob/master/debian/changelog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/rtpmidid.svg)](https://repology.org/project/rtpmidid/versions)
 <br clear="right"/>
 
 #### SoundTouch
@@ -84,7 +84,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.surina.net/soundtouch/) [:octocat:](https://codeberg.org/soundtouch/soundtouch) [:bookmark:](https://www.surina.net/soundtouch/README.html)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/soundtouch.svg)](https://repology.org/project/soundtouch/versions)
 <br clear="right"/>
 
 ----
@@ -97,7 +97,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://ardour.org) [:octocat:](https://github.com/Ardour/ardour) [:bookmark:](http://ardour.org/whatsnew.html)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/ardour.svg)](https://repology.org/project/ardour/versions)
 <br clear="right"/>
 
 #### Fasttracker2
@@ -106,7 +106,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://16-bits.org/ft2.php) [:octocat:](https://github.com/8bitbubsy/ft2-clone) [:bookmark:](https://github.com/8bitbubsy/ft2-clone/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/fasttracker2.svg)](https://repology.org/project/fasttracker2/versions)
 <br clear="right"/>
 
 #### helio
@@ -115,7 +115,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://helio.fm/) [:octocat:](https://github.com/helio-fm/helio-sequencer) [:bookmark:](https://github.com/helio-fm/helio-sequencer/blob/develop/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/helio.svg)](https://repology.org/project/helio/versions)
 <br clear="right"/>
 
 #### LMMS
@@ -124,7 +124,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://lmms.io) [:octocat:](https://github.com/LMMS/lmms) [:bookmark:](https://github.com/LMMS/lmms/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/lmms.svg)](https://repology.org/project/lmms/versions)
 <br clear="right"/>
 
 #### Muse Sequencer
@@ -133,7 +133,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://muse-sequencer.github.io/) [:octocat:](https://github.com/muse-sequencer/muse) [:bookmark:](https://github.com/muse-sequencer/muse/wiki/News)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/muse-sequencer.svg)](https://repology.org/project/muse-sequencer/versions)
 <br clear="right"/>
 
 #### Qtractor
@@ -142,7 +142,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://qtractor.org/) [:octocat:](https://sourceforge.net/p/qtractor/code) [:bookmark:](https://sourceforge.net/p/qtractor/code/ci/main/tree/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/qtractor.svg)](https://repology.org/project/qtractor/versions)
 <br clear="right"/>
 
 #### OpenMPT
@@ -151,7 +151,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://openmpt.org/) [:octocat:](https://github.com/OpenMPT/openmpt) [:bookmark:](https://openmpt.org/release_notes/History.txt)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/openmpt.svg)](https://repology.org/project/openmpt/versions)
 <br clear="right"/>
 
 #### Ossia-Score
@@ -160,7 +160,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://ossia.io/) [:octocat:](https://github.com/ossia/score) [:bookmark:](https://github.com/ossia/score/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/ossia-score/.svg)](https://repology.org/project/ossia-score//versions)
 <br clear="right"/>
 
 #### Rosegarden
@@ -169,7 +169,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://rosegardenmusic.com/) [:octocat:](https://github.com/tedfelix/rosegarden-official) [:bookmark:](https://sourceforge.net/p/rosegarden/git/ci/master/tree/CHANGELOG)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/rosegarden.svg)](https://repology.org/project/rosegarden/versions)
 <br clear="right"/>
 
 #### Schism Tracker
@@ -178,7 +178,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://schismtracker.org/) [:octocat:](https://github.com/schismtracker/schismtracker) [:bookmark:](https://github.com/schismtracker/schismtracker/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/schismtracker.svg)](https://repology.org/project/schismtracker/versions)
 <br clear="right"/>
 
 #### Stargate
@@ -187,7 +187,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://github.com/stargatedaw/stargate) [:octocat:](https://github.com/stargatedaw/stargate) [:bookmark:](https://github.com/stargatedaw/stargate/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/stargate.svg)](https://repology.org/project/stargate/versions)
 <br clear="right"/>
 
 #### Zrythm
@@ -196,7 +196,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.zrythm.org/) [:octocat:](https://git.sr.ht/~alextee/zrythm) [:bookmark:](https://git.sr.ht/~alextee/zrythm/tree/master/item/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/zrythm.svg)](https://repology.org/project/zrythm/versions)
 <br clear="right"/>
 
 ----
@@ -209,7 +209,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:]([https://fluidsynth.org](https://www.bespokesynth.com/)) [:octocat:]([https://github.com/FluidSynth/fluidsynth](https://github.com/BespokeSynth/BespokeSynth)) [:bookmark:](https://github.com/BespokeSynth/BespokeSynth/blob/main/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/bespokesynth.svg)](https://repology.org/project/bespokesynth/versions)
 <br clear="right"/>
 
 #### FluidSynth
@@ -218,7 +218,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://fluidsynth.org) [:octocat:](https://github.com/FluidSynth/fluidsynth) [:bookmark:](https://github.com/FluidSynth/fluidsynth/releases/)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/fluidsynth.svg)](https://repology.org/project/fluidsynth/versions)
 <br clear="right"/>
 
 #### mixxx
@@ -227,7 +227,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://mixxx.org/) [:octocat:](https://github.com/mixxxdj/mixxx) [:bookmark:](https://github.com/mixxxdj/mixxx/blob/main/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/fluidsynth.svg)](https://repology.org/project/fluidsynth/versions)
 <br clear="right"/>
 
 #### qsynth
@@ -236,7 +236,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://qsynth.sourceforge.io/) [:octocat:](https://sourceforge.net/p/qsynth/code/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/qsynth/code/ci/master/tree/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/qsynth.svg)](https://repology.org/project/qsynth/versions)
 <br clear="right"/>
 
 #### Surge
@@ -245,7 +245,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/surge-synthesizer/surge) [:bookmark:](https://surge-synthesizer.github.io/changelog/)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/surge.svg)](https://repology.org/project/surge/versions)
 <br clear="right"/>
 
 #### Surge-XT
@@ -254,7 +254,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://surge-synthesizer.github.io/) [:octocat:](https://github.com/surge-synthesizer/surge) [:bookmark:](https://surge-synthesizer.github.io/changelog/)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/surge-xt.svg)](https://repology.org/project/surge-xt/versions)
 <br clear="right"/>
 
 #### vcvrack
@@ -263,7 +263,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://vcvrack.com/Rack) [:octocat:](https://github.com/VCVRack/Rack) [:bookmark:](https://github.com/VCVRack/Rack/blob/v2/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/vcvrack.svg)](https://repology.org/project/vcvrack/versions)
 <br clear="right"/>
 
 ----
@@ -276,7 +276,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://danielnoethen.de/butt/) [:octocat:]() [:bookmark:](https://danielnoethen.de/butt/Changelog.html)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/butt.svg)](https://repology.org/project/butt/versions)
 <br clear="right"/>
 
 #### gstreamer
@@ -285,7 +285,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://gstreamer.freedesktop.org/) [:octocat:](https://gitlab.freedesktop.org/gstreamer/gstreamer) [:bookmark:]()
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/gstreamer.svg)](https://repology.org/project/gstreamer/versions)
 <br clear="right"/>
 
 
@@ -295,7 +295,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://jacktrip.github.io/jacktrip) [:octocat:](https://github.com/jacktrip/jacktrip) [:bookmark:](https://github.com/jacktrip/jacktrip/blob/main/docs/changelog.yml)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/jacktrip.svg)](https://repology.org/project/jacktrip/versions)
 <br clear="right"/>
 
 #### Jamulus
@@ -304,7 +304,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://jamulus.io/) [:octocat:](https://github.com/jamulussoftware/jamulus) [:bookmark:](https://github.com/jamulussoftware/jamulus/blob/main/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/jamulus.svg)](https://repology.org/project/jamulus/versions)
 <br clear="right"/>
 
 #### OBS-Studio
@@ -313,7 +313,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://obsproject.com/) [:octocat:](https://github.com/obsproject/obs-studio/) [:bookmark:](https://github.com/obsproject/obs-studio/releases/)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/obs-studio.svg)](https://repology.org/project/obs-studio/versions)
 <br clear="right"/>
 
 #### Owncast
@@ -322,7 +322,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://owncast.online/) [:octocat:](https://github.com/owncast/owncast) [:bookmark:](https://github.com/owncast/owncast/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/owncast.svg)](https://repology.org/project/owncast/versions)
 <br clear="right"/>
 
 #### PeerTube
@@ -331,7 +331,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://joinpeertube.org/) [:octocat:](https://github.com/Chocobozzz/PeerTube) [:bookmark:](https://github.com/Chocobozzz/PeerTube/blob/develop/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/peertube.svg)](https://repology.org/project/peertube/versions)
 <br clear="right"/>
 
 #### Roc-toolkit
@@ -340,7 +340,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://roc-streaming.org/) [:octocat:](https://github.com/roc-streaming/roc-toolkit) [:bookmark:](https://roc-streaming.org/toolkit/docs/development/changelog.html)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/roc-toolkit.svg)](https://repology.org/project/roc-toolkit/versions)
 <br clear="right"/>
 
 #### Sonobus
@@ -349,7 +349,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.sonobus.net/) [:octocat:](https://github.com/sonosaurus/sonobus) [:bookmark:](https://github.com/sonosaurus/sonobus/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/sonobus.svg)](https://repology.org/project/sonobus/versions)
 <br clear="right"/>
 
 #### UltraGrid
@@ -358,7 +358,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.ultragrid.cz/) [:octocat:](https://github.com/CESNET/UltraGrid) [:bookmark:](https://github.com/CESNET/UltraGrid/blob/master/NEWS)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/ultragrid.svg)](https://repology.org/project/ultragrid/versions)
 <br clear="right"/>
 
 ----
@@ -371,7 +371,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.audacityteam.org/) [:octocat:](https://github.com/audacity/audacity) [:bookmark:](https://github.com/audacity/audacity/blob/master/CHANGELOG.txt)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/audacity.svg)](https://repology.org/project/audacity/versions)
 <br clear="right"/>
 
 #### Calf
@@ -380,7 +380,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://calf-studio-gear.org/) [:octocat:](https://github.com/calf-studio-gear/calf) [:bookmark:](https://github.com/calf-studio-gear/calf/blob/master/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/calf.svg)](https://repology.org/project/calf/versions)
 <br clear="right"/>
 
 #### Cardinal
@@ -389,7 +389,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://cardinal.kx.studio/) [:octocat:](https://github.com/DISTRHO/Cardinal/) [:bookmark:](https://github.com/DISTRHO/Cardinal/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/cardinal.svg)](https://repology.org/project/cardinal/versions)
 <br clear="right"/>
 
 #### Carla
@@ -398,7 +398,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://kx.studio/Applications:Carla) [:octocat:](https://github.com/falkTX/Carla) [:bookmark:](https://github.com/falkTX/Carla/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/carla.svg)](https://repology.org/project/carla/versions)
 <br clear="right"/>
 
 #### Drumgizmo
@@ -407,7 +407,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://drumgizmo.org/) [:octocat:](http://git.drumgizmo.org/drumgizmo.git/tree/) [:bookmark:](http://git.drumgizmo.org/drumgizmo.git/plain/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/drumgizmo.svg)](https://repology.org/project/drumgizmo/versions)
 <br clear="right"/>
 
 #### Drumlabooh
@@ -416,7 +416,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://psemiletov.github.io/drumlabooh/) [:octocat:](https://github.com/psemiletov/drumlabooh) [:bookmark:](https://github.com/psemiletov/drumlabooh/blob/main/NEWS)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/drumlabooh.svg)](https://repology.org/project/drumlabooh/versions)
 <br clear="right"/>
 
 #### Drumstick
@@ -425,7 +425,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://drumstick.sourceforge.io/) [:octocat:](https://sourceforge.net/p/drumstick/git/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/drumstick/git/ci/master/tree/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/drumstick.svg)](https://repology.org/project/drumstick/versions)
 <br clear="right"/>
 
 #### eko
@@ -434,7 +434,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:]() [:octocat:](https://github.com/psemiletov/eko) [:bookmark:](https://github.com/psemiletov/eko/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/eko.svg)](https://repology.org/project/eko/versions)
 <br clear="right"/>
 
 #### element
@@ -443,7 +443,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://kushview.net/element/) [:octocat:](https://gitlab.com/kushview/element) [:bookmark:](https://gitlab.com/kushview/element/-/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/element-audio-plugin-host.svg)](https://repology.org/project/element-audio-plugin-host/versions)
 <br clear="right"/>
 
 #### fooyin
@@ -452,7 +452,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.fooyin.org) [:octocat:](https://github.com/fooyin/fooyin) [:bookmark:](https://github.com/fooyin/fooyin/blob/master/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/fooyin.svg)](https://repology.org/project/fooyin/versions)
 <br clear="right"/>
 
 #### geonkick
@@ -461,7 +461,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://geonkick.org/) [:octocat:](https://github.com/Geonkick-Synthesizer/geonkick) [:bookmark:](https://github.com/Geonkick-Synthesizer/geonkick/blob/main/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/geonkick.svg)](https://repology.org/project/geonkick/versions)
 <br clear="right"/>
 
 #### giada
@@ -470,7 +470,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.giadamusic.com/) [:octocat:](https://github.com/monocasual/giada) [:bookmark:](https://github.com/monocasual/giada/blob/master/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/giada.svg)](https://repology.org/project/giada/versions)
 <br clear="right"/>
 
 #### gsequencer
@@ -479,7 +479,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.nongnu.org/gsequencer/) [:octocat:](http://git.savannah.nongnu.org/cgit/gsequencer.git/tree/) [:bookmark:](http://git.savannah.nongnu.org/cgit/gsequencer.git/tree/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/gsequencer.svg)](https://repology.org/project/gsequencer/versions)
 <br clear="right"/>
 
 #### Hydrogen
@@ -488,7 +488,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](http://www.hydrogen-music.org/) [:octocat:](https://github.com/hydrogen-music/hydrogen) [:bookmark:](https://github.com/hydrogen-music/hydrogen/blob/master/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/hydrogen-drum-machine.svg)](https://repology.org/project/hydrogen-drum-machine/versions)
 <br clear="right"/>
 
 #### Konfyt
@@ -497,7 +497,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://noedig.co.za/konfyt/) [:octocat:](https://github.com/noedigcode/konfyt) [:bookmark:](https://github.com/noedigcode/konfyt/blob/master/CHANGELOG.txt)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/konfyt.svg)](https://repology.org/project/konfyt/versions)
 <br clear="right"/>
 
 #### master_me
@@ -506,7 +506,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://github.com/trummerschlunk/master_me) [:octocat:](https://github.com/trummerschlunk/master_me) [:bookmark:](https://github.com/trummerschlunk/master_me/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/master-me.svg)](https://repology.org/project/master-me/versions)
 <br clear="right"/>
 
 #### midimonster
@@ -515,7 +515,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://midimonster.net/) [:octocat:](https://github.com/cbdevnet/midimonster) [:bookmark:](https://github.com/cbdevnet/midimonster/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/midimonster.svg)](https://repology.org/project/midimonster/versions)
 <br clear="right"/>
 
 #### Neothesia
@@ -524,7 +524,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://polymeilex.github.io/Neothesia/) [:octocat:](https://github.com/PolyMeilex/Neothesia) [:bookmark:](https://github.com/PolyMeilex/Neothesia/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/neothesia.svg)](https://repology.org/project/neothesia/versions)
 <br clear="right"/>
 
 #### opus
@@ -533,7 +533,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.opus-codec.org/) [:octocat:](https://github.com/xiph/opus) [:bookmark:](https://opus-codec.org/)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/opus.svg)](https://repology.org/project/opus/versions)
 <br clear="right"/>
 
 #### Picard
@@ -542,7 +542,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://picard.musicbrainz.org/) [:octocat:](https://github.com/metabrainz/picard) [:bookmark:](https://github.com/metabrainz/picard/blob/master/NEWS.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/picard-tagger.svg)](https://repology.org/project/picard-tagger/versions)
 <br clear="right"/>
 
 #### projectm
@@ -551,7 +551,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://github.com/projectM-visualizer/projectm) [:octocat:](https://github.com/projectM-visualizer/projectm) [:bookmark:](https://github.com/projectM-visualizer/projectm/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/projectm.svg)](https://repology.org/project/projectm/versions)
 <br clear="right"/>
 
 #### qjackctl
@@ -560,7 +560,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://qjackctl.sourceforge.io/) [:octocat:](https://github.com/rncbc/qjackctl) [:bookmark:](https://github.com/rncbc/qjackctl/blob/master/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/qjackctl.svg)](https://repology.org/project/qjackctl/versions)
 <br clear="right"/>
 
 #### qpwgraph
@@ -569,7 +569,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://gitlab.freedesktop.org/rncbc/qpwgraph) [:octocat:](https://gitlab.freedesktop.org/rncbc/qpwgraph) [:bookmark:](https://gitlab.freedesktop.org/rncbc/qpwgraph/-/blob/main/ChangeLog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/qpwgraph.svg)](https://repology.org/project/qpwgraph/versions)
 <br clear="right"/>
 
 #### RaySession
@@ -578,7 +578,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://raysession.tuxfamily.org/en/) [:octocat:](https://github.com/Houston4444/RaySession) [:bookmark:](https://github.com/Houston4444/RaySession/blob/master/CHANGELOG)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/raysession.svg)](https://repology.org/project/raysession/versions)
 <br clear="right"/>
 
 #### rubberband
@@ -587,7 +587,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.breakfastquay.com/rubberband/) [:octocat:](https://github.com/breakfastquay/rubberband) [:bookmark:](https://github.com/breakfastquay/rubberband/blob/default/CHANGELOG)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/rubberband.svg)](https://repology.org/project/rubberband/versions)
 <br clear="right"/>
 
 #### snd
@@ -596,7 +596,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://ccrma.stanford.edu/software/snd/) [:octocat:](https://sourceforge.net/p/snd/svn1/HEAD/tree/trunk/) [:bookmark:](https://sourceforge.net/p/snd/svn1/HEAD/tree/trunk/NEWS)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/snd.svg)](https://repology.org/project/snd/versions)
 <br clear="right"/>
 
 #### Seq66
@@ -605,7 +605,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://github.com/ahlstromcj/seq66) [:octocat:](https://github.com/ahlstromcj/seq66) [:bookmark:](https://github.com/ahlstromcj/seq66/blob/master/RELNOTES)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/seq66.svg)](https://repology.org/project/seq66/versions)
 <br clear="right"/>
 
 #### sfizz
@@ -614,7 +614,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://sfz.tools/news) [:octocat:](https://github.com/sfztools/sfizz) [:bookmark:](https://github.com/sfztools/sfizz/blob/develop/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/sfizz.svg)](https://repology.org/project/sfizz/versions)
 <br clear="right"/>
 
 #### sonicvisualiser
@@ -623,7 +623,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.sonicvisualiser.org/) [:octocat:](https://github.com/sonic-visualiser/sonic-visualiser) [:bookmark:](https://github.com/sonic-visualiser/sonic-visualiser/blob/default/CHANGELOG)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/onic-visualiser.svg)](https://repology.org/project/onic-visualiser/versions)
 <br clear="right"/>
 
 
@@ -633,7 +633,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://stochas.org/) [:octocat:](https://github.com/surge-synthesizer/stochas) [:bookmark:](https://github.com/surge-synthesizer/stochas/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/stochas.svg)](https://repology.org/project/stochas/versions)
 <br clear="right"/>
 
 #### TuxGuitar
@@ -642,7 +642,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://github.com/helge17/tuxguitar) [:octocat:](https://github.com/helge17/tuxguitar) [:bookmark:](https://github.com/helge17/tuxguitar/blob/master/CHANGES)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/tuxguitar.svg)](https://repology.org/project/tuxguitar/versions)
 <br clear="right"/>
 
 #### wildmidi
@@ -651,7 +651,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://github.com/Mindwerks/wildmidi) [:octocat:](https://github.com/Mindwerks/wildmidi) [:bookmark:](https://github.com/Mindwerks/wildmidi/blob/master/README.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/wildmidi.svg)](https://repology.org/project/wildmidi/versions)
 <br clear="right"/>
 
 #### zynaddsubfx
@@ -660,7 +660,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://zynaddsubfx.sourceforge.io/) [:octocat:](https://github.com/zynaddsubfx/zynaddsubfx) [:bookmark:](https://github.com/zynaddsubfx/zynaddsubfx/tags)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/zynaddsubfx.svg)](https://repology.org/project/zynaddsubfx/versions)
 <br clear="right"/>
 
 #### SooperLooper
@@ -669,7 +669,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://sonosaurus.com/sooperlooper) [:octocat:](https://github.com/essej/sooperlooper) [:bookmark:](https://sonosaurus.com/sooperlooper/index.html)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/sooperlooper.svg)](https://repology.org/project/sooperlooper/versions)
 <br clear="right"/>
 
 #### Yoshimi
@@ -678,7 +678,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](http://yoshimi.github.io/) [:octocat:](https://github.com/Yoshimi/yoshimi) [:bookmark:](https://github.com/Yoshimi/yoshimi/blob/master/Changelog)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/yoshimi.svg)](https://repology.org/project/yoshimi/versions)
 <br clear="right"/>
 
 #### WirePlumer
@@ -687,7 +687,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://pipewire.pages.freedesktop.org/wireplumber/) [:octocat:](https://gitlab.freedesktop.org/pipewire/wireplumber) [:bookmark:](https://gitlab.freedesktop.org/pipewire/wireplumber/-/blob/master/NEWS.rst)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/wireplumber.svg)](https://repology.org/project/wireplumber/versions)
 <br clear="right"/>
 
 ### Music Notation
@@ -698,7 +698,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.frescobaldi.org/) [:octocat:](https://github.com/frescobaldi/frescobaldi) [:bookmark:](https://github.com/frescobaldi/frescobaldi/blob/master/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/frescobaldi.svg)](https://repology.org/project/frescobaldi/versions)
 <br clear="right"/>
 
 #### lilypond
@@ -707,7 +707,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://lilypond.org) [:octocat:](https://gitlab.com/lilypond/lilypond) [:bookmark:](http://lilypond.org/news.html)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/lilypond.svg)](https://repology.org/project/lilypond/versions)
 <br clear="right"/>
 
 #### musescore
@@ -716,7 +716,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://musescore.org) [:octocat:](https://github.com/musescore/MuseScore) [:bookmark:](https://musescore.org/en/handbook/developers-handbook/release-notes)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/musescore.svg)](https://repology.org/project/musescore/versions)
 <br clear="right"/>  
 
 #### Power Tab Editor
@@ -725,7 +725,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://powertab.github.io/) [:octocat:](https://github.com/powertab/powertabeditor) [:bookmark:](https://github.com/powertab/powertabeditor/blob/master/CHANGELOG.md)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/powertabeditor.svg)](https://repology.org/project/powertabeditor/versions)
 <br clear="right"/>
 
 
@@ -737,7 +737,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://freedv.org/) [:octocat:](https://github.com/drowe67/freedv-gui) [:bookmark:](https://github.com/drowe67/freedv-gui/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/freedv-gui/.svg)](https://repology.org/project/freedv-gui//versions)
 <br clear="right"/>
 
 
@@ -747,7 +747,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.gnuradio.org/) [:octocat:](https://github.com/gnuradio/gnuradio) [:bookmark:](https://github.com/gnuradio/gnuradio/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/gnuradio.svg)](https://repology.org/project/gnuradio/versions)
 <br clear="right"/>
 
 #### gpredict
@@ -756,7 +756,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](http://gpredict.oz9aec.net/) [:octocat:](https://github.com/csete/gpredict) [:bookmark:](https://github.com/csete/gpredict/blob/master/NEWS)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/gpredict.svg)](https://repology.org/project/gpredict/versions)
 <br clear="right"/>
 
 #### hamlib
@@ -765,7 +765,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://hamlib.github.io/) [:octocat:](https://github.com/Hamlib/Hamlib) [:bookmark:](https://github.com/Hamlib/Hamlib/blob/master/NEWS)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/hamlib.svg)](https://repology.org/project/hamlib/versions)
 <br clear="right"/>
 
 #### gqrx
@@ -774,7 +774,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.gqrx.dk/) [:octocat:](https://github.com/gqrx-sdr/gqrx) [:bookmark:](https://github.com/gqrx-sdr/gqrx/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/gqrx.svg)](https://repology.org/project/gqrx/versions)
 <br clear="right"/>
 
 #### liquid-dsp
@@ -783,7 +783,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://liquidsdr.org/) [:octocat:](https://github.com/jgaeddert/liquid-dsp) [:bookmark:](https://github.com/jgaeddert/liquid-dsp/blob/master/HISTORY)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/liquid-dsp.svg)](https://repology.org/project/liquid-dsp/versions)
 <br clear="right"/>
 
 #### SDR++
@@ -792,7 +792,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://www.sdrpp.org/) [:octocat:](https://github.com/AlexandreRouma/SDRPlusPlus/) [:bookmark:](https://github.com/AlexandreRouma/SDRPlusPlus/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/sdr++.svg)](https://repology.org/project/sdr++/versions)
 <br clear="right"/>
 
 #### SigDigger
@@ -801,7 +801,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://batchdrake.github.io/SigDigger/) [:octocat:](https://github.com/BatchDrake/SigDigger) [:bookmark:](https://github.com/BatchDrake/SigDigger/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/sigdigger.svg)](https://repology.org/project/sigdigger/versions)
 <br clear="right"/>
 
 #### Universal Radio Hacker
@@ -810,6 +810,6 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://github.com/jopohl/urh) [:octocat:](https://github.com/jopohl/urh) [:bookmark:](https://github.com/jopohl/urh/releases)
-
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/urh.svg)](https://repology.org/project/urh/versions)
 <br clear="right"/>
 
