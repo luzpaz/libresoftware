@@ -160,7 +160,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://ossia.io/) [:octocat:](https://github.com/ossia/score) [:bookmark:](https://github.com/ossia/score/releases)
-<br>[![Packaging status](https://repology.org/badge/tiny-repos/ossia-score/.svg)](https://repology.org/project/ossia-score//versions)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/ossia-score.svg)](https://repology.org/project/ossia-score/versions)
 <br clear="right"/>
 
 #### Rosegarden
