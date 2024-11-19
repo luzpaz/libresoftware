@@ -737,7 +737,7 @@ https://github.com/supercollider/supercollider
 </a>
 
 [:house:](https://freedv.org/) [:octocat:](https://github.com/drowe67/freedv-gui) [:bookmark:](https://github.com/drowe67/freedv-gui/releases)
-<br>[![Packaging status](https://repology.org/badge/tiny-repos/freedv-gui/.svg)](https://repology.org/project/freedv-gui//versions)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/freedv-gui.svg)](https://repology.org/project/freedv-gui/versions)
 <br clear="right"/>
 
 
