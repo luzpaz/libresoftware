@@ -154,6 +154,14 @@
 
 <br clear="right"/>
 
+#### SolveSpace
+<a href="https://repology.org/project/solvespace/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/solvespace.svg?columns=3&header=SolveSpace&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://solvespace.com/) [:octocat:](https://github.com/solvespace/solvespace) [:bookmark:](https://github.com/solvespace/solvespace/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
 
 #### GnuOctave
 <a href="https://repology.org/project/octave/versions">
