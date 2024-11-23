@@ -235,7 +235,7 @@ https://github.com/supercollider/supercollider
     <img src="https://repology.org/badge/vertical-allrepos/qsynth.svg?columns=3&header=qsynth&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://qsynth.sourceforge.io/) [:octocat:](https://sourceforge.net/p/qsynth/code/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/qsynth/code/ci/master/tree/ChangeLog)
+[:house:](https://qsynth.sourceforge.io/) [:octocat:](https://sourceforge.net/p/qsynth/code/ci/main/tree/) [:bookmark:](https://sourceforge.net/p/qsynth/code/ci/main/tree/ChangeLog)
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/qsynth.svg)](https://repology.org/project/qsynth/versions)
 <br clear="right"/>
 
