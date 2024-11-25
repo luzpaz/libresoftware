@@ -72,6 +72,15 @@
 
 <br clear="right"/>
 
+#### Vidiot
+<a href="https://repology.org/project/vidiot/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/vidiot.svg?columns=3&header=Vidiot&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://sourceforge.net/projects/vidiot/) [:octocat:](https://sourceforge.net/p/vidiot/code/HEAD/tree/trunk/) [:bookmark:](https://sourceforge.net/projects/vidiot/files/)
+
+<br clear="right"/>
+
 ### Video Transcoders
 
 #### Handbrake
