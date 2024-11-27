@@ -36,6 +36,15 @@
 
 <br clear="right"/>
 
+#### MediaEditor
+<a href="https://repology.org/project/mediaeditor/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/mediaeditor.svg?columns=3&header=MediaEditor&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/opencodewin/MediaEditor) [:octocat:](https://github.com/opencodewin/MediaEditor) [:bookmark:](https://github.com/opencodewin/MediaEditor/releases)
+
+<br clear="right"/>
+
 #### Natron
 <a href="https://repology.org/project/natron/versions">
     <img src="https://repology.org/badge/vertical-allrepos/natron.svg?columns=3&header=Natron&exclude_unsupported=1" alt="Packaging status" align="right">
