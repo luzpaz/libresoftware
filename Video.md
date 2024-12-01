@@ -176,6 +176,18 @@
 
 ----
 
+#### Celluloid
+
+<a href="https://repology.org/project/celluloid/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/celluloid.svg?columns=3&header=Celluloid&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://celluloid-player.github.io/) [:octocat:](https://github.com/celluloid-player/celluloid) [:bookmark:](https://github.com/celluloid-player/celluloid/releases)<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/celluloid.svg)](https://repology.org/project/celluloid/versions)
+
+<br clear="right"/>
+
+
 #### QMMP
 
 <a href="https://repology.org/project/qmmp/versions">
