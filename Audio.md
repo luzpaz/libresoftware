@@ -500,6 +500,15 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/konfyt.svg)](https://repology.org/project/konfyt/versions)
 <br clear="right"/>
 
+#### libdovi
+<a href="https://repology.org/project/libdovi/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/libdovi.svg?columns=3&header=libdovi&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:]() [:octocat:]() [:bookmark:]()
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/libdovi.svg)](https://repology.org/project/fooyin/versions)
+<br clear="right"/>
+
 #### master_me
 <a href="https://repology.org/project/master-me/versions">
     <img src="https://repology.org/badge/vertical-allrepos/surge.svg?columns=3&header=master-me&exclude_unsupported=1" alt="Packaging status" align="right">
