@@ -1,10 +1,11 @@
 #### Annotator
-<a href="https://repology.org/project/annotator/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/annotator.svg?columns=3&header=Annotator&exclude_unsupported=1" alt="Packaging status" align="right">
+<a href="https://repology.org/project/annotator-images/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/annotator-images.svg?columns=3&header=Annotator&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://github.com/phase1geo/Annotator) [:octocat:](https://github.com/phase1geo/Annotator) [:bookmark:](https://github.com/phase1geo/Annotator/releases)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/annotator-images.svg)](https://repology.org/project/annotator-images/versions)
 <br clear="right"/>
 
 #### BeeRef
