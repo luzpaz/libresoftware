@@ -35,7 +35,17 @@
 
 <br clear="right"/>
 
-#### gimp
+#### Friction
+<a href="https://repology.org/project/friction-motion-graphics/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/friction-motion-graphics.svg?columns=3&header=Friction&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://friction.graphics/) [:octocat:](https://github.com/friction2d/friction) [:bookmark:](https://friction.graphics/news/)
+
+<br clear="right"/>
+
+
+#### GIMP
 <a href="https://repology.org/project/gimp/versions">
     <img src="https://repology.org/badge/vertical-allrepos/gimp.svg?columns=3&header=gimp&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
@@ -104,6 +114,15 @@
 </a>
 
 [:house:](https://rawtherapee.com) [:octocat:](https://github.com/Beep6581/RawTherapee) [:bookmark:](https://github.com/Beep6581/RawTherapee/blob/dev/RELEASE_NOTES.txt)
+
+<br clear="right"/>
+
+#### Synfig
+<a href="https://repology.org/project/synfig/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/synfig.svg?columns=3&header=Synfig&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://synfig.org) [:octocat:](https://github.com/synfig/synfig) [:bookmark:](https://github.com/synfig/synfig/blob/master/ChangeLog-development.md)
 
 <br clear="right"/>
 
