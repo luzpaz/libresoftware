@@ -14,7 +14,8 @@
 </a>
 
 [:house:](https://beeref.org/) [:octocat:](https://github.com/rbreu/beeref) [:bookmark:](https://github.com/rbreu/beeref/blob/main/CHANGELOG.rst)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/beeref.svg)](https://repology.org/project/beeref/versions)
 <br clear="right"/>
 
 #### darktable
@@ -23,7 +24,8 @@
 </a>
 
 [:house:](https://darktable.org) [:octocat:](https://github.com/darktable-org/darktable) [:bookmark:](https://github.com/darktable-org/darktable/blob/master/RELEASE_NOTES.md)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/darktable.svg)](https://repology.org/project/darktable/versions)
 <br clear="right"/>
 
 #### digikam
@@ -32,7 +34,8 @@
 </a>
 
 [:house:](https://digikam.org/) [:octocat:](https://invent.kde.org/graphics/digikam) [:bookmark:](https://invent.kde.org/graphics/digikam/-/tree/master/project)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/digikam.svg)](https://repology.org/project/digikam/versions)
 <br clear="right"/>
 
 #### Friction
@@ -41,7 +44,8 @@
 </a>
 
 [:house:](https://friction.graphics/) [:octocat:](https://github.com/friction2d/friction) [:bookmark:](https://friction.graphics/news/)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/friction-motion-graphics.svg)](https://repology.org/project/friction-motion-graphics/versions)
 <br clear="right"/>
 
 
@@ -51,7 +55,8 @@
 </a>
 
 [:house:](https://gimp.org) [:octocat:](https://gitlab.gnome.org/GNOME/gimp) [:bookmark:](https://gitlab.gnome.org/GNOME/gimp/-/blob/master/NEWS?ref_type=heads)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/gimp.svg)](https://repology.org/project/gimp/versions)
 <br clear="right"/>
 
 #### glaxnimate
@@ -60,7 +65,8 @@
 </a>
 
 [:house:](https://glaxnimate.mattbas.org/) [:octocat:](https://gitlab.com/mattbas/glaxnimate) [:bookmark:](https://gitlab.com/mattbas/glaxnimate/-/releases)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/glaxnimate.svg)](https://repology.org/project/glaxnimate/versions)
 <br clear="right"/>
 
 #### gmic
@@ -69,7 +75,8 @@
 </a>
 
 [:house:](https://gmic.eu) [:octocat:](https://github.com/GreycLab/gmic) [:bookmark:](https://discuss.pixls.us/tag/changelog)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/gmic.svg)](https://repology.org/project/gmic/versions)
 <br clear="right"/>
 
 #### imagemagick
@@ -78,7 +85,8 @@
 </a>
 
 [:house:](https://imagemagick.org/) [:octocat:](https://github.com/ImageMagick/ImageMagick) [:bookmark:](https://github.com/ImageMagick/Website/blob/main/ChangeLog.md)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/imagemagick.svg)](https://repology.org/project/imagemmagick/versions)
 <br clear="right"/>
 
 #### inkscape
@@ -87,7 +95,8 @@
 </a>
 
 [:house:](https://inkscape.org) [:octocat:](https://gitlab.com/inkscape/inkscape) [:bookmark:](https://gitlab.com/inkscape/inkscape/-/releases)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/inkscape.svg)](https://repology.org/project/inkscape/versions)
 <br clear="right"/>
 
 #### krita
@@ -96,7 +105,8 @@
 </a>
 
 [:house:](https://krita.org) [:octocat:](https://invent.kde.org/graphics/krita) [:bookmark:](https://krita.org/en/release-notes/)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/krita.svg)](https://repology.org/project/krita/versions)
 <br clear="right"/>
 
 #### lightzone
@@ -105,7 +115,18 @@
 </a>
 
 [:house:](https://github.com/ktgw0316/LightZone) [:octocat:](https://github.com/ktgw0316/LightZone) [:bookmark:](https://github.com/ktgw0316/LightZone/releases/latest)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/lightzone.svg)](https://repology.org/project/lightzone/versions)
+<br clear="right"/>
 
+#### OpenToonz
+<a href="https://repology.org/project/opentoonz/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/opentoonz.svg?columns=3&header=OpenToonz&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://opentoonz.github.io/e) [:octocat:](https://https://github.com/opentoonz/opentoonz) [:bookmark:](https://opentoonz.readthedocs.io/en/latest/whats_new.html#)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/opentoonz.svg)](https://repology.org/project/opentoonz/versions)
 <br clear="right"/>
 
 #### rawtherapee
@@ -114,7 +135,8 @@
 </a>
 
 [:house:](https://rawtherapee.com) [:octocat:](https://github.com/Beep6581/RawTherapee) [:bookmark:](https://github.com/Beep6581/RawTherapee/blob/dev/RELEASE_NOTES.txt)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/rawtherapee.svg)](https://repology.org/project/rawtherapee/versions)
 <br clear="right"/>
 
 #### Synfig
@@ -123,7 +145,8 @@
 </a>
 
 [:house:](https://synfig.org) [:octocat:](https://github.com/synfig/synfig) [:bookmark:](https://github.com/synfig/synfig/blob/master/ChangeLog-development.md)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/synfig.svg)](https://repology.org/project/synfig/versions)
 <br clear="right"/>
 
 ----
@@ -134,7 +157,8 @@
 </a>
 
 [:house:](https://www.slicer.org/) [:octocat:](https://github.com/Slicer/Slicer/) [:bookmark:](https://discourse.slicer.org/c/announcements/7)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/3dslicer.svg)](https://repology.org/project/3dslicer/versions)
 <br clear="right"/>
 
 
@@ -144,7 +168,8 @@
 </a>
 
 [:house:](https://blender.org) [:octocat:](https://projects.blender.org/blender/blender) [:bookmark:](https://www.blender.org/download/releases/)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/blender.svg)](https://repology.org/project/blender/versions)
 <br clear="right"/>
 
 #### BRL-CAD
@@ -153,7 +178,8 @@
 </a>
 
 [:house:](https://brlcad.org) [:octocat:](https://github.com/BRL-CAD/brlcad) [:bookmark:](https://github.com/BRL-CAD/brlcad/blob/main/NEWS)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/brlcad.svg)](https://repology.org/project/brlcad/versions)
 <br clear="right"/>
 
 #### FreeCAD
@@ -162,7 +188,8 @@
 </a>
 
 [:house:](https://freecad.org) [:octocat:](https://github.com/FreeCAD/FreeCAD) [:bookmark:](https://github.com/FreeCAD/FreeCAD/commits/main)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/freecad.svg)](https://repology.org/project/freecad/versions)
 <br clear="right"/>
 
 #### Dune3D
@@ -171,7 +198,8 @@
 </a>
 
 [:house:](https://dune3d.org/) [:octocat:](https://github.com/dune3d/dune3d) [:bookmark:](https://github.com/dune3d/dune3d/blob/main/CHANGELOG.md)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/dune3d.svg)](https://repology.org/project/dune3d/versions)
 <br clear="right"/>
 
 #### SolveSpace
@@ -180,7 +208,8 @@
 </a>
 
 [:house:](https://solvespace.com/) [:octocat:](https://github.com/solvespace/solvespace) [:bookmark:](https://github.com/solvespace/solvespace/blob/master/CHANGELOG.md)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/solvespace.svg)](https://repology.org/project/solvespace/versions)
 <br clear="right"/>
 
 #### GnuOctave
@@ -189,7 +218,8 @@
 </a>
 
 [:house:](https://octave.org/) [:octocat:](https://hg.octave.org/octave/file/tip/) [:bookmark:](https://octave.org/news.html)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/octave.svg)](https://repology.org/project/octave/versions)
 <br clear="right"/>
 
 
@@ -199,7 +229,8 @@
 </a>
 
 [:house:](http://www.gnuplot.info/) [:octocat:](https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/NEWS)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/gnuplot.svg)](https://repology.org/project/gnuplot/versions)
 <br clear="right"/>
 
 
@@ -209,7 +240,8 @@
 </a>
 
 [:house:](https://labplot.kde.org/) [:octocat:](https://invent.kde.org/education/labplot) [:bookmark:](https://invent.kde.org/education/labplot/-/blob/master/ChangeLog)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/labplot.svg)](https://repology.org/project/labplot/versions)
 <br clear="right"/>
 
 #### LibreCAD
@@ -218,7 +250,8 @@
 </a>
 
 [:house:](https://librecad.org/) [:octocat:](https://github.com/LibreCAD/LibreCAD/) [:bookmark:](https://github.com/LibreCAD/LibreCAD/blob/master/CHANGELOG.md)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/librecad.svg)](https://repology.org/project/librecad/versions)
 <br clear="right"/>
 
 #### MeshLab
@@ -227,7 +260,8 @@
 </a>
 
 [:house:](https://www.meshlab.net/) [:octocat:](https://github.com/cnr-isti-vclab/meshlab) [:bookmark:](https://github.com/cnr-isti-vclab/meshlab/releases)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/meshlab.svg)](https://repology.org/project/meshlab/versions)
 <br clear="right"/>
 
 #### Meshroom
@@ -236,7 +270,8 @@
 </a>
 
 [:house:](http://alicevision.org/) [:octocat:](https://github.com/alicevision/Meshroom) [:bookmark:](https://github.com/alicevision/Meshroom/blob/develop/CHANGES.md)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/meshroom.svg)](https://repology.org/project/meshroom/versions)
 <br clear="right"/>
 
 #### SweetHome3d
@@ -245,7 +280,8 @@
 </a>
 
 [:house:](https://sweethome3d.com/) [:octocat:](https://sourceforge.net/p/sweethome3d/code/HEAD/tree/trunk/) [:bookmark:](https://www.sweethome3d.com/history.jsp)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/sweethome3d.svg)](https://repology.org/project/sweethome3d/versions)
 <br clear="right"/>
 
 ----
@@ -256,7 +292,8 @@
 </a>
 
 [:house:](https://itk.org/) [:octocat:](https://github.com/InsightSoftwareConsortium/ITK) [:bookmark:](https://github.com/InsightSoftwareConsortium/ITK/releases)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/insighttoolkit.svg)](https://repology.org/project/insighttoolkit/versions)
 <br clear="right"/>
 
 #### MITK
@@ -265,7 +302,8 @@
 </a>
 
 [:house:](https://www.mitk.org/)) [:octocat:](https://github.com/MITK/MITK) [:bookmark:](https://github.com/MITK/MITK/releases)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/mitk.svg)](https://repology.org/project/mitk/versions)
 <br clear="right"/>
 
 #### ParaView
@@ -274,7 +312,8 @@
 </a>
 
 [:house:](https://www.paraview.org/) [:octocat:](https://gitlab.kitware.com/paraview/paraview) [:bookmark:](https://www.kitware.com/tag/release-notes/)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/paraview.svg)](https://repology.org/project/paraview/versions)
 <br clear="right"/>
 
 #### VTK
@@ -283,7 +322,8 @@
 </a>
 
 [:house:](https://vtk.org/) [:octocat:](https://gitlab.kitware.com/vtk/vtk) [:bookmark:](https://gitlab.kitware.com/vtk/vtk/-/tags)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/vtk.svg)](https://repology.org/project/vtk/versions)
 <br clear="right"/>
 
 ----
@@ -294,5 +334,6 @@
 </a>
 
 [:house:](https://qgis.org/) [:octocat:](https://github.com/qgis/QGIS) [:bookmark:](https://github.com/qgis/QGIS/releases)
-
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/qgis.svg)](https://repology.org/project/qgis/versions)
 <br clear="right"/>
