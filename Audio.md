@@ -737,6 +737,17 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/powertabeditor.svg)](https://repology.org/project/powertabeditor/versions)
 <br clear="right"/>
 
+### VOIP
+
+#### Mumble
+<a href="https://repology.org/project/mumble/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/mumble.svg?columns=3&header=mumble&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.mumble.info/) [:octocat:](https://github.com/mumble-voip/mumble) [:bookmark:](https://www.mumble.info/blog/)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/mumble.svg)](https://repology.org/project/mumble/versions)
+<br clear="right"/>
+
 
 ### HAM Radio
 
