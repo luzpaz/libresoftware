@@ -8,6 +8,16 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/annotator-images.svg)](https://repology.org/project/annotator-images/versions)
 <br clear="right"/>
 
+#### AzPainter
+<a href="https://repology.org/project/azpainter/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/azpainter.svg?columns=3&header=AzPainter&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://azelpg.gitlab.io/azsky2/) [:octocat:](https://gitlab.com/azelpg/azpainter) [:bookmark:](https://gitlab.com/azelpg/azpainter/-/blob/master/ChangeLog)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/azpainter.svg)](https://repology.org/project/azpainter/versions)
+<br clear="right"/>
+
 #### BeeRef
 <a href="https://repology.org/project/beeref/versions">
     <img src="https://repology.org/badge/vertical-allrepos/beeref.svg?columns=3&header=BeeRef&exclude_unsupported=1" alt="Packaging status" align="right">
