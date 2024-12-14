@@ -316,6 +316,16 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/mitk.svg)](https://repology.org/project/mitk/versions)
 <br clear="right"/>
 
+#### Open3D
+<a href="https://repology.org/project/open3d/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/open3d.svg?columns=3&header=Open3D&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://www.open3d.org/) [:octocat:](https://github.com/isl-org/Open3D) [:bookmark:](https://github.com/isl-org/Open3D/blob/main/CHANGELOG.md)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/open3d.svg)](https://repology.org/project/open3d/versions)
+<br clear="right"/>
+
 #### ParaView
 <a href="https://repology.org/project/paraview/versions">
     <img src="https://repology.org/badge/vertical-allrepos/paraview.svg?columns=3&header=ParaView&exclude_unsupported=1" alt="Packaging status" align="right">
