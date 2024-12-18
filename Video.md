@@ -230,6 +230,16 @@
 
 <br clear="right"/>
 
+#### stopmotion
+
+<a href="https://repology.org/project/stopmotion/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/stopmotion.svg?columns=3&header=stopmotion&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://invent.kde.org/multimedia/stopmotion) [:octocat:](https://invent.kde.org/multimedia/stopmotion) [:bookmark:](https://invent.kde.org/multimedia/stopmotion/-/blob/master/CHANGELOG.md)
+
+<br clear="right"/>
+
 #### Subtitle Composer
 
 <a href="https://repology.org/project/subtitlecomposer/versions">
