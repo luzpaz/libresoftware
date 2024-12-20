@@ -195,7 +195,7 @@ https://github.com/supercollider/supercollider
     <img src="https://repology.org/badge/vertical-allrepos/zrythm.svg?columns=3&header=Zrythm&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://www.zrythm.org/) [:octocat:](https://git.sr.ht/~alextee/zrythm) [:bookmark:](https://git.sr.ht/~alextee/zrythm/tree/master/item/CHANGELOG.md)
+[:house:](https://www.zrythm.org/) [:octocat:](https://gitlab.zrythm.org/zrythm/zrythm) [:bookmark:](https://gitlab.zrythm.org/zrythm/zrythm/-/blob/master/CHANGELOG.md)
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/zrythm.svg)](https://repology.org/project/zrythm/versions)
 <br clear="right"/>
 
