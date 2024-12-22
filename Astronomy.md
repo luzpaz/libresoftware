@@ -84,7 +84,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/siril.svg?columns=3&header=Siril&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://siril.org/) [:octocat:](https://gitlab.com/free-astro/siril) [:bookmark:](https://gitlab.com/free-astro/siril/-/blob/master/NEWS)
+[:house:](https://siril.org/) [:octocat:](https://gitlab.com/free-astro/siril) [:bookmark:](https://gitlab.com/free-astro/siril/-/blob/master/ChangeLog)
 
 <br clear="right"/>
 
