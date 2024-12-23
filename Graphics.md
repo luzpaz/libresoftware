@@ -348,6 +348,29 @@
 
 ----
 
+#### Godot
+<a href="https://repology.org/project/godot/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/godot.svg?columns=3&header=Godot&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://godotengine.org/) [:octocat:](https://github.com/godotengine/godot) [:bookmark:](https://raw.githubusercontent.com/godotengine/godot/master/CHANGELOG.md)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/godot.svg)](https://repology.org/project/godot/versions)
+<br clear="right"/>
+
+
+#### Ogre
+<a href="https://repology.org/project/ogre/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ogre.svg?columns=3&header=Ogre&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.ogre3d.org/) [:octocat:](https://github.com/OGRECave/ogre) [:bookmark:](https://github.com/OGRECave/ogre/releases)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/ogre.svg)](https://repology.org/project/ogre/versions)
+<br clear="right"/>
+
+----
+
 #### QGIS
 <a href="https://repology.org/project/qgis/versions">
     <img src="https://repology.org/badge/vertical-allrepos/qgis.svg?columns=3&header=QGIS&exclude_unsupported=1" alt="Packaging status" align="right">
