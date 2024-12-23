@@ -8,6 +8,16 @@
 
 <br clear="right"/>
 -->
+#### Akaunting
+<a href="https://repology.org/project/akaunting/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/akaunting.svg?columns=3&header=Akaunting&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://akaunting.com/) [:octocat:](https://github.com/akaunting/akaunting) [:bookmark:](https://github.com/akaunting/akaunting/releases)
+
+<br clear="right"/>
+
+
 #### Denaro
 <a href="https://repology.org/project/denaro/versions">
     <img src="https://repology.org/badge/vertical-allrepos/denaro.svg?columns=3&header=Denaro&exclude_unsupported=1" alt="Packaging status" align="right">
