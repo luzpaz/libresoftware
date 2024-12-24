@@ -23,7 +23,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/fenics.svg?columns=3&header=fenics&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:]() [:octocat:]() [:bookmark:]()
+[:house:](https://fenicsproject.org/) [:octocat:]() [:bookmark:]()
 <br />
 [![Packaging status](https://repology.org/badge/tiny-repos/fenics.svg)](https://repology.org/project/fenics/versions)
 <br clear="right"/>
