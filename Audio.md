@@ -307,6 +307,15 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/jamulus.svg)](https://repology.org/project/jamulus/versions)
 <br clear="right"/>
 
+#### Navidrome
+<a href="https://repology.org/project/navidrome/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/navidrome.svg?columns=3&header=Navidrome&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.navidrome.org/) [:octocat:](https://github.com/navidrome/navidrome) [:bookmark:](https://github.com/navidrome/navidrome/releases)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/navidrome.svg)](https://repology.org/project/navidrome/versions)
+<br clear="right"/>
+
 #### OBS-Studio
 <a href="https://repology.org/project/obs-studio/versions">
     <img src="https://repology.org/badge/vertical-allrepos/obs-studio.svg?columns=3&header=OBS-Studio&exclude_unsupported=1" alt="Packaging status" align="right">
