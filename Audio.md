@@ -317,6 +317,15 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/jamulus.svg)](https://repology.org/project/jamulus/versions)
 <br clear="right"/>
 
+#### koel
+<a href="https://repology.org/project/koel/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/koel.svg?columns=3&header=koel&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://koel.dev) [:octocat:](https://github.com/koel/koel) [:bookmark:](https://github.com/koel/koel/releases)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/koel.svg)](https://repology.org/project/koel/versions)
+<br clear="right"/>
+
 #### Navidrome
 <a href="https://repology.org/project/navidrome/versions">
     <img src="https://repology.org/badge/vertical-allrepos/navidrome.svg?columns=3&header=Navidrome&exclude_unsupported=1" alt="Packaging status" align="right">
