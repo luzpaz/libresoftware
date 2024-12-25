@@ -270,6 +270,16 @@ https://github.com/supercollider/supercollider
 
 ### Audio/Video Streaming
 
+#### Ampache
+<a href="https://repology.org/project/ampache/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ampache.svg?columns=3&header=Ampache&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.ampache.org/) [:octocat:](https://github.com/ampache/ampache) [:bookmark:](https://github.com/ampache/ampache/blob/develop/docs/CHANGELOG.md)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/ampache.svg)](https://repology.org/project/ampache/versions)
+<br clear="right"/>
+
+
 #### butt
 <a href="https://repology.org/project/butt/versions">
     <img src="https://repology.org/badge/vertical-allrepos/butt.svg?columns=3&header=butt&exclude_unsupported=1" alt="Packaging status" align="right">
