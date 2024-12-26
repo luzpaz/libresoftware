@@ -18,6 +18,16 @@
 
 <br clear="right"/>
 
+#### Blender for Artists
+<a href="https://repology.org/project/bforartists/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/bforartists.svg?columns=3&header=bforartists&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.bforartists.de/) [:octocat:](https://github.com/Bforartists/Bforartists) [:bookmark:](https://github.com/Bforartists/Bforartists/releases)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/bforartists.svg)](https://repology.org/project/bforartists/versions)
+<br clear="right"/>
+
 #### Kdenlive
 <a href="https://repology.org/project/kdenlive/versions">
     <img src="https://repology.org/badge/vertical-allrepos/kdenlive.svg?columns=3&header=Kdenlive&exclude_unsupported=1" alt="Packaging status" align="right">
