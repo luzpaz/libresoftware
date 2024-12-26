@@ -36,6 +36,16 @@
 
 <br clear="right"/>
 
+#### LiVES
+<a href="https://repology.org/project/lives/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/lives.svg?columns=3&header=LiVES&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://lives-video.com/) [:octocat:](https://github.com/salsaman/LiVES) [:bookmark:](https://github.com/salsaman/LiVES/blob/LiVES-4.0/ChangeLog)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/lives.svg)](https://repology.org/project/lives/versions)
+<br clear="right"/>
+
 #### LosslessCut
 <a href="https://repology.org/project/losslesscut/versions">
     <img src="https://repology.org/badge/vertical-allrepos/losslesscut.svg?columns=3&header=Natron&exclude_unsupported=1" alt="Packaging status" align="right">
