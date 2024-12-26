@@ -36,6 +36,14 @@
 
 <br clear="right"/>
 
+#### LosslessCut
+<a href="https://repology.org/project/losslesscut/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/losslesscut.svg?columns=3&header=Natron&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://mifi.no/losslesscut/) [:octocat:](https://github.com/mifi/lossless-cut/) [:bookmark:](https://github.com/mifi/lossless-cut/releases)
+<br clear="right"/>
+
 #### MediaEditor
 <a href="https://repology.org/project/mediaeditor/versions">
     <img src="https://repology.org/badge/vertical-allrepos/mediaeditor.svg?columns=3&header=MediaEditor&exclude_unsupported=1" alt="Packaging status" align="right">
