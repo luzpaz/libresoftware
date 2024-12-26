@@ -82,6 +82,16 @@
 
 <br clear="right"/>
 
+#### Olive
+<a href="https://repology.org/project/olive-video-editor/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/olive-video-editor.svg?columns=3&header=Olive&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://olivevideoeditor.org/) [:octocat:](https://github.com/olive-editor/olive) [:bookmark:](https://github.com/olive-editor/olive/tags)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/olive-video-editor.svg)](https://repology.org/project/olive-video-editor/versions)
+<br clear="right"/>
+
 #### Openshot
 <a href="https://repology.org/project/openshot/versions">
     <img src="https://repology.org/badge/vertical-allrepos/openshot.svg?columns=3&header=Openshot&exclude_unsupported=1" alt="Packaging status" align="right">
