@@ -109,6 +109,16 @@
 
 <br clear="right"/>
 
+#### VidCutter
+<a href="https://repology.org/project/vidcutter/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/vidcutter.svg?columns=3&header=VidCutter&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://vidcutter.ozmartians.com/) [:octocat:](https://github.com/ozmartian/vidcutter) [:bookmark:](https://github.com/ozmartian/vidcutter/blob/master/CHANGELOG)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/vidcutter.svg)](https://repology.org/project/vidcutter/versions)
+<br clear="right"/>
+
 #### Vidiot
 <a href="https://repology.org/project/vidiot/versions">
     <img src="https://repology.org/badge/vertical-allrepos/vidiot.svg?columns=3&header=Vidiot&exclude_unsupported=1" alt="Packaging status" align="right">
