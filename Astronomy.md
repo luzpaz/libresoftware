@@ -3,8 +3,9 @@
     <img src="https://repology.org/badge/vertical-allrepos/astap.svg?columns=3&header=astap&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://www.hnsky.org/astap) [:octocat:]() [:bookmark:]()
+[:house:](https://www.hnsky.org/astap.htm) [:octocat:](https://sourceforge.net/p/astap-program/code/ci/default/tree/) [:bookmark:](https://www.hnsky.org/history_astap.htm)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/astap.svg)](https://repology.org/project/astap/versions)
 <br clear="right"/>
 
 #### calcmysky
@@ -14,6 +15,7 @@
 
 [:house:](https://github.com/10110111/CalcMySky) [:octocat:](https://github.com/10110111/CalcMySky) [:bookmark:](https://github.com/10110111/CalcMySky/releases)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/calcmysky.svg)](https://repology.org/project/calcmysky/versions)
 <br clear="right"/>
 
 #### ccdciel
@@ -23,6 +25,7 @@
 
 [:house:](https://www.ap-i.net/ccdciel) [:octocat:](https://github.com/pchev/ccdciel) [:bookmark:](https://github.com/pchev/ccdciel/tags)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/ccdciel.svg)](https://repology.org/project/ccdciel/versions)
 <br clear="right"/>
 
 #### cosmonium
@@ -32,6 +35,7 @@
 
 [:house:](https://github.com/cosmonium/cosmonium/wiki) [:octocat:](https://github.com/cosmonium/cosmonium) [:bookmark:](https://github.com/cosmonium/cosmonium/wiki/Changelog)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/cosmonium.svg)](https://repology.org/project/cosmonium/versions)
 <br clear="right"/>
 
 #### gaiasky
@@ -41,6 +45,7 @@
 
 [:house:](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky) [:octocat:](https://codeberg.org/gaiasky/gaiasky) [:bookmark:](https://gitlab.com/gaiasky/gaiasky/-/blob/master/CHANGELOG.md)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/gaiasky.svg)](https://repology.org/project/gaiasky/versions)
 <br clear="right"/>
 
 #### gnuastro
@@ -50,6 +55,7 @@
 
 [:house:](https://www.gnu.org/software/gnuastro/) [:octocat:](https://git.savannah.gnu.org/cgit/gnuastro.git/tree/) [:bookmark:](https://git.savannah.gnu.org/cgit/gnuastro.git/tree/NEWS)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/gnuastro.svg)](https://repology.org/project/gnuastro/versions)
 <br clear="right"/>
 
 #### INDI
@@ -59,6 +65,7 @@
 
 [:house:](https://www.indilib.org/) [:octocat:](https://github.com/indilib/indi) [:bookmark:](https://github.com/indilib/indi/blob/master/ChangeLog)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/indilib.svg)](https://repology.org/project/indilib/versions)
 <br clear="right"/>
 
 #### kosmorro
@@ -68,6 +75,7 @@
 
 [:house:](https://kosmorro.space/) [:octocat:](https://github.com/Kosmorro/kosmorro) [:bookmark:](https://github.com/Kosmorro/kosmorro/blob/master/CHANGELOG.md)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/kosmorro.svg)](https://repology.org/project/kosmorro/versions)
 <br clear="right"/>
 
 #### kStars
@@ -77,6 +85,7 @@
 
 [:house:](https://edu.kde.org/kstars) [:octocat:](https://invent.kde.org/education/kstars) [:bookmark:](https://invent.kde.org/education/kstars/-/blob/master/ChangeLog)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/kstars.svg)](https://repology.org/project/kstars/versions)
 <br clear="right"/>
 
 #### Siril
@@ -86,6 +95,7 @@
 
 [:house:](https://siril.org/) [:octocat:](https://gitlab.com/free-astro/siril) [:bookmark:](https://gitlab.com/free-astro/siril/-/blob/master/ChangeLog)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/siril.svg)](https://repology.org/project/siril/versions)
 <br clear="right"/>
 
 #### Stellarium
@@ -95,6 +105,7 @@
 
 [:house:](https://www.stellarium.org/) [:octocat:](https://github.com/Stellarium/stellarium/) [:bookmark:](https://github.com/Stellarium/stellarium/blob/master/ChangeLog)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/stellarium.svg)](https://repology.org/project/stellarium/versions)
 <br clear="right"/>
 
 #### StellarSolver
@@ -104,6 +115,7 @@
 
 [:house:](https://github.com/rlancaste/stellarsolver) [:octocat:](https://github.com/rlancaste/stellarsolver) [:bookmark:](https://github.com/rlancaste/stellarsolver/releases)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/stellarsolver.svg)](https://repology.org/project/stellarsolver/versions)
 <br clear="right"/>
 
 #### xplanet
@@ -113,6 +125,7 @@
 
 [:house:](https://xplanet.sourceforge.net/) [:octocat:](https://sourceforge.net/p/xplanet/code/HEAD/tree/trunk/) [:bookmark:](https://sourceforge.net/p/xplanet/activity/feed)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/xplanet.svg)](https://repology.org/project/xplanet/versions)
 <br clear="right"/>
 
 #### XEphem
@@ -122,6 +135,7 @@
 
 [:house:](https://xephem.github.io/XEphem/Site/xephem.html) [:octocat:](https://github.com/XEphem/XEphem) [:bookmark:](https://xephem.github.io/XEphem/Site/changes.html)
 
+[![Packaging status](https://repology.org/badge/tiny-repos/xephem.svg)](https://repology.org/project/xephem/versions)
 <br clear="right"/>
 
 
