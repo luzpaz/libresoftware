@@ -3,8 +3,8 @@
     <img src="https://repology.org/badge/vertical-allrepos/calculix-ccx.svg?columns=3&header=CalculiX-ccx&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:]() [:octocat:]() [:bookmark:]()
-<br />
+[:house:](https://www.calculix.de/) [:octocat:](https://github.com/Dhondtguido/CalculiX) [:bookmark:](http://www.dhondt.de/new_calc.htm)
+
 [![Packaging status](https://repology.org/badge/tiny-repos/calculix-ccx.svg)](https://repology.org/project/calculix-ccx/versions)
 <br clear="right"/>
 
@@ -38,14 +38,14 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/feenox.svg)](https://repology.org/project/feenox/versions)
 <br clear="right"/>
 
-#### netget-mesher
-<a href="https://repology.org/project/netget-mesher/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/netget-mesher.svg?columns=3&header=netget-mesher&exclude_unsupported=1" alt="Packaging status" align="right">
+#### netgen-mesher
+<a href="https://repology.org/project/netgen-mesher/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/netgen-mesher.svg?columns=3&header=netgen-mesher&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:]() [:octocat:]() [:bookmark:]()
+[:house:](https://ngsolve.org/) [:octocat:](https://github.com/NGSolve/netgen) [:bookmark:](https://github.com/NGSolve/netgen/releases)
 <br />
-[![Packaging status](https://repology.org/badge/tiny-repos/netget-mesher.svg)](https://repology.org/project/netget-mesher/versions)
+[![Packaging status](https://repology.org/badge/tiny-repos/netgen-mesher.svg)](https://repology.org/project/netgen-mesher/versions)
 <br clear="right"/>
 
 #### z88
