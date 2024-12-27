@@ -379,6 +379,17 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/ogre.svg)](https://repology.org/project/ogre/versions)
 <br clear="right"/>
 
+#### Ogre-Next
+<a href="https://repology.org/project/ogre-next/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/ogre-next.svg?columns=3&header=Ogre-Next&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://ogrecave.github.io/ogre-next/api/latest) [:octocat:](https://github.com/OGRECave/ogre-next) [:bookmark:](https://github.com/OGRECave/ogre-next/releases)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/ogre-next.svg)](https://repology.org/project/ogre-next/versions)
+<br clear="right"/>
+
+
 ----
 
 #### QGIS
