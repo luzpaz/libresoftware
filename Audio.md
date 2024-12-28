@@ -212,6 +212,15 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/bespokesynth.svg)](https://repology.org/project/bespokesynth/versions)
 <br clear="right"/>
 
+#### FamiStudio
+<a href="https://repology.org/project/famistudio/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/famistudio.svg?columns=3&header=FamiStudio&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://famistudio.org/) [:octocat:](https://github.com/BleuBleu/FamiStudio) [:bookmark:](https://github.com/BleuBleu/FamiStudio/blob/master/Docs/docs/changelog.md)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/famistudio.svg)](https://repology.org/project/famistudio/versions)
+<br clear="right"/>
+
 #### FluidSynth
 <a href="https://repology.org/project/fluidsynth/versions">
     <img src="https://repology.org/badge/vertical-allrepos/fluidsynth.svg?columns=3&header=fluidsynth&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -219,6 +228,15 @@ https://github.com/supercollider/supercollider
 
 [:house:](https://fluidsynth.org) [:octocat:](https://github.com/FluidSynth/fluidsynth) [:bookmark:](https://github.com/FluidSynth/fluidsynth/releases/)
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/fluidsynth.svg)](https://repology.org/project/fluidsynth/versions)
+<br clear="right"/>
+
+#### LSP Plugins
+<a href="https://repology.org/project/lsp-plugins/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/lsp-plugins.svg?columns=3&header=LSP-Plugins&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://lsp-plug.in/) [:octocat:](https://lsp-plug.in/) [:bookmark:](https://github.com/lsp-plugins/lsp-plugins/blob/master/CHANGELOG)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/lsp-plugins.svg)](https://repology.org/project/lsp-plugins/versions)
 <br clear="right"/>
 
 #### mixxx
