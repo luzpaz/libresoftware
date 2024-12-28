@@ -89,6 +89,16 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/gmic.svg)](https://repology.org/project/gmic/versions)
 <br clear="right"/>
 
+#### HDRview
+<a href="https://repology.org/project/hdrview/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/hdrview.svg?columns=3&header=HDRview&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/wkjarosz/hdrview) [:octocat:](https://github.com/wkjarosz/hdrview) [:bookmark:](https://github.com/wkjarosz/hdrview/releases)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/hdrview.svg)](https://repology.org/project/hdrview/versions)
+<br clear="right"/>
+
 #### imagemagick
 <a href="https://repology.org/project/imagemagick/versions">
     <img src="https://repology.org/badge/vertical-allrepos/imagemagick.svg?columns=3&header=imagemagick&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -157,6 +167,16 @@
 [:house:](https://synfig.org) [:octocat:](https://github.com/synfig/synfig) [:bookmark:](https://github.com/synfig/synfig/blob/master/ChangeLog-development.md)
 <br />
 [![Packaging status](https://repology.org/badge/tiny-repos/synfig.svg)](https://repology.org/project/synfig/versions)
+<br clear="right"/>
+
+#### Tahoma2D
+<a href="https://repology.org/project/tahoma2d/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/tahoma2d.svg?columns=3&header=Tahoma2D&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://tahoma2d.org/) [:octocat:](https://github.com/tahoma2d/tahoma2d) [:bookmark:](https://tahoma2d.readthedocs.io/en/latest/whats_new.html)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/tahoma2d.svg)](https://repology.org/project/tahoma2d/versions)
 <br clear="right"/>
 
 ----
