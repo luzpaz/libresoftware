@@ -235,7 +235,7 @@ https://github.com/supercollider/supercollider
     <img src="https://repology.org/badge/vertical-allrepos/lsp-plugins.svg?columns=3&header=LSP-Plugins&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://lsp-plug.in/) [:octocat:](https://lsp-plug.in/) [:bookmark:](https://github.com/lsp-plugins/lsp-plugins/blob/master/CHANGELOG)
+[:house:](https://lsp-plug.in/) [:octocat:](https://github.com/lsp-plugins/lsp-plugins) [:bookmark:](https://github.com/lsp-plugins/lsp-plugins/blob/master/CHANGELOG)
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/lsp-plugins.svg)](https://repology.org/project/lsp-plugins/versions)
 <br clear="right"/>
 
