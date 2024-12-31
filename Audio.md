@@ -591,6 +591,16 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/opus.svg)](https://repology.org/project/opus/versions)
 <br clear="right"/>
 
+#### Overwitch
+<a href="https://repology.org/project/overwitch/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/overwitch.svg?columns=3&header=Overwitch&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://dagargo.github.io/overwitch/) [:octocat:](https://github.com/dagargo/overwitch) [:bookmark:](https://github.com/dagargo/overwitch/releases)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/overwitch.svg)](https://repology.org/project/overwitch/versions)
+<br clear="right"/>
+
+
 #### Picard
 <a href="https://repology.org/project/picard-tagger/versions">
     <img src="https://repology.org/badge/vertical-allrepos/picard-tagger.svg?columns=3&header=Picard&exclude_unsupported=1" alt="Packaging status" align="right">
