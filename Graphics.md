@@ -139,16 +139,25 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/lightzone.svg)](https://repology.org/project/lightzone/versions)
 <br clear="right"/>
 
+#### MFEKglif
+<a href="https://repology.org/project/mfek-glif/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/mfek-glif.svg?columns=3&header=MFEKglif&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/MFEK/glif) [:octocat:](https://github.com/MFEK/glif) [:bookmark:](https://github.com/MFEK/glif/releases)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/mfek-glif.svg)](https://repology.org/project/mfek-glif/versions)
+<br clear="right"/>
+
 #### OpenMoonray
-<a href="https://repology.org/project/openmoonray/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/openmoonray.svg?columns=3&header=OpenMoonray&exclude_unsupported=1" alt="Packaging status" align="right">
+<a href="https://repology.org/project/moonray/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/moonray.svg?columns=3&header=OpenMoonray&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://openmoonray.org/) [:octocat:](https://github.com/dreamworksanimation/openmoonray) [:bookmark:](https://github.com/dreamworksanimation/openmoonray/releases)
 <br />
-[![Packaging status](https://repology.org/badge/tiny-repos/openmoonray.svg)](https://repology.org/project/openmoonray/versions)
+[![Packaging status](https://repology.org/badge/tiny-repos/moonray.svg)](https://repology.org/project/moonray/versions)
 <br clear="right"/>
-
 
 #### OpenToonz
 <a href="https://repology.org/project/opentoonz/versions">
