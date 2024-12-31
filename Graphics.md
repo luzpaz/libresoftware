@@ -378,6 +378,17 @@
 
 ----
 
+#### ArmorPaint
+<a href="https://repology.org/project/armorpaint/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/armorpaint.svg?columns=3&header=ArmorPaint&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://armorpaint.org/) [:octocat:](https://github.com/armory3d/armortools) [:bookmark:](https://armorpaint.org/notes)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/armorpaint.svg)](https://repology.org/project/armorpaint/versions)
+<br clear="right"/>
+
+
 #### Godot
 <a href="https://repology.org/project/godot/versions">
     <img src="https://repology.org/badge/vertical-allrepos/godot.svg?columns=3&header=Godot&exclude_unsupported=1" alt="Packaging status" align="right">
