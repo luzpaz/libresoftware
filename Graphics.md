@@ -139,17 +139,28 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/lightzone.svg)](https://repology.org/project/lightzone/versions)
 <br clear="right"/>
 
+#### OpenMoonray
+<a href="https://repology.org/project/openmoonray/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/openmoonray.svg?columns=3&header=OpenMoonray&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://openmoonray.org/) [:octocat:](https://github.com/dreamworksanimation/openmoonray) [:bookmark:](https://github.com/dreamworksanimation/openmoonray/releases)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/openmoonray.svg)](https://repology.org/project/openmoonray/versions)
+<br clear="right"/>
+
+
 #### OpenToonz
 <a href="https://repology.org/project/opentoonz/versions">
     <img src="https://repology.org/badge/vertical-allrepos/opentoonz.svg?columns=3&header=OpenToonz&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://opentoonz.github.io/e) [:octocat:](https://https://github.com/opentoonz/opentoonz) [:bookmark:](https://opentoonz.readthedocs.io/en/latest/whats_new.html#)
+[:house:](https://opentoonz.github.io/e) [:octocat:](https://github.com/opentoonz/opentoonz) [:bookmark:](https://opentoonz.readthedocs.io/en/latest/whats_new.html#)
 <br />
 [![Packaging status](https://repology.org/badge/tiny-repos/opentoonz.svg)](https://repology.org/project/opentoonz/versions)
 <br clear="right"/>
 
-#### rawtherapee
+#### RawTherapee
 <a href="https://repology.org/project/rawtherapee/versions">
     <img src="https://repology.org/badge/vertical-allrepos/rawtherapee.svg?columns=3&header=rawtherapee&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
