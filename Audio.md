@@ -483,6 +483,15 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/eko.svg)](https://repology.org/project/eko/versions)
 <br clear="right"/>
 
+#### Elektroid
+<a href="https://repology.org/project/elektroid/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/elektroid.svg?columns=3&header=Elektroid&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://dagargo.github.io/elektroid/) [:octocat:](https://github.com/dagargo/elektroid) [:bookmark:](https://github.com/dagargo/elektroid/releases)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/elektroid.svg)](https://repology.org/project/elektroid/versions)
+<br clear="right"/>
+
 #### element
 <a href="https://repology.org/project/element-audio-plugin-host/versions">
     <img src="https://repology.org/badge/vertical-allrepos/element-audio-plugin-host.svg?columns=3&header=element&exclude_unsupported=1" alt="Packaging status" align="right">
