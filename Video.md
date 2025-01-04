@@ -162,8 +162,9 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/handbrake.svg)](https://repology.org/project/handbrake/versions)
 <br clear="right"/>
 
-<details>
-  <summary><b>Dependencies</b></summary>
+### Dependencies
+
+#### MLT
 <a href="https://repology.org/project/mlt/versions">
     <img src="https://repology.org/badge/vertical-allrepos/mlt.svg?columns=3&header=mlt&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
@@ -173,8 +174,7 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/mlt.svg)](https://repology.org/project/mlt/versions)
 <br clear="right"/>
 
-----
-
+#### ffmpeg
 <a href="https://repology.org/project/ffmpeg/versions">
     <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg?columns=3&header=ffmpeg&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
@@ -184,41 +184,7 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/ffmpeg.svg)](https://repology.org/project/ffmpeg/versions)
 <br clear="right"/>
 
-----
-
-<a href="https://repology.org/project/libsamplerate/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/libsamplerate.svg?columns=3&header=libsamplerate&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](http://libsndfile.github.io/libsamplerate/) [:octocat:](https://github.com/erikd/libsamplerate) [:bookmark:](https://github.com/libsndfile/libsamplerate/blob/master/NEWS)
-
-[![Packaging status](https://repology.org/badge/tiny-repos/libsamplerate.svg)](https://repology.org/project/libsamplerate/versions)
-<br clear="right"/>
-
-----
-
-<a href="https://repology.org/project/libsndfile/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/libsndfile.svg?columns=3&header=libsndfile&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](https://libsndfile.github.io/libsndfile/) [:octocat:](https://github.com/libsndfile/libsndfile) [:bookmark:](https://github.com/libsndfile/libsndfile/blob/master/CHANGELOG.md)
-
-[![Packaging status](https://repology.org/badge/tiny-repos/libsndfile.svg)](https://repology.org/project/libsndfile/versions)
-<br clear="right"/>
-
-----
-
-<a href="https://repology.org/project/libsoundio/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/libsoundio.svg?columns=3&header=libsoundio&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](http://libsound.io/) [:octocat:](https://github.com/andrewrk/libsoundio) [:bookmark:]()
-
-[![Packaging status](https://repology.org/badge/tiny-repos/libsoundio.svg)](https://repology.org/project/libsoundio/versions)
-<br clear="right"/>
-
-----
-
+#### fftw
 <a href="https://repology.org/project/fftw/versions">
     <img src="https://repology.org/badge/vertical-allrepos/fftw.svg?columns=3&header=fftw&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
@@ -228,8 +194,7 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/fftw.svg)](https://repology.org/project/fftw/versions)
 <br clear="right"/>
 
-----
-
+#### Gstreamer
 <a href="https://repology.org/project/gstreamer/versions">
     <img src="https://repology.org/badge/vertical-allrepos/gstreamer.svg?columns=3&header=gstreamer&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
@@ -239,7 +204,46 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/gstreamer.svg)](https://repology.org/project/gstreamer/versions)
 <br clear="right"/>
 
-</details>
+
+#### libsamplerate
+<a href="https://repology.org/project/libsamplerate/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/libsamplerate.svg?columns=3&header=libsamplerate&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://libsndfile.github.io/libsamplerate/) [:octocat:](https://github.com/erikd/libsamplerate) [:bookmark:](https://github.com/libsndfile/libsamplerate/blob/master/NEWS)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/libsamplerate.svg)](https://repology.org/project/libsamplerate/versions)
+<br clear="right"/>
+
+#### libsndfile
+<a href="https://repology.org/project/libsndfile/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/libsndfile.svg?columns=3&header=libsndfile&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://libsndfile.github.io/libsndfile/) [:octocat:](https://github.com/libsndfile/libsndfile) [:bookmark:](https://github.com/libsndfile/libsndfile/blob/master/CHANGELOG.md)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/libsndfile.svg)](https://repology.org/project/libsndfile/versions)
+<br clear="right"/>
+
+#### libsoundio
+<a href="https://repology.org/project/libsoundio/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/libsoundio.svg?columns=3&header=libsoundio&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://libsound.io/) [:octocat:](https://github.com/andrewrk/libsoundio) [:bookmark:]()
+
+[![Packaging status](https://repology.org/badge/tiny-repos/libsoundio.svg)](https://repology.org/project/libsoundio/versions)
+<br clear="right"/>
+
+#### Movit
+<a href="https://repology.org/project/movit/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/movit.svg?columns=3&header=Movit&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://movit.sesse.net/) [:octocat:](http://git.sesse.net/?p=movit) [:bookmark:](https://git.sesse.net/?p=movit;a=blob;f=NEWS)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/movit.svg)](https://repology.org/project/movit/versions)
+<br clear="right"/>
 
 ----
 
@@ -249,8 +253,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/celluloid.svg?columns=3&header=Celluloid&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
-[:house:](https://celluloid-player.github.io/) [:octocat:](https://github.com/celluloid-player/celluloid) [:bookmark:](https://github.com/celluloid-player/celluloid/releases)<br />
-[![Packaging status](https://repology.org/badge/tiny-repos/celluloid.svg)](https://repology.org/project/celluloid/versions)
+[:house:](https://celluloid-player.github.io/) [:octocat:](https://github.com/celluloid-player/celluloid) [:bookmark:](https://github.com/celluloid-player/celluloid/releases)
 
 [![Packaging status](https://repology.org/badge/tiny-repos/celluloid.svg)](https://repology.org/project/celluloid/versions)
 <br clear="right"/>
