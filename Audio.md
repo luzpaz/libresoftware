@@ -664,15 +664,6 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/rubberband.svg)](https://repology.org/project/rubberband/versions)
 <br clear="right"/>
 
-#### snd
-<a href="https://repology.org/project/snd/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/snd.svg?columns=3&header=snd&exclude_unsupported=1" alt="Packaging status" align="right">
-</a>
-
-[:house:](https://ccrma.stanford.edu/software/snd/) [:octocat:](https://sourceforge.net/p/snd/svn1/HEAD/tree/trunk/) [:bookmark:](https://sourceforge.net/p/snd/svn1/HEAD/tree/trunk/NEWS)
-<br>[![Packaging status](https://repology.org/badge/tiny-repos/snd.svg)](https://repology.org/project/snd/versions)
-<br clear="right"/>
-
 #### Seq66
 <a href="https://repology.org/project/seq66/versions">
     <img src="https://repology.org/badge/vertical-allrepos/seq66.svg?columns=3&header=Seq66&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -691,6 +682,15 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/sfizz.svg)](https://repology.org/project/sfizz/versions)
 <br clear="right"/>
 
+#### snd
+<a href="https://repology.org/project/snd/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/snd.svg?columns=3&header=snd&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://ccrma.stanford.edu/software/snd/) [:octocat:](https://sourceforge.net/p/snd/svn1/HEAD/tree/trunk/) [:bookmark:](https://sourceforge.net/p/snd/svn1/HEAD/tree/trunk/NEWS)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/snd.svg)](https://repology.org/project/snd/versions)
+<br clear="right"/>
+
 #### sonicvisualiser
 <a href="https://repology.org/project/sonic-visualiser/versions">
     <img src="https://repology.org/badge/vertical-allrepos/sonic-visualiser.svg?columns=3&header=sonicvisualiser&exclude_unsupported=1" alt="Packaging status" align="right">
@@ -698,6 +698,25 @@ https://github.com/supercollider/supercollider
 
 [:house:](https://www.sonicvisualiser.org/) [:octocat:](https://github.com/sonic-visualiser/sonic-visualiser) [:bookmark:](https://github.com/sonic-visualiser/sonic-visualiser/blob/default/CHANGELOG)
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/onic-visualiser.svg)](https://repology.org/project/onic-visualiser/versions)
+<br clear="right"/>
+
+#### sox
+<a href="https://repology.org/project/sox/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/sox.svg?columns=3&header=sox&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://sourceforge.net/projects/sox/) [:octocat:](https://sourceforge.net/p/sox/code/ci/master/tree/) [:bookmark:](https://sourceforge.net/p/sox/code/ci/master/tree/)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/sox.svg)](https://repology.org/project/sox/versions)
+<br clear="right"/>
+
+
+#### sox-ng
+<a href="https://repology.org/project/sox-ng/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/sox-ng.svg?columns=3&header=sox-ng&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://codeberg.org/sox_ng/sox_ng) [:octocat:](https://codeberg.org/sox_ng/sox_ng) [:bookmark:](https://codeberg.org/sox_ng/sox_ng/src/branch/main/ChangeLog)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/sox-ng.svg)](https://repology.org/project/sox-ng/versions)
 <br clear="right"/>
 
 
