@@ -832,6 +832,16 @@ https://github.com/supercollider/supercollider
 <br>[![Packaging status](https://repology.org/badge/tiny-repos/mumble.svg)](https://repology.org/project/mumble/versions)
 <br clear="right"/>
 
+### Network
+
+#### Snapcast
+<a href="https://repology.org/project/snapcast/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/snapcast.svg?columns=3&header=Snapcast&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/badaix/snapcast) [:octocat:](https://github.com/badaix/snapcast) [:bookmark:](https://github.com/badaix/snapcast/blob/develop/changelog.md)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/snapcast.svg)](https://repology.org/project/snapcast/versions)
+<br clear="right"/>
 
 ### HAM Radio
 
