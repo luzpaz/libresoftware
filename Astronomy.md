@@ -98,6 +98,16 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/siril.svg)](https://repology.org/project/siril/versions)
 <br clear="right"/>
 
+#### SkyChart
+<a href="https://repology.org/project/skychart/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/skychart.svg?columns=3&header=skychart&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.ap-i.net/skychart/) [:octocat:](https://github.com/pchev/skychart) [:bookmark:](http://www.ap-i.net/mantis/changelog_page.php)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/skychart.svg)](https://repology.org/project/skychart/versions)
+<br clear="right"/>
+
 #### Stellarium
 <a href="https://repology.org/project/stellarium/versions">
     <img src="https://repology.org/badge/vertical-allrepos/stellarium.svg?columns=3&header=Stellarium&exclude_unsupported=1" alt="Packaging status" align="right">
