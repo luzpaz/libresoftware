@@ -68,6 +68,17 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/indilib.svg)](https://repology.org/project/indilib/versions)
 <br clear="right"/>
 
+#### INDI starter
+<a href="https://repology.org/project/indistarter/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/indistarter.svg?columns=3&header=indistarter&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](http://indistarter.sourceforge.net/) [:octocat:](https://github.com/pchev/indistarter) [:bookmark:](https://github.com/pchev/indistarter)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/indistarter.svg)](https://repology.org/project/indistarter/versions)
+<br clear="right"/>
+
+
 #### kosmorro
 <a href="https://repology.org/project/kosmorro/versions">
     <img src="https://repology.org/badge/vertical-allrepos/kosmorro.svg?columns=3&header=darktable&exclude_unsupported=1" alt="Packaging status" align="right">
