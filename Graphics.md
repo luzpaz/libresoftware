@@ -169,6 +169,17 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/opentoonz.svg)](https://repology.org/project/opentoonz/versions)
 <br clear="right"/>
 
+#### Pinta
+<a href="https://repology.org/project/pinta/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/pinta.svg?columns=3&header=Pinta&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.pinta-project.com/) [:octocat:](https://git.launchpad.net/pinta/tree/) [:bookmark:](https://git.launchpad.net/pinta/tree/CHANGELOG.md)
+<br />
+[![Packaging status](https://repology.org/badge/tiny-repos/pinta.svg)](https://repology.org/project/pinta/versions)
+<br clear="right"/>
+
+
 #### RawTherapee
 <a href="https://repology.org/project/rawtherapee/versions">
     <img src="https://repology.org/badge/vertical-allrepos/rawtherapee.svg?columns=3&header=rawtherapee&exclude_unsupported=1" alt="Packaging status" align="right">
