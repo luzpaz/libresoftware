@@ -8,6 +8,16 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/astap.svg)](https://repology.org/project/astap/versions)
 <br clear="right"/>
 
+#### astroterm
+<a href="https://repology.org/project/astroterm/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/astroterm.svg?columns=3&header=astroterm&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://github.com/da-luce/astroterm) [:octocat:](https://github.com/da-luce/astroterm) [:bookmark:](https://github.com/da-luce/astroterm/releases)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/astroterm.svg)](https://repology.org/project/astroterm/versions)
+<br clear="right"/>
+
 #### calcmysky
 <a href="https://repology.org/project/calcmysky/versions">
     <img src="https://repology.org/badge/vertical-allrepos/calcmysky.svg?columns=3&header=calcmysky&exclude_unsupported=1" alt="Packaging status" align="right">
