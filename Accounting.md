@@ -36,6 +36,16 @@
 
 <br clear="right"/>
 
+#### FOSSBilling
+<a href="https://repology.org/project/fossbilling/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/fossbilling.svg?columns=3&header=FOSSBilling&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://fossbilling.org) [:octocat:](https://github.com/FOSSBilling/FOSSBilling) [:bookmark:](https://fossbilling.org/docs/changelog)
+
+<br clear="right"/>
+
+
 #### gnucash
 <a href="https://repology.org/project/gnucash/versions">
     <img src="https://repology.org/badge/vertical-allrepos/gnucash.svg?columns=3&header=gnucash&exclude_unsupported=1" alt="Packaging status" align="right">
