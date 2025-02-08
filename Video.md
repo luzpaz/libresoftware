@@ -80,6 +80,17 @@
 [![Packaging status](https://repology.org/badge/tiny-repos/mediaeditor.svg)](https://repology.org/project/mediaeditor/versions)
 <br clear="right"/>
 
+#### mrv2
+<a href="https://repology.org/project/mrv2/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/mrv2.svg?columns=3&header=mrv2&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://mrv2.sourceforge.io/) [:octocat:](https://github.com/ggarra13/mrv2) [:bookmark:](https://mrv2.sourceforge.io/docs/HISTORY.md)
+
+[![Packaging status](https://repology.org/badge/tiny-repos/mrv2.svg)](https://repology.org/project/mrv2/versions)
+<br clear="right"/>
+
+
 #### Natron
 <a href="https://repology.org/project/natron/versions">
     <img src="https://repology.org/badge/vertical-allrepos/natron.svg?columns=3&header=Natron&exclude_unsupported=1" alt="Packaging status" align="right">
