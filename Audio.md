@@ -785,6 +785,15 @@ https://github.com/supercollider/supercollider
 
 ### Music Notation
 
+#### ChordPro
+<a href="https://repology.org/project/chordpro/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/chordpro.svg?columns=3&header=ChordPro&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://www.chordpro.org/) [:octocat:](https://github.com/ChordPro/chordpro) [:bookmark:](https://github.com/ChordPro/chordpro/blob/master/Changes)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/chordpro.svg)](https://repology.org/project/chordpro/versions)
+<br clear="right"/>
+
 #### Frescobaldi
 <a href="https://repology.org/project/frescobaldi/versions">
     <img src="https://repology.org/badge/vertical-allrepos/frescobaldi.svg?columns=3&header=Frescobaldi&exclude_unsupported=1" alt="Packaging status" align="right">
