@@ -693,11 +693,11 @@ https://github.com/supercollider/supercollider
 
 #### sonicvisualiser
 <a href="https://repology.org/project/sonic-visualiser/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/sonic-visualiser.svg?columns=3&header=sonicvisualiser&exclude_unsupported=1" alt="Packaging status" align="right">
+    <img src="https://repology.org/badge/vertical-allrepos/sonic-visualiser.svg?columns=3&header=SonicVisualiser&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://www.sonicvisualiser.org/) [:octocat:](https://github.com/sonic-visualiser/sonic-visualiser) [:bookmark:](https://github.com/sonic-visualiser/sonic-visualiser/blob/default/CHANGELOG)
-<br>[![Packaging status](https://repology.org/badge/tiny-repos/onic-visualiser.svg)](https://repology.org/project/onic-visualiser/versions)
+<br>[![Packaging status](https://repology.org/badge/tiny-repos/sonic-visualiser.svg)](https://repology.org/project/sonic-visualiser/versions)
 <br clear="right"/>
 
 #### sox
