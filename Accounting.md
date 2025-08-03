@@ -82,6 +82,15 @@
 
 <br clear="right"/>
 
+#### moneymanangerex
+<a href="https://repology.org/project/moneymanangerex/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/moneymanangerex.svg?columns=3&header=moneymanangerex&exclude_unsupported=1" alt="Packaging status" align="right">
+</a>
+
+[:house:](https://moneymanagerex.org/) [:octocat:](https://github.com/moneymanagerex/moneymanagerex) [:bookmark:](https://github.com/moneymanagerex/moneymanagerex/blob/master/NEWS)
+
+<br clear="right"/>
+
 #### Skrooge
 <a href="https://repology.org/project/skrooge/versions">
     <img src="https://repology.org/badge/vertical-allrepos/skrooge.svg?columns=3&header=Skrooge&exclude_unsupported=1" alt="Packaging status" align="right">
