@@ -82,9 +82,9 @@
 
 <br clear="right"/>
 
-#### moneymanangerex
-<a href="https://repology.org/project/moneymanangerex/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/moneymanangerex.svg?columns=3&header=moneymanangerex&exclude_unsupported=1" alt="Packaging status" align="right">
+#### moneymanagerex
+<a href="https://repology.org/project/moneymanagerex/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/moneymanagerex.svg?columns=3&header=moneymanagerex&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://moneymanagerex.org/) [:octocat:](https://github.com/moneymanagerex/moneymanagerex) [:bookmark:](https://github.com/moneymanagerex/moneymanagerex/blob/master/NEWS)
