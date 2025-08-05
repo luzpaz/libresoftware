@@ -61,13 +61,13 @@
 <br clear="right"/>
 
 #### LosslessCut
-<a href="https://repology.org/project/losslesscut/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/losslesscut.svg?columns=3&header=LosslessCut&exclude_unsupported=1" alt="Packaging status" align="right">
+<a href="https://repology.org/project/lossless-cut/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/lossless-cut.svg?columns=3&header=LosslessCut&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://mifi.no/losslesscut/) [:octocat:](https://github.com/mifi/lossless-cut/) [:bookmark:](https://github.com/mifi/lossless-cut/releases)
 
-[![Packaging status](https://repology.org/badge/tiny-repos/losslesscut.svg)](https://repology.org/project/losslesscut/versions)
+[![Packaging status](https://repology.org/badge/tiny-repos/lossless-cut.svg)](https://repology.org/project/lossless-cut/versions)
 <br clear="right"/>
 
 #### MediaEditor
